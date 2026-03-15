@@ -28,6 +28,7 @@
         </div>
         <h2 id="title"></h2>
         <p id="context"></p>
+        <button class="reveal-btn" id="revealBtn" type="button">Desplegar pregunta</button>
       </div>
       <div class="hero-status" id="heroStatus">
         <span class="status-badge status-current" id="statusCurrent"></span>
@@ -38,12 +39,14 @@
     </div>
 
     <div class="body">
-      <div class="question-box">
-        <h3>Pregunta original completa</h3>
-        <p id="questionPrompt"></p>
-      </div>
+      <div class="question-wrap" id="questionWrap" hidden>
+        <div class="question-box">
+          <h3>Pregunta original completa</h3>
+          <p id="questionPrompt"></p>
+        </div>
 
-      <div class="options" id="options"></div>
+        <div class="options" id="options"></div>
+      </div>
 
       <div class="feedback" id="feedback">
         <div class="result" id="resultBadge"></div>
