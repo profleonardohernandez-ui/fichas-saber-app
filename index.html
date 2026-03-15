@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fichas de estudio pruebas Saber</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app" id="app">
+  <div class="topbar">
+    <div class="brand">
+      <div class="badge">PS</div>
+      <div>
+        <h1>Fichas de estudio pruebas Saber</h1>
+        <p>Preguntas tipo Saber para análisis en clase y repaso autónomo.</p>
+      </div>
+    </div>
+    <button class="compact-btn" id="openDrawer">Explorar fichas</button>
+  </div>
+
+  <section class="slide">
+    <div class="hero">
+      <div>
+        <div class="eyebrow">
+          <span class="chip" id="chipTheme"></span>
+          <span class="chip" id="chipSource"></span>
+        </div>
+        <h2 id="title"></h2>
+        <p id="context"></p>
+      </div>
+      <div class="hero-status" id="heroStatus">
+        <span class="status-badge status-current" id="statusCurrent"></span>
+        <span class="status-badge status-good" id="statusGood"></span>
+        <span class="status-badge status-bad" id="statusBad"></span>
+        <span class="status-badge status-pending" id="statusPending"></span>
+      </div>
+    </div>
+
+    <div class="body">
+      <div class="question-box">
+        <h3>Pregunta original completa</h3>
+        <p id="questionPrompt"></p>
+      </div>
+
+      <div class="options" id="options"></div>
+
+      <div class="feedback" id="feedback">
+        <div class="result" id="resultBadge"></div>
+        <p id="feedbackMain"></p>
+        <p id="feedbackSide"></p>
+        <div class="feedback-actions">
+          <button class="mini-btn warn" id="retryBtn">↺ Reintentar esta ficha</button>
+        </div>
+      </div>
+
+      <div class="rating" id="rating">
+        <button data-rate="hard">Me costó</button>
+        <button data-rate="ok">Ya casi</button>
+        <button data-rate="easy">La tengo clara</button>
+      </div>
+
+      <div class="extra" id="extra">
+        <h3>Lectura pedagógica</h3>
+                <p id="analysis"></p>
+        <p id="distractors"></p>
+        <div class="glossary" id="glossary"></div>
+      </div>
+
+      <div class="scheme" id="scheme">
+        <h3>Esquema visual de apoyo</h3>
+        <div class="scheme-box" id="schemeBox"></div>
+      </div>
+    </div>
+
+    <div class="nav">
+      <button class="mini-btn" id="prevBtn">← Anterior</button>
+      <div>
+        <div class="counter" id="counter"></div>
+        <div class="dots" id="dots"></div>
+      </div>
+      <button class="mini-btn" id="smartBtn">Repaso inteligente</button>
+      <button class="mini-btn" id="nextBtn">Siguiente →</button>
+    </div>
+  </section>
+</div>
+
+<div class="drawer" id="drawer">
+  <div class="panel">
+    <div style="display:flex;justify-content:space-between;gap:12px;align-items:center;">
+      <h3>Explorar fichas</h3>
+      <button class="mini-btn" id="closeDrawer">Cerrar</button>
+    </div>
+    <p style="color:var(--muted);line-height:1.6;margin-top:0;">Aquí puedes filtrar la secuencia y saltar directamente a cualquier ficha.</p>
+    <div class="filter-grid">
+      <div>
+        <label for="search">Buscar</label>
+        <input id="search" placeholder="Ej.: Congreso, igualdad, voto..." />
+      </div>
+      <div>
+        <label for="themeFilter">Subtema</label>
+        <select id="themeFilter"></select>
+      </div>
+      <div>
+        <label for="gradeFilter">Grado</label>
+        <select id="gradeFilter"></select>
+      </div>
+      <div>
+        <label for="yearFilter">Año</label>
+        <select id="yearFilter"></select>
+      </div>
+    </div>
+    <div class="mini-list" id="miniList"></div>
+  </div>
+</div>
+<script src="database.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
