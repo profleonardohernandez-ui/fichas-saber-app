@@ -8,7 +8,8 @@ const state = {
   theme: "Todos",
   grade: "Todos",
   year: "Todos",
-  active: null
+  active: null,
+  revealed: false
 };
 try {
   const saved = JSON.parse(localStorage.getItem(STORE) || "{}");
@@ -70,6 +71,7 @@ function statusFor(card) {
 }
 function clearCurrentViewState() {
   state.active = null;
+  state.revealed = false;
   if (document.activeElement && typeof document.activeElement.blur === "function") {
     document.activeElement.blur();
   }
@@ -91,6 +93,8 @@ function render() {
   const chipTheme = document.getElementById("chipTheme");
   const chipSource = document.getElementById("chipSource");
   const questionPrompt = document.getElementById("questionPrompt");
+  const questionWrap = document.getElementById("questionWrap");
+  const revealBtn = document.getElementById("revealBtn");
   const options = document.getElementById("options");
   const feedback = document.getElementById("feedback");
   const resultBadge = document.getElementById("resultBadge");
@@ -131,6 +135,12 @@ function render() {
   title.textContent = slide.title;
   context.textContent = slide.context;
   questionPrompt.innerHTML = nl2br(stripQuestionNumber(slide.stem || "Selecciona la opción que mejor resuelve la situación."));
+  questionWrap.hidden = !state.revealed;
+  revealBtn.textContent = state.revealed ? "Ocultar pregunta" : "Desplegar pregunta";
+  revealBtn.onclick = () => {
+    state.revealed = !state.revealed;
+    render();
+  };
 
   const activeChoice = state.active && state.active.id === slide.id ? state.active.label : null;
   options.innerHTML = "";
