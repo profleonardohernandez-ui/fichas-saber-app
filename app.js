@@ -1,5 +1,6 @@
 const cards = window.DATABASE || [];
 const STORE = "fichas-saber-app-v1";
+
 const state = {
   index: 0,
   answer: {},
@@ -11,6 +12,7 @@ const state = {
   active: null,
   revealed: false
 };
+
 try {
   const saved = JSON.parse(localStorage.getItem(STORE) || "{}");
   if (saved.answer) state.answer = saved.answer;
@@ -18,76 +20,123 @@ try {
 } catch (e) {}
 
 function save() {
-  localStorage.setItem(STORE, JSON.stringify({ answer: state.answer, rating: state.rating }));
+  localStorage.setItem(
+    STORE,
+    JSON.stringify({
+      answer: state.answer,
+      rating: state.rating
+    })
+  );
 }
+
 function escHtml(text) {
-  return String(text || "").replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+  return String(text || "").replace(/[&<>"']/g, (m) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  }[m]));
 }
+
 function nl2br(text) {
   return escHtml(text).replace(/\n/g, "<br>");
 }
+
 function stripQuestionNumber(text) {
   return String(text || "").replace(/^\s*\d+\.\s*/, "");
 }
+
 function uniq(key) {
-  return [...new Set(cards.map(c => c[key]))];
+  return [...new Set(cards.map((c) => c[key]))];
 }
+
 function renderSelect(id, values, label) {
   const sel = document.getElementById(id);
   sel.innerHTML = "";
-  const o0 = document.createElement("option");
-  o0.value = "Todos";
-  o0.textContent = label;
-  sel.appendChild(o0);
-  values.forEach(v => {
-    const o = document.createElement("option");
-    o.value = v;
-    o.textContent = v;
-    sel.appendChild(o);
+
+  const first = document.createElement("option");
+  first.value = "Todos";
+  first.textContent = label;
+  sel.appendChild(first);
+
+  values.forEach((value) => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = value;
+    sel.appendChild(option);
   });
 }
+
 function filteredCards() {
-  return cards.filter(c => {
-    const hay = [c.title, c.context, c.theme, c.takeaway, c.analysis, c.stem || ""].join(" ").toLowerCase();
-    return (state.theme === "Todos" || c.theme === state.theme) &&
-           (state.grade === "Todos" || c.grade === state.grade) &&
-           (state.year === "Todos" || String(c.year) === state.year) &&
-           (!state.search || hay.includes(state.search.toLowerCase()));
+  return cards.filter((c) => {
+    const haystack = [
+      c.title,
+      c.context,
+      c.theme,
+      c.takeaway,
+      c.analysis,
+      c.stem || ""
+    ].join(" ").toLowerCase();
+
+    return (
+      (state.theme === "Todos" || c.theme === state.theme) &&
+      (state.grade === "Todos" || c.grade === state.grade) &&
+      (state.year === "Todos" || String(c.year) === state.year) &&
+      (!state.search || haystack.includes(state.search.toLowerCase()))
+    );
   });
 }
+
 function currentSet() {
   const rows = filteredCards();
   if (!rows.length) return [];
   if (state.index > rows.length - 1) state.index = 0;
   return rows;
 }
-function answerFor(id) { return state.answer[id] || null; }
-function ratingFor(id) { return state.rating[id] || null; }
-function correctOption(card) { return card.options.find(o => o.correct); }
+
+function answerFor(id) {
+  return state.answer[id] || null;
+}
+
+function ratingFor(id) {
+  return state.rating[id] || null;
+}
+
+function correctOption(card) {
+  return card.options.find((o) => o.correct);
+}
+
 function statusFor(card) {
   const ans = answerFor(card.id);
   if (!ans) return "pending";
   return ans === correctOption(card).label ? "correct" : "wrong";
 }
+
 function clearCurrentViewState() {
   state.active = null;
   state.revealed = false;
+
   if (document.activeElement && typeof document.activeElement.blur === "function") {
     document.activeElement.blur();
   }
 }
+
 function renderHeaderStatus(rows) {
-  const good = rows.filter(r => statusFor(r) === "correct").length;
-  const bad = rows.filter(r => statusFor(r) === "wrong").length;
+  const good = rows.filter((r) => statusFor(r) === "correct").length;
+  const bad = rows.filter((r) => statusFor(r) === "wrong").length;
   const pending = rows.length - good - bad;
+
   document.getElementById("statusCurrent").textContent = `${rows.length ? state.index + 1 : 0} / ${rows.length}`;
   document.getElementById("statusGood").textContent = `✓ ${good}`;
   document.getElementById("statusBad").textContent = `✕ ${bad}`;
   document.getElementById("statusPending").textContent = `◌ ${pending}`;
 }
+
 function render() {
   const rows = currentSet();
   const slide = rows[state.index];
+
   const title = document.getElementById("title");
   const context = document.getElementById("context");
   const chipTheme = document.getElementById("chipTheme");
@@ -119,6 +168,8 @@ function render() {
     context.textContent = "Ajusta la búsqueda o los filtros en el panel lateral.";
     chipTheme.textContent = "Sin resultados";
     chipSource.textContent = "";
+    questionWrap.hidden = true;
+    revealBtn.style.display = "none";
     options.innerHTML = "";
     feedback.classList.remove("visible");
     extra.classList.remove("visible");
@@ -130,11 +181,18 @@ function render() {
     return;
   }
 
+  revealBtn.style.display = "inline-flex";
+
   chipTheme.textContent = slide.theme;
   chipSource.textContent = `${slide.year} · ${slide.grade}° · C${slide.cuad} · P${slide.q}`;
   title.textContent = slide.title;
   context.textContent = slide.context;
-  questionPrompt.innerHTML = nl2br(stripQuestionNumber(slide.stem || "Selecciona la opción que mejor resuelve la situación."));
+  questionPrompt.innerHTML = nl2br(
+    stripQuestionNumber(
+      slide.stem || "Selecciona la opción que mejor resuelve la situación."
+    )
+  );
+
   questionWrap.hidden = !state.revealed;
   revealBtn.textContent = state.revealed ? "Ocultar pregunta" : "Desplegar pregunta";
   revealBtn.onclick = () => {
@@ -142,40 +200,53 @@ function render() {
     render();
   };
 
-  const activeChoice = state.active && state.active.id === slide.id ? state.active.label : null;
+  const activeChoice =
+    state.active && state.active.id === slide.id ? state.active.label : null;
+
   options.innerHTML = "";
-  slide.options.forEach(opt => {
+  slide.options.forEach((opt) => {
     const btn = document.createElement("button");
     btn.className = "option";
-    btn.innerHTML = `<strong>${opt.label}.</strong> ${opt.text}`;
+    btn.innerHTML = `<strong>${opt.label}.</strong> ${escHtml(opt.text)}`;
+
     if (activeChoice) {
       if (opt.correct) btn.classList.add("correct");
       else if (activeChoice === opt.label) btn.classList.add("wrong");
       else btn.classList.add("dimmed");
     }
+
     btn.onclick = () => {
       state.answer[slide.id] = opt.label;
       state.active = { id: slide.id, label: opt.label };
       save();
       render();
     };
+
     options.appendChild(btn);
   });
 
   if (activeChoice) {
-    const selected = slide.options.find(o => o.label === activeChoice);
+    const selected = slide.options.find((o) => o.label === activeChoice);
     const correct = correctOption(slide);
     const ok = selected.correct;
-    resultBadge.textContent = ok ? "Respuesta acertada" : `Marcaste ${activeChoice} · la correcta era ${correct.label}`;
+
+    resultBadge.textContent = ok
+      ? "Respuesta acertada"
+      : `Marcaste ${activeChoice} · la correcta era ${correct.label}`;
     resultBadge.className = "result " + (ok ? "good" : "bad");
+
     feedbackMain.textContent = correct.why;
     feedbackSide.textContent = "Idea clave: " + slide.takeaway;
+
     feedback.classList.add("visible");
     extra.classList.add("visible");
     scheme.classList.add("visible");
     rating.classList.add("visible");
+
     analysis.textContent = slide.analysis;
-    distractors.textContent = "Por qué fallan las otras opciones: " + slide.distractors;
+    distractors.textContent =
+      "Por qué fallan las otras opciones: " + slide.distractors;
+
     retryBtn.onclick = () => {
       delete state.answer[slide.id];
       delete state.rating[slide.id];
@@ -183,6 +254,7 @@ function render() {
       save();
       render();
     };
+
     glossary.innerHTML = "";
     (slide.glossary || []).forEach(([term, tip]) => {
       const span = document.createElement("span");
@@ -191,19 +263,36 @@ function render() {
       span.setAttribute("data-tip", tip);
       glossary.appendChild(span);
     });
+
     if (/<[^>]+>/.test(slide.scheme || "")) {
       schemeBox.innerHTML = slide.scheme;
     } else {
-      schemeBox.innerHTML = `<div class="scheme-row">${String(slide.scheme || "").split(/\s*[→↔]\s*/).map((chunk, i, arr) => {
-        const safe = chunk.replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-        const arrow = i < arr.length - 1 ? `<span class="scheme-arrow">→</span>` : "";
-        return `<span class="scheme-pill">${safe}</span>${arrow}`;
-      }).join("")}</div>`;
+      schemeBox.innerHTML = `<div class="scheme-row">${
+        String(slide.scheme || "")
+          .split(/\s*[→↔]\s*/)
+          .map((chunk, i, arr) => {
+            const safe = chunk.replace(/[&<>"']/g, (m) => ({
+              "&": "&amp;",
+              "<": "&lt;",
+              ">": "&gt;",
+              '"': "&quot;",
+              "'": "&#39;"
+            }[m]));
+            const arrow = i < arr.length - 1
+              ? `<span class="scheme-arrow">→</span>`
+              : "";
+            return `<span class="scheme-pill">${safe}</span>${arrow}`;
+          })
+          .join("")
+      }</div>`;
     }
-    [...rating.querySelectorAll("button")].forEach(b => {
+
+    [...rating.querySelectorAll("button")].forEach((b) => {
       b.className = "";
       const value = ratingFor(slide.id);
-      if (value && b.dataset.rate === value) b.classList.add("active-" + value);
+      if (value && b.dataset.rate === value) {
+        b.classList.add("active-" + value);
+      }
       b.onclick = () => {
         state.rating[slide.id] = b.dataset.rate;
         save();
@@ -220,17 +309,27 @@ function render() {
 
   counter.textContent = `${state.index + 1} / ${rows.length}`;
   dots.innerHTML = "";
+
   rows.forEach((row, idx) => {
     const dot = document.createElement("button");
     const status = statusFor(row);
+
     dot.className = `dot ${status}` + (idx === state.index ? " active" : "");
-    dot.title = `${idx + 1}. ${row.title} · ${status === "correct" ? "correcta" : status === "wrong" ? "incorrecta" : "pendiente"}`;
+    dot.title = `${idx + 1}. ${row.title} · ${
+      status === "correct"
+        ? "correcta"
+        : status === "wrong"
+        ? "incorrecta"
+        : "pendiente"
+    }`;
     dot.setAttribute("aria-label", dot.title);
+
     dot.onclick = () => {
       state.index = idx;
       clearCurrentViewState();
       render();
     };
+
     dots.appendChild(dot);
   });
 
@@ -238,27 +337,47 @@ function render() {
   rows.forEach((row, idx) => {
     const card = document.createElement("div");
     const status = statusFor(row);
-    card.className = "mini-card" + (idx === state.index ? " active" : "") + " " + status;
-    card.innerHTML = `<strong>${row.title}</strong><div class="meta">${row.theme} · ${row.year} · ${row.grade}° · C${row.cuad} · P${row.q}</div>`;
+
+    card.className =
+      "mini-card" + (idx === state.index ? " active" : "") + " " + status;
+
+    card.innerHTML = `
+      <strong>${escHtml(row.title)}</strong>
+      <div class="meta">
+        ${escHtml(row.theme)} · ${escHtml(row.year)} · ${escHtml(row.grade)}° · C${escHtml(row.cuad)} · P${escHtml(row.q)}
+      </div>
+    `;
+
     card.onclick = () => {
       state.index = idx;
       clearCurrentViewState();
       render();
       document.getElementById("drawer").classList.remove("open");
     };
+
     miniList.appendChild(card);
   });
 }
+
 function smartReview() {
   const rows = currentSet();
   if (!rows.length) return;
+
   const pool = [];
   rows.forEach((row, idx) => {
     const rate = ratingFor(row.id);
     const status = statusFor(row);
-    const weight = status === "wrong" ? 6 : !rate ? 4 : rate === "hard" ? 5 : rate === "ok" ? 3 : 1;
-    for (let i = 0; i < weight; i++) pool.push(idx);
+    const weight =
+      status === "wrong" ? 6 :
+      !rate ? 4 :
+      rate === "hard" ? 5 :
+      rate === "ok" ? 3 : 1;
+
+    for (let i = 0; i < weight; i++) {
+      pool.push(idx);
+    }
   });
+
   state.index = pool[Math.floor(Math.random() * pool.length)];
   clearCurrentViewState();
   render();
@@ -271,6 +390,7 @@ document.getElementById("prevBtn").onclick = () => {
   clearCurrentViewState();
   render();
 };
+
 document.getElementById("nextBtn").onclick = () => {
   const rows = currentSet();
   if (!rows.length) return;
@@ -278,17 +398,59 @@ document.getElementById("nextBtn").onclick = () => {
   clearCurrentViewState();
   render();
 };
-document.getElementById("smartBtn").onclick = () => { smartReview(); };
-document.getElementById("openDrawer").onclick = () => document.getElementById("drawer").classList.add("open");
-document.getElementById("closeDrawer").onclick = () => document.getElementById("drawer").classList.remove("open");
-document.getElementById("drawer").onclick = (e) => { if (e.target.id === "drawer") e.currentTarget.classList.remove("open"); };
 
-renderSelect("themeFilter", [...new Set(cards.map(c => c.theme))], "Todos los subtemas");
+document.getElementById("smartBtn").onclick = () => {
+  smartReview();
+};
+
+document.getElementById("openDrawer").onclick = () => {
+  document.getElementById("drawer").classList.add("open");
+};
+
+document.getElementById("closeDrawer").onclick = () => {
+  document.getElementById("drawer").classList.remove("open");
+};
+
+document.getElementById("drawer").onclick = (e) => {
+  if (e.target.id === "drawer") {
+    e.currentTarget.classList.remove("open");
+  }
+};
+
+renderSelect(
+  "themeFilter",
+  [...new Set(cards.map((c) => c.theme))],
+  "Todos los subtemas"
+);
 renderSelect("gradeFilter", uniq("grade"), "Todos los grados");
 renderSelect("yearFilter", uniq("year"), "Todos los años");
-document.getElementById("themeFilter").onchange = e => { state.theme = e.target.value; state.index = 0; clearCurrentViewState(); render(); };
-document.getElementById("gradeFilter").onchange = e => { state.grade = e.target.value; state.index = 0; clearCurrentViewState(); render(); };
-document.getElementById("yearFilter").onchange = e => { state.year = e.target.value; state.index = 0; clearCurrentViewState(); render(); };
-document.getElementById("search").oninput = e => { state.search = e.target.value; state.index = 0; clearCurrentViewState(); render(); };
+
+document.getElementById("themeFilter").onchange = (e) => {
+  state.theme = e.target.value;
+  state.index = 0;
+  clearCurrentViewState();
+  render();
+};
+
+document.getElementById("gradeFilter").onchange = (e) => {
+  state.grade = e.target.value;
+  state.index = 0;
+  clearCurrentViewState();
+  render();
+};
+
+document.getElementById("yearFilter").onchange = (e) => {
+  state.year = e.target.value;
+  state.index = 0;
+  clearCurrentViewState();
+  render();
+};
+
+document.getElementById("search").oninput = (e) => {
+  state.search = e.target.value;
+  state.index = 0;
+  clearCurrentViewState();
+  render();
+};
 
 render();
