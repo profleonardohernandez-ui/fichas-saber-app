@@ -1,5 +1,5 @@
 const cards = window.DATABASE || [];
-const STORE = "fichas-saber-app-v1";
+const STORE = "fichas-saber-app-v2";
 
 const state = {
   index: 0,
@@ -10,13 +10,16 @@ const state = {
   grade: "Todos",
   year: "Todos",
   active: null,
-  revealed: false
+  revealed: false,
+  verdict: false,
+  mode: "classroom"
 };
 
 try {
   const saved = JSON.parse(localStorage.getItem(STORE) || "{}");
   if (saved.answer) state.answer = saved.answer;
   if (saved.rating) state.rating = saved.rating;
+  if (saved.mode) state.mode = saved.mode;
 } catch (e) {}
 
 function save() {
@@ -24,7 +27,8 @@ function save() {
     STORE,
     JSON.stringify({
       answer: state.answer,
-      rating: state.rating
+      rating: state.rating,
+      mode: state.mode
     })
   );
 }
@@ -116,6 +120,7 @@ function statusFor(card) {
 function clearCurrentViewState() {
   state.active = null;
   state.revealed = false;
+  state.verdict = false;
 
   if (document.activeElement && typeof document.activeElement.blur === "function") {
     document.activeElement.blur();
@@ -131,6 +136,20 @@ function renderHeaderStatus(rows) {
   document.getElementById("statusGood").textContent = `✓ ${good}`;
   document.getElementById("statusBad").textContent = `✕ ${bad}`;
   document.getElementById("statusPending").textContent = `◌ ${pending}`;
+}
+
+function renderMode() {
+  const modeClassroom = document.getElementById("modeClassroom");
+  const modeStudy = document.getElementById("modeStudy");
+  const modeHint = document.getElementById("modeHint");
+
+  modeClassroom.classList.toggle("active", state.mode === "classroom");
+  modeStudy.classList.toggle("active", state.mode === "study");
+
+  modeHint.textContent =
+    state.mode === "classroom"
+      ? "Modo aula: puedes seleccionar una opción y debatirla antes de revelar el veredicto."
+      : "Modo estudio: al responder se muestra inmediatamente si la opción es correcta o incorrecta.";
 }
 
 function render() {
@@ -160,7 +179,10 @@ function render() {
   const counter = document.getElementById("counter");
   const dots = document.getElementById("dots");
   const miniList = document.getElementById("miniList");
+  const assistiveActions = document.getElementById("assistiveActions");
+  const revealVerdictBtn = document.getElementById("revealVerdictBtn");
 
+  renderMode();
   renderHeaderStatus(rows);
 
   if (!slide) {
@@ -175,6 +197,7 @@ function render() {
     extra.classList.remove("visible");
     scheme.classList.remove("visible");
     rating.classList.remove("visible");
+    assistiveActions.classList.remove("visible");
     counter.textContent = "0 / 0";
     dots.innerHTML = "";
     miniList.innerHTML = "";
@@ -197,55 +220,89 @@ function render() {
   revealBtn.textContent = state.revealed ? "Ocultar pregunta" : "Desplegar pregunta";
   revealBtn.onclick = () => {
     state.revealed = !state.revealed;
+    if (!state.revealed) {
+      state.active = null;
+      state.verdict = false;
+    }
     render();
   };
 
-  const activeChoice =
+  const currentActive =
     state.active && state.active.id === slide.id ? state.active.label : null;
 
   options.innerHTML = "";
+
   slide.options.forEach((opt) => {
     const btn = document.createElement("button");
     btn.className = "option";
     btn.innerHTML = `<strong>${opt.label}.</strong> ${escHtml(opt.text)}`;
 
-    if (activeChoice) {
+    if (currentActive && !state.verdict && state.mode === "classroom" && opt.label === currentActive) {
+      btn.classList.add("selected");
+    }
+
+    if (state.verdict && currentActive) {
       if (opt.correct) btn.classList.add("correct");
-      else if (activeChoice === opt.label) btn.classList.add("wrong");
+      else if (opt.label === currentActive) btn.classList.add("wrong");
       else btn.classList.add("dimmed");
+      btn.disabled = true;
     }
 
     btn.onclick = () => {
-      state.answer[slide.id] = opt.label;
+      if (state.verdict) return;
+
       state.active = { id: slide.id, label: opt.label };
-      save();
+
+      if (state.mode === "study") {
+        state.answer[slide.id] = opt.label;
+        state.verdict = true;
+        save();
+      }
+
       render();
     };
 
     options.appendChild(btn);
   });
 
-  if (activeChoice) {
-    const selected = slide.options.find((o) => o.label === activeChoice);
+  const showRevealVerdict =
+    state.mode === "classroom" &&
+    state.revealed &&
+    currentActive &&
+    !state.verdict;
+
+  assistiveActions.classList.toggle("visible", !!showRevealVerdict);
+
+  revealVerdictBtn.onclick = () => {
+    if (!currentActive) return;
+    state.answer[slide.id] = currentActive;
+    state.verdict = true;
+    save();
+    render();
+  };
+
+  if (state.verdict && currentActive) {
+    const selected = slide.options.find((o) => o.label === currentActive);
     const correct = correctOption(slide);
-    const ok = selected.correct;
+    const ok = selected && selected.correct;
 
     resultBadge.textContent = ok
       ? "Respuesta acertada"
-      : `Marcaste ${activeChoice} · la correcta era ${correct.label}`;
+      : `Marcaste ${currentActive} · la correcta era ${correct.label}`;
     resultBadge.className = "result " + (ok ? "good" : "bad");
 
-    feedbackMain.textContent = correct.why;
-    feedbackSide.textContent = "Idea clave: " + slide.takeaway;
+    feedbackMain.textContent = correct.why || slide.analysis || "Revisa la justificación pedagógica.";
+    feedbackSide.textContent = slide.takeaway ? `Idea clave: ${slide.takeaway}` : "";
 
     feedback.classList.add("visible");
     extra.classList.add("visible");
     scheme.classList.add("visible");
     rating.classList.add("visible");
 
-    analysis.textContent = slide.analysis;
-    distractors.textContent =
-      "Por qué fallan las otras opciones: " + slide.distractors;
+    analysis.textContent = slide.analysis || "";
+    distractors.textContent = slide.distractors
+      ? `Por qué fallan las otras opciones: ${slide.distractors}`
+      : "";
 
     retryBtn.onclick = () => {
       delete state.answer[slide.id];
@@ -256,7 +313,10 @@ function render() {
     };
 
     glossary.innerHTML = "";
-    (slide.glossary || []).forEach(([term, tip]) => {
+    const glossaryItems = slide.glossary || [];
+    glossary.style.display = glossaryItems.length ? "flex" : "none";
+
+    glossaryItems.forEach(([term, tip]) => {
       const span = document.createElement("span");
       span.className = "term";
       span.textContent = term;
@@ -304,7 +364,7 @@ function render() {
     extra.classList.remove("visible");
     scheme.classList.remove("visible");
     rating.classList.remove("visible");
-    retryBtn.onclick = null;
+    glossary.innerHTML = "";
   }
 
   counter.textContent = `${state.index + 1} / ${rows.length}`;
@@ -335,8 +395,8 @@ function render() {
 
   miniList.innerHTML = "";
   rows.forEach((row, idx) => {
-    const card = document.createElement("div");
     const status = statusFor(row);
+    const card = document.createElement("div");
 
     card.className =
       "mini-card" + (idx === state.index ? " active" : "") + " " + status;
@@ -415,6 +475,20 @@ document.getElementById("drawer").onclick = (e) => {
   if (e.target.id === "drawer") {
     e.currentTarget.classList.remove("open");
   }
+};
+
+document.getElementById("modeClassroom").onclick = () => {
+  state.mode = "classroom";
+  clearCurrentViewState();
+  save();
+  render();
+};
+
+document.getElementById("modeStudy").onclick = () => {
+  state.mode = "study";
+  clearCurrentViewState();
+  save();
+  render();
 };
 
 renderSelect(
