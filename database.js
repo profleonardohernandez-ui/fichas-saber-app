@@ -20,7 +20,7 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Puede una ley imponer la pena de muerte en Colombia?",
-      "context_summary": "Se plantea un caso en el que un grupo de personas impulsa un proyecto de ley que propone condenar a la pena de muerte a quienes cometan violación. Quienes impulsan este proyecto sostienen que la pena capital es una medida efectiva para sancionar este delito.",
+      "context_summary": "Un grupo de personas impulsa un proyecto de ley que propone condenar a la pena de muerte a quienes cometan violación. Quienes impulsan este proyecto sostienen que la pena capital es una medida efectiva para sancionar este delito.",
       "takeaway": "En Colombia, ninguna ley puede ir en contra de la Constitución.",
       "analysis": "La pregunta evalúa si el estudiante comprende la jerarquía normativa del Estado colombiano. La Constitución es la norma superior y establece límites al contenido de las leyes. Por eso, una ley no puede imponer una sanción prohibida por el marco constitucional.",
       "distractors": "Las opciones incorrectas suelen confundir la gravedad del delito con la validez constitucional de la sanción. El error más común es pensar que una mayoría política o una ley nueva puede desconocer la Constitución.",
@@ -153,11 +153,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes opciones podría explicar mejor este ritual del encierro?",
-      "context_summary": "Se presenta una situación en una cultura en la que los padres de familia encerraban a sus hijas durante meses enteros para practicar un ritual conocido como el encierro.",
-      "takeaway": "En esa cultura consideran que al llegar a la pubertad las niñas deben aislarse para aprender lo que significa ser mujer en esa comunidad.",
-      "analysis": "La opción D es correcta ya que menciona parte de los argumentos expuestos en el contexto, como que, cuando se llega a la pubertad, las niñas son aisladas de las personas menos de su madre. Al final, al indicar que, cuando las niñas estén preparadas van a ser presentadas como mujeres, se puede inferir que durante el ritual las niñas aprenden qué significa ser mujer.",
-      "distractors": "La opción A no es correcta porque incluye información que no es mencionada en el contexto, pues no se menciona que las niñas durante del ritual aprendan a diferenciar el día y la noche. La opción B no es correcta puesto que en el contexto se indica que son separadas de su familia y comunidad, es decir, hacen parte de la comunidad antes y luego son presentadas ante la sociedad como mujeres, sin dejar de pertenecer a la comunidad. La opción C da información adicional al decir que las mujeres son aisladas en la pubertad para abandonar su cultura y tradición; en el contexto se manifiesta que, cuando están preparadas, son presentadas como mujeres, más no que abandonan su cultura y tradición.",
+      "guiding_question": "¿Qué creencias culturales ayudan a comprender el sentido de este rito de paso?",
+      "context_summary": "Una cultura en la que los padres de familia encerraban a sus hijas durante meses enteros para practicar un ritual conocido como el encierro.",
+      "takeaway": "Las prácticas culturales se comprenden mejor cuando se analizan desde los significados que una comunidad atribuye al paso hacia la vida adulta.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque menciona parte de los argumentos expuestos en el contexto, como que, cuando se llega a la pubertad, las niñas son aisladas de las personas menos de su madre. Al final, al indicar que, cuando las niñas estén preparadas van a ser presentadas como mujeres, se puede inferir que durante el ritual las niñas aprenden qué significa ser mujer.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce que las diferentes concepciones y roles sociales determinan diferentes posiciones y comportamientos. -> Rechazo las situaciones de discriminación y exclusión social en el país; comprendo sus posibles causas y las consecuencias negativas para la sociedad."
     },
@@ -211,11 +211,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "Teniendo en cuenta los principios de la Constitución Política de Colombia, el colegio obró de manera",
-      "context_summary": "Se plantea un caso en el que los directivos de una institución académica decidieron incluir en el Manual de convivencia una norma que prohíbe la manifestación de cualquier conducta, práctica o pensamiento homosexual dentro de la institución.",
-      "takeaway": "incorrecta, puesto que está vulnerando derechos fundamentales establecidos en la Constitución, y la Constitución está por encima del Manual de convivencia.",
-      "analysis": "La opción A es correcta, ya que los derechos fundamentales están establecidos en la Constitución, que es la norma de normas, esto quiere decir que, en caso de incompatibilidad, se aplicarán las disposiciones constitucionales. Por tanto, se encuentra por encima de otro tipo de acuerdos como el Manual de Convivencia.",
-      "distractors": "La opción B no es correcta, pues indica que el colegio obró de manera adecuada porque siguió el Manual, sin embargo, en la pregunta se manifiesta según los principios de la Constitución, por lo que se debe remitir a esta norma. La opción C no es correcta, ya que en la Constitución Política de Colombia no manifiesta que no pueda existir otras normas o acuerdos, siempre y cuando se acojan a lo descrito en la Constitución. La opción D indica que el Manual de Convivencia está por encima de la Constitución y esto no es correcto, los demás acuerdos y manuales deben regirse por la Constitución.",
+      "guiding_question": "¿Qué principio constitucional permite cuestionar una norma escolar discriminatoria?",
+      "context_summary": "Los directivos de una institución académica decidieron incluir en el Manual de convivencia una norma que prohíbe la manifestación de cualquier conducta, práctica o pensamiento homosexual dentro de la institución.",
+      "takeaway": "Ningún manual escolar puede justificar discriminación ni vulnerar derechos fundamentales protegidos por la Constitución.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque los derechos fundamentales están establecidos en la Constitución, que es la norma de normas, esto quiere decir que, en caso de incompatibilidad, se aplicarán las disposiciones constitucionales. Por tanto, se encuentra por encima de otro tipo de acuerdos como el Manual de Convivencia.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce algunos de los principios fundamentales de la Constitución. -> Rechazo las situaciones de discriminación y exclusión social en el país; comprendo sus posibles causas y las consecuencias negativas para la sociedad."
     },
@@ -270,10 +270,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Esta acción es una forma de protesta legal?",
-      "context_summary": "Se plantea un caso en el que con el propósito de ahorrar gastos, el director de un hospital despidió a varios médicos y enfermeras, y redujo los salarios de los que quedaron.",
-      "takeaway": "Sí, porque el grupo de médicos y enfermeras tiene el derecho a realizar acciones pacíficas que demuestren su inconformidad con la medida.",
-      "analysis": "La opción A es correcta, ya que en los derechos consignados en el Artículo 37 de la Constitución Política se dice: “Toda parte del pueblo puede reunirse y manifestarse pública y pacíficamente”, y en este apartado se afirma que hicieron acciones pacíficas que demuestran su inconformidad.",
-      "distractors": "La opción B no es correcta, ya que incluye información que no se encuentra en el marco legal, pues al decir todo tipo de acciones se pueden incluir algunas que no sean pacíficas; además, no significa que las directivas respondan como quieren los médicos y enfermeras. La opción C no es correcta, ya que va en contravía con el Artículo 37 de la Constitución, pues afirma que no se tiene derecho a manifestar inconformidad. La opción D no es correcta, ya que va en contravía con el Artículo 37, puesto que en este se menciona que puede ser de manera pública, por lo que incluye las vías y la posibilidad de interrumpir el tráfico de la ciudad.",
+      "context_summary": "Con el propósito de ahorrar gastos, el director de un hospital despidió a varios médicos y enfermeras, y redujo los salarios de los que quedaron.",
+      "takeaway": "La protesta pacífica es un derecho, pero debe analizarse dentro de sus límites y garantías constitucionales.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque en los derechos consignados en el Artículo 37 de la Constitución Política se dice: “Toda parte del pueblo puede reunirse y manifestarse pública y pacíficamente”, y en este apartado se afirma que hicieron acciones pacíficas que demuestran su inconformidad.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Reconoce situaciones en las que se requiere una participación que trascienda los mecanismos formales existentes. -> Conozco y uso estrategias creativas para generar opciones frente a decisiones colectivas."
     },
@@ -328,10 +328,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué quieren lograr los actores involucrados?",
-      "context_summary": "Se plantea un caso en el que con el objetivo de mejorar los problemas de movilidad en un sector de una ciudad, la administración distrital propone que los usuarios de bicicletas y autos compartan la misma vía.",
-      "takeaway": "Los ciclistas buscan formas más seguras para desplazarse, los automovilistas quieren proteger el espacio para movilizarse y los habitantes del sector quieren tener mejor acceso a los barrios.",
-      "analysis": "La opción D es correcta, ya que, con esta medida, los ciclistas aseguran tener más seguridad, los automóviles quieren proteger el espacio de movilizarse, manifiestan que deteriora la movilidad y produce embotellamiento y los habitantes del sector en su protesta manifiestan la dificultad de acceso a los barrios cercanos.",
-      "distractors": "La opción A no es correcta, ya que, en el contexto, los ciclistas no indican que quieran el uso exclusivo de las vías; aunque los autos manifiestan no estar de acuerdo, no se tiene evidencia de que quieran evitarla y los habitantes del sector no incluyen la seguridad de los ciclistas. La opción B no es correcta, ya que en el contexto no se indica que los ciclistas requieran acceso a los barrios, y no se menciona que los automovilistas y los habitantes del sector incentiven el uso del transporte público, incluso no se menciona este actor. La opción C no es correcta, porque en el contexto, no se encuentra la información dada, ya que los ciclistas se sienten satisfechos con la medida mientras que los autos consideran que se deterioraría la movilidad; además, entre las peticiones de los habitantes del sector no se encuentra el estímulo de uso de bicicletas.",
+      "context_summary": "Con el objetivo de mejorar los problemas de movilidad en un sector de una ciudad, la administración distrital propone que los usuarios de bicicletas y autos compartan la misma vía.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque , con esta medida, los ciclistas aseguran tener más seguridad, los automóviles quieren proteger el espacio de movilizarse, manifiestan que deteriora la movilidad y produce embotellamiento y los habitantes del sector en su protesta manifiestan la dificultad de acceso a los barrios cercanos.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto. -> Comprendo que los conflictos ocurren en las relaciones, incluyendo las de pareja, y que se pueden manejar de manera constructiva si nos escuchamos y comprendemos los puntos de vista del otro."
     },
@@ -386,10 +386,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de las anteriores afirmaciones entra en conflicto con lo dicho por el investigador?",
-      "context_summary": "Se plantea un caso en el que un investigador está preocupado porque los árboles más viejos del planeta ya no están produciendo oxígeno.",
+      "context_summary": "Un investigador está preocupado porque los árboles más viejos del planeta ya no están produciendo oxígeno.",
       "takeaway": "La idea clave es reconocer que la afirmación de Camilo contradice directamente la confianza del investigador en que nuevas estrategias puedan ayudar a producir más oxígeno.",
-      "analysis": "La opción B es correcta, ya que es la única afirmación que se encuentra como contraparte a lo que dice el investigador, puesto que, Camilo considera que, a pesar de que haya nuevas estrategias de generación de oxígeno, al final no se va a producir.",
-      "distractors": "La opción A no es correcta, ya que apoya la idea del investigador, diciendo que cree que es posible que con la siembra de árboles jóvenes se permita generar más oxígeno. La opción C no es correcta, ya que apoya la idea del investigador de talar árboles, haciendo la salvedad que sus efectos se verán a largo plazo. La opción D no es correcta, ya que a pesar de que su argumento no está alineado a la producción de oxígeno, apoya al investigador por los beneficios que puede generar en la industria de maderas.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque es la única afirmación que se encuentra como contraparte a lo que dice el investigador, puesto que, Camilo considera que, a pesar de que haya nuevas estrategias de generación de oxígeno, al final no se va a producir.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Identifico dilemas relacionados con problemas de exclusión y analizo alternativas de solución, considerando los aspectos positivos y negativos de cada opción."
     },
@@ -444,10 +444,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspecto se está pasando por alto en esta situación?",
-      "context_summary": "Se plantea un caso en el que los resultados de una investigación indican que debajo de un edificio residencial ubicado en el centro histórico de una ciudad pueden existir restos de una construcción anterior a la llegada de los españoles.",
-      "takeaway": "La disposición para mudarse de las personas que viven en el edificio.",
-      "analysis": "La opción B es correcta, ya que en el contexto no se indica que dicha investigación incluya los sentires u opiniones de las personas que viven en el edificio y, por tanto, su disposición de mudarse.",
-      "distractors": "La opción A no es correcta, ya que en el contexto se indica que varias organizaciones sumaron esfuerzos para todo el proyecto de investigación. La opción C no es correcta, ya que se basa en la premisa de que va a ser una importante investigación arqueológica, por lo que se tiene en cuenta cómo este factor va a aportar al conocimiento. La opción D no es correcta, ya que en el contexto incluye los costos de financiación de la reubicación de los habitantes del edificio, por lo que se tuvo en cuenta la necesidad de movilizar a las personas que viven en este.",
+      "context_summary": "Los resultados de una investigación indican que debajo de un edificio residencial ubicado en el centro histórico de una ciudad pueden existir restos de una construcción anterior a la llegada de los españoles.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque en el contexto no se indica que dicha investigación incluya los sentires u opiniones de las personas que viven en el edificio y, por tanto, su disposición de mudarse.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -501,11 +501,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "La frase “[...] a pesar de ser pobres, ustedes sí son honrados” es",
-      "context_summary": "Se presenta una situación en una comunidad de escasos recursos en la que un político pronuncia el siguiente discurso: “Yo creo en esta comunidad. Sé que tiene gente trabajadora y talentosa. Por eso, ofreceré empleos y oportunidades de estudio.",
-      "takeaway": "discriminatoria, pues señala que los pobres no son honrados pero que esa comunidad es la excepción.",
-      "analysis": "Aunque es correcto decir que la frase es discriminatoria, la opción A no es correcta porque su argumento no va encaminado a justificar dicha discriminación; además, en el contexto no se da información que pueda suponer que solo lo hace en campaña y por votos. La opción B no es correcta porque manifiesta que la frase es acertada y la frase que se pide analizar no manifiesta que va a apoyar a una comunidad que realmente lo necesite. La opción D no es correcta ya que, al analizar la frase y sobre todo las palabras “a pesar”, esto significa que está condicionando la posición de ser pobre a no ser honrado, por lo que esta respuesta va en contravía de la afirmación del político.",
-      "distractors": "La opción B no es correcta porque manifiesta que la frase es acertada y la frase que se pide analizar no manifiesta que va a apoyar a una comunidad que realmente lo necesite. La opción D no es correcta ya que, al analizar la frase y sobre todo las palabras “a pesar”, esto significa que está condicionando la posición de ser pobre a no ser honrado, por lo que esta respuesta va en contravía de la afirmación del político.",
+      "guiding_question": "¿Qué prejuicio o implicación discriminatoria puede identificarse en la frase analizada?",
+      "context_summary": "Una comunidad de escasos recursos en la que un político pronuncia el siguiente discurso: “Yo creo en esta comunidad. Sé que tiene gente trabajadora y talentosa. Por eso, ofreceré empleos y oportunidades de estudio.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque el caso apunta a que discriminatoria, pues señala que los pobres no son honrados pero que esa comunidad es la excepción.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Identifica prejuicios e intenciones de enunciados enmarcados en asuntos ciudadanos, así como sus posibles impactos negativos. -> Rechazo las situaciones de discriminación y exclusión social en el país; comprendo sus posibles causas y las consecuencias negativas para la sociedad."
     },
@@ -560,10 +560,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué efecto NO deseado puede tener la campaña desarrollada?",
-      "context_summary": "Se plantea un caso en el que como consecuencia del cambio climático y la fuerte sequía que azota a varias regiones del país, poblaciones como las que habitan en La Guajira se han visto afectadas fuertemente.",
-      "takeaway": "Que aumente la cantidad de plásticos y demás productos no biodegradables en las zonas aledañas en donde habitan las comunidades.",
-      "analysis": "La pregunta evalúa la capacidad de anticipar efectos no deseados de una intervención solidaria. La opción D es correcta porque el caso muestra que la ayuda llega en bolsas, empaques y latas, lo que puede aumentar los residuos no biodegradables en las zonas donde habitan las comunidades beneficiadas.",
-      "distractors": "La opción A no es correcta porque sería un efecto positivo que el Estado entendiera la necesidad de prever la crisis o prepararse para ella; de hecho, si esto llegara a pasar, sería un efecto deseado. La opción B no es correcta porque sería un efecto positivo que la cantidad de personas afectadas por la sequía disminuyera, incluso podría ser uno de los efectos esperados. La opción C no es correcta porque el hecho de que la población del país sienta responsabilidad de ayudar a las comunidades afectadas en la Guajira, no sería un efecto adverso, sino deseado.",
+      "context_summary": "Como consecuencia del cambio climático y la fuerte sequía que azota a varias regiones del país, poblaciones como las que habitan en La Guajira se han visto afectadas fuertemente.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "La pregunta evalúa la capacidad de anticipar efectos no deseados de una intervención solidaria. La respuesta correcta se sostiene porque el caso muestra que la ayuda llega en bolsas, empaques y latas, lo que puede aumentar los residuos no biodegradables en las zonas donde habitan las comunidades beneficiadas.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Analiza efectos de decisiones en distintos aspectos de una situación problemática. -> Conozco y utilizo estrategias creativas para solucionar conflictos."
     },
@@ -617,11 +617,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuáles serían incompatibles?",
-      "context_summary": "Se presenta un caso en el que, ante el aumento de la obesidad infantil, un alcalde evalúa varias propuestas para disminuir el consumo de bebidas gaseosas en la ciudad.",
+      "guiding_question": "¿Qué propuestas no podrían aplicarse al mismo tiempo sin entrar en tensión entre sí?",
+      "context_summary": "Ante el aumento de la obesidad infantil, un alcalde evalúa varias propuestas para disminuir el consumo de bebidas gaseosas en la ciudad.",
       "takeaway": "La idea clave es identificar que las propuestas incompatibles son la 1 y la 3, porque responden a lógicas económicas difícilmente conciliables.",
-      "analysis": "La pregunta evalúa la capacidad de reconocer incompatibilidades entre propuestas de solución. La opción D es correcta porque combinar un impuesto para desestimular el consumo con aportes voluntarios de las mismas empresas productoras puede generar tensiones entre dos estrategias económicas que apuntan en direcciones distintas.",
-      "distractors": "La opción A no es correcta, ya que pueden ser complementarias las propuestas que abarquen educación, como charlas de nutrición con multas a los padres que permiten el consumo de gaseosas; con ello se podría disminuir el consumo de estas bebidas. La opción B no es correcta porque las propuestas que tengan un componente educativo y económico pueden realizarse al mismo tiempo, por tanto, la generación de un impuesto para incrementar el precio y así desestimular la demanda del producto y realizar charlas educativas sobre la alimentación balanceada son opciones compatibles. La opción C no es correcta porque dos propuestas educativas pueden ser compatibles; así, solicitarles a las empresas aportes para realizar campañas va en la misma vía que hacer charlas educativas sobre la importancia de la alimentación balanceada.",
+      "analysis": "La pregunta evalúa la capacidad de reconocer incompatibilidades entre propuestas de solución. La respuesta correcta se sostiene porque combinar un impuesto para desestimular el consumo con aportes voluntarios de las mismas empresas productoras puede generar tensiones entre dos estrategias económicas que apuntan en direcciones distintas.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Analiza efectos de decisiones en distintos aspectos de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -676,10 +676,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspectos están en conflicto en esta situación?",
-      "context_summary": "Se presenta una situación en un barrio en la que instalaron un nuevo supermercado en una calle por la que, a diario, transitan muchos vehículos. El supermercado rápidamente adquirió popularidad entre los habitantes del barrio porque ofrecía productos a muy buen precio.",
-      "takeaway": "La necesidad de los peatones de transitar por el andén y la necesidad de parqueo de los clientes del supermercado.",
-      "analysis": "La pregunta evalúa la capacidad de identificar qué necesidades entran en conflicto dentro de una situación urbana. La opción C es correcta porque el problema surge cuando los vehículos ocupan el andén para parquear, afectando el tránsito seguro de los peatones.",
-      "distractors": "La opción A no es correcta porque, aunque existe la necesidad de parqueo de los clientes del supermercado, no se encuentra en conflicto con la necesidad de los habitantes de adquirir productos a buen precio: los dos se encuentran en la misma vía. La opción B no es correcta porque las dos opciones presentadas no se encuentran en conflicto, de hecho, son complementarias: necesidad de los carros de transitar por la vía y la necesidad de los peatones de transitar por el andén. La opción D no es correcta porque las dos necesidades no se relacionan entre sí. Las personas pueden comprar productos a buen precio y los carros necesitan transitar por las vías.",
+      "context_summary": "Un barrio en la que instalaron un nuevo supermercado en una calle por la que, a diario, transitan muchos vehículos. El supermercado rápidamente adquirió popularidad entre los habitantes del barrio porque ofrecía productos a muy buen precio.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "La pregunta evalúa la capacidad de identificar qué necesidades entran en conflicto dentro de una situación urbana. La respuesta correcta se sostiene porque el problema surge cuando los vehículos ocupan el andén para parquear, afectando el tránsito seguro de los peatones.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -733,11 +733,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿En qué se parecen las posiciones de Gloria y de Jorge?",
-      "context_summary": "Se plantea un caso en el que un colegio quiere establecer una campaña de reciclaje. Gloria, la coordinadora, propone que se instalen canecas especiales para reciclar y que se les enseñe a los estudiantes cómo utilizarlas.",
-      "takeaway": "Ambos reconocen que es importante que los estudiantes del colegio reciclen.",
-      "analysis": "La opción C es correcta, ya que, a pesar de las grandes diferencias que tienen los dos docentes en su perspectiva acerca del método para que los estudiantes reciclen, los dos manifiestan la importancia de que los estudiantes realicen esta actividad en el colegio.",
-      "distractors": "La opción A no es correcta, ya que, precisamente, métodos para lograr que los estudiantes del colegio reciclen son los que difieren: por un lado, Gloria propone enseñar y, por otro lado, Jorge opina que se deben imponer sanciones y castigos para que lo hagan. La opción B no es correcta, porque Gloria no manifiesta estar de acuerdo en castigar; por el contrario, propone enseñar a los estudiantes a utilizar canecas especiales para reciclar. La opción D no es correcta, ya que los dos profesores manifiestan el interés de que los estudiantes reciclen en el colegio, aunque, cada uno propone un método diferente para lograrlo.",
+      "guiding_question": "¿Qué comparten y en qué se diferencian las posturas de Gloria y Jorge sobre el reciclaje escolar?",
+      "context_summary": "Un colegio quiere establecer una campaña de reciclaje. Gloria, la coordinadora, propone que se instalen canecas especiales para reciclar y que se les enseñe a los estudiantes cómo utilizarlas.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque , a pesar de las grandes diferencias que tienen los dos docentes en su perspectiva acerca del método para que los estudiantes reciclen, los dos manifiestan la importancia de que los estudiantes realicen esta actividad en el colegio.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto. -> Comprendo que los conflictos ocurren en las relaciones, incluyendo las de pareja, y que se pueden manejar de manera constructiva si nos escuchamos y comprendemos los puntos de vista del otro."
     },
@@ -792,10 +792,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes sería un impacto de la medida?",
-      "context_summary": "Se presenta una situación en una ciudad en la que se presentan continuos problemas de transporte público, movilidad, y alertas por los altos niveles de contaminación. Dentro de la discusión de estos problemas, se propone utilizar un carril únicamente para bicicletas.",
-      "takeaway": "La calidad del aire mejorará, porque menos personas utilizarán un carro particular para movilizarse.",
-      "analysis": "La opción D es correcta, ya que uno de los intereses para proponer esta medida es que hay altos niveles de contaminación, por lo que, al disminuir los usuarios en carro, se podría mejorar la calidad del aire.",
-      "distractors": "La opción A no es correcta, ya que en ninguna parte del enunciado se menciona un cambio en el transporte público, o la decisión de cancelar el servicio; de hecho, incluye información que no se encuentra en el contexto. La opción B no es correcta, ya que al haber más carros circulando en menos vías, la movilidad empeorará. La opción C no es correcta, ya que no se sabe la distancia que van a recorrer los ciclistas y, con la información suministrada, no se evidencia que exista un cambio en su trayecto normal.",
+      "context_summary": "Una ciudad en la que se presentan continuos problemas de transporte público, movilidad, y alertas por los altos niveles de contaminación. Dentro de la discusión de estos problemas, se propone utilizar un carril únicamente para bicicletas.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque uno de los intereses para proponer esta medida es que hay altos niveles de contaminación, por lo que, al disminuir los usuarios en carro, se podría mejorar la calidad del aire.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Analiza efectos de decisiones en distintos aspectos de una situación problemática. -> Conozco y utilizo estrategias creativas para solucionar conflictos."
     },
@@ -849,11 +849,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿A cuál de las siguientes instancias debe dirigirse la estudiante para exponer la situación?",
-      "context_summary": "Se presenta una situación en un colegio en la que los estudiantes de 11.° están incumpliendo las normas del uso de la cancha de fútbol que se establecieron al inicio del año.",
+      "guiding_question": "¿Qué derecho, principio o institución permite resolver correctamente este caso?",
+      "context_summary": "Un colegio en la que los estudiantes de 11.° están incumpliendo las normas del uso de la cancha de fútbol que se establecieron al inicio del año.",
       "takeaway": "La idea clave es reconocer que la instancia escolar competente para defender los derechos de los estudiantes es el personero estudiantil.",
-      "analysis": "La pregunta evalúa el conocimiento sobre las instancias del Gobierno Escolar. La opción A es correcta porque el personero estudiantil es quien promueve y defiende los derechos de los estudiantes cuando se incumplen acuerdos o se vulneran condiciones de convivencia.",
-      "distractors": "La opción B no es correcta, ya que el Consejo Académico se encarga de asesorar a la coordinación académica, sobre todo, en asuntos que, como su nombre lo indica, tienen que ver con el ámbito académico, como el currículo, su mejoramiento y modificaciones. La opción C no es correcta, ya que el Consejo Estudiantil es el estamento, dentro del Gobierno Escolar, encargado de animar, promover y coordinar diferentes propuestas que garanticen el bienestar de los estudiantes, pero no es el encargado de promover el ejercicio de los deberes y derechos de los estudiantes. La opción D no es correcta, ya que el representante de profesor es el encargado de dar conocer la postura de los docentes en el Gobierno Escolar y, por ende, dentro de sus funciones no está velar para que se cumplan los acuerdos entre estudiantes.",
+      "analysis": "La pregunta evalúa el conocimiento sobre las instancias del Gobierno Escolar. La respuesta correcta se sostiene porque el personero estudiantil es quien promueve y defiende los derechos de los estudiantes cuando se incumplen acuerdos o se vulneran condiciones de convivencia.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos de participación democrática en los diferentes niveles gubernamentales (escolar, municipal, departamental y nacional). -> Conozco, analizo y uso los mecanismos de participación ciudadana."
     },
@@ -907,11 +907,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿A cuál de las siguientes ramas del poder público le corresponde evaluar el proyecto de ley?",
-      "context_summary": "Se plantea un caso en el que un grupo de ciudadanos estaba muy interesado en garantizar el buen trato a los animales, razón por la cual decidió proponer un proyecto de ley que garantizara la atención en salud a animales sin dueño y estableciera los procedimientos para darlos en adopción.",
+      "guiding_question": "¿Qué rama del poder público estudia y tramita los proyectos de ley en Colombia?",
+      "context_summary": "Un grupo de ciudadanos estaba muy interesado en garantizar el buen trato a los animales, razón por la cual decidió proponer un proyecto de ley que garantizara la atención en salud a animales sin dueño y estableciera los procedimientos para darlos en adopción.",
       "takeaway": "La idea clave es reconocer que los proyectos de ley deben ser estudiados por la rama legislativa.",
-      "analysis": "La opción B es correcta, ya que la Rama Legislativa es la encargada de promulgar y modificar las leyes o reformar la Constitución. Por lo que serían los encargados de estudiar la posibilidad de crear leyes que garanticen la atención en salud a animales sin dueños y establecer los procedimientos para darlos en adopción.",
-      "distractors": "La opción A no es correcta, ya que la Rama Ejecutiva, representada por el presidente de la Republica, los ministros y directores de departamento, es la encargada de garantizar el cumplimiento de los derechos y deberes. La opción C no es correcta, ya que la Rama Judicial se encarga de administrar la justicia en el país, vela por el cumplimiento de la ley y castiga a los que la infrinjan. La opción D no es correcta, ya que la rama de poder presidencial no existe y, por tanto, no puede ser la encargada de evaluar el proyecto de ley.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque la Rama Legislativa es la encargada de promulgar y modificar las leyes o reformar la Constitución. Por lo que serían los encargados de estudiar la posibilidad de crear leyes que garanticen la atención en salud a animales sin dueños y establecer los procedimientos para darlos en adopción.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la organización del Estado y las funciones básicas de las ramas del poder. -> Participo o lidero iniciativas democráticas en mi medio escolar o en mi comunidad, con criterios de justicia, solidaridad y equidad, y en defensa de los derechos civiles y políticos."
     },
@@ -966,10 +966,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A cuál de los intereses de los miembros de la comunidad escolar afectaría la propuesta del rector y por qué?",
-      "context_summary": "Se plantea un caso en el que en un colegio se han registrado resultados bajos en los exámenes de diferentes materias.",
-      "takeaway": "A los de los docentes, porque tendrían que trabajar más tiempo y esto podría afectar su vida personal y familiar.",
-      "analysis": "La opción A es correcta, ya que los docentes son los que deben trabajar más tiempo, lo que podría afectar sus vidas personal y familiar; además, ellos manifestaron no estar de acuerdo con realizar clases de refuerzos todos los fines de semana.",
-      "distractors": "La opción B no es correcta, ya que los padres manifestaron su interés de que los estudiantes reciban clases a pesar de que eso significara compartir menos en familia, con tal de que sus hijos mejoren los resultados. La opción C no es correcta, ya que el rector incluyó la importancia de invertir en material y recursos pedagógicos nuevos. Por lo que, a pesar de que refiere la afectación a los docentes, los argumentos no indican por qué los están afectando. La opción D no es correcta, ya que los padres manifestaron estar dispuestos a sacrificar los tiempos en familia los fines de seman, para que los niños asistan al colegio mientras mejoran los resultados.",
+      "context_summary": "En un colegio se han registrado resultados bajos en los exámenes de diferentes materias.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque los docentes son los que deben trabajar más tiempo, lo que podría afectar sus vidas personal y familiar; además, ellos manifestaron no estar de acuerdo con realizar clases de refuerzos todos los fines de semana.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución, considerando los aspectos positivos y negativos de cada una."
     },
@@ -1023,11 +1023,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes razones explica la decisión del Gobierno?",
-      "context_summary": "Se plantea un caso en el que en un colegio se aplican sanciones disciplinarias a los niños indígenas que no portan el uniforme como lo señalan las normas y se visten con algunas prendas propias de su cultura.",
-      "takeaway": "El deber de proteger la diversidad étnica y cultural en todo el país.",
-      "analysis": "La pregunta evalúa el conocimiento de principios constitucionales sobre diversidad étnica y cultural. La opción A es correcta porque el Estado debe proteger la diversidad cultural y no puede permitir que una institución sancione a estudiantes indígenas por usar prendas propias de su cultura.",
-      "distractors": "La opción B no es correcta, ya que en este caso no se está vulnerando el derecho a la educación, sino la posibilidad de asistir al colegio con una vestimenta diferente al uniforme del colegio. La opción C no es correcta, ya que en la Constitución, en el Artículo 7, manifiesta la obligación del Estado de proteger la riqueza cultural. Por lo que no es un deber del Estado garantizar que exista una sola cultura en todo el país. La opción D no es correcta, ya que no es solo deber exclusivo de los indígenas exigir y proteger sus derechos; según la Constitución, es el Estado quien está obligado a garantizar los derechos.",
+      "guiding_question": "¿Por qué la protección de la diversidad cultural limita las normas escolares uniformadoras?",
+      "context_summary": "En un colegio se aplican sanciones disciplinarias a los niños indígenas que no portan el uniforme como lo señalan las normas y se visten con algunas prendas propias de su cultura.",
+      "takeaway": "La Constitución protege la diversidad étnica y cultural por encima de normas escolares que pretendan uniformar a toda la comunidad.",
+      "analysis": "La pregunta evalúa el conocimiento de principios constitucionales sobre diversidad étnica y cultural. La respuesta correcta se sostiene porque el Estado debe proteger la diversidad cultural y no puede permitir que una institución sancione a estudiantes indígenas por usar prendas propias de su cultura.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce algunos de los principios fundamentales de la Constitución. -> Comprendo las características del Estado de Derecho y su importancia para garantizar los derechos ciudadanos."
     },
@@ -1081,11 +1081,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Con cuál de las siguientes cosmovisiones es más compatible este argumento?",
-      "context_summary": "Se plantea un caso en el que el siguiente argumento presenta las ideas de una comunidad en contra de la eutanasia, es decir, la acción de acelerar la muerte de un enfermo terminal para evitarle sufrimientos innecesarios: Estamos de acuerdo con morir con dignidad, con los cuidados para evitar el dolor, con la hidratación y con el uso de todos los medicamentos que le sirvan a una persona para vivir, pero no aceptamos matar a un enfermo terminal, así él lo pida, porque es un homicidio o un suicidio asistido y eso es un crimen.",
-      "takeaway": "La vida es un derecho sagrado sobre el cual las personas no tienen poder de decisión.",
-      "analysis": "La opción A es correcta, ya que da razones por las cuales se justifica estar en contra de la eutanasia, como que la vida es sagrada; por tanto, no se puede tener poder de decisión, es la única opción que está en la misma línea que el argumento del enunciado.",
-      "distractors": "La opción B no es correcta, ya que la cosmovisión del anunciado manifiesta que la eutanasia es un crimen y, en esta opción se habla de la libertad de poder disponer de su propia vida; por ende, estas cosmovisiones son incompatibles. La opción C no es correcta porque estas dos cosmovisiones se encuentran en conflicto, puesto que la cosmovisión del enunciado afirma que la eutanasia es un crimen así la persona que padece una enfermedad lo pida; mientras que, esta opción manifiesta el apoyo a esta práctica afirmando que el ser humano es racional y autónomo, por lo que puede decidir el momento de morir con el fin de evitar el sufrimiento. La opción D no es correcta, ya que va en contravía con la cosmovisión del enunciado, pues sus argumentos son que la eutanasia va en contra de la vida humana y la ley divina y esta opción manifiesta la capacidad para poder renunciar al derecho si las personas lo deciden.",
+      "guiding_question": "¿Qué visión del mundo y de la dignidad humana sostiene la postura presentada?",
+      "context_summary": "El siguiente argumento presenta las ideas de una comunidad en contra de la eutanasia, es decir, la acción de acelerar la muerte de un enfermo terminal para evitarle sufrimientos innecesarios: Estamos de acuerdo con morir con dignidad, con los cuidados para evitar el dolor, con la hidratación y con el uso de todos los medicamentos que le sirvan a una persona para vivir, pero no aceptamos matar a un enfermo terminal, así él lo pida, porque es un homicidio o un suicidio asistido y eso es un crimen.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque da razones por las cuales se justifica estar en contra de la eutanasia, como que la vida es sagrada; por tanto, no se puede tener poder de decisión, es la única opción que está en la misma línea que el argumento del enunciado.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución, considerando los aspectos positivos y negativos de cada una."
     },
@@ -1140,10 +1140,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué intención parece tener el jefe indígena al enviarle esta carta al presidente de Estados Unidos?",
-      "context_summary": "Se plantea un caso en el que seattle, el jefe de un grupo indígena, recibe del presidente de Estados Unidos la propuesta de comprarle una tierra, que sería utilizada por agricultores estadounidenses.",
-      "takeaway": "Explicarle el valor que tienen la tierra y los animales para ellos, y lo importante que es su cuidado y protección.",
-      "analysis": "La opción B es correcta, ya que Seattle escribe en sus cartas las características que tienen sus tierras; adicionalmente, cuando indica que “todo va enlazado” hace alusión a la relación que tiene el entorno con el hombre. Por lo que Seattle le manifiesta, es el valor de la tierra y los animales para la comunidad y la importancia de cuidarlos.",
-      "distractors": "La opción A no es correcta, ya que Seattle no habla del accionar que tienen los estadounidenses, sino centra su escrito en la relación y el trato que tiene su comunidad con el entorno. La opción C no es correcta, ya que Seattle no manifiesta la cantidad de familias que viven en la tribu; se trata de una información adicional que no se encuentra sustentada por el contexto dado. La opción D no es correcta porque Seattle no manifiesta el interés de enseñarle al presidente de Estados Unidos cómo se debe cuidar la tierra; por el contrario, su carta manifiesta la relación que tiene su tribu con la tierra y los animales.",
+      "context_summary": "Seattle, el jefe de un grupo indígena, recibe del presidente de Estados Unidos la propuesta de comprarle una tierra, que sería utilizada por agricultores estadounidenses.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque Seattle escribe en sus cartas las características que tienen sus tierras; adicionalmente, cuando indica que “todo va enlazado” hace alusión a la relación que tiene el entorno con el hombre. Por lo que Seattle le manifiesta, es el valor de la tierra y los animales para la comunidad y la importancia de cuidarlos.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Identifica prejuicios e intenciones de enunciados enmarcados en asuntos ciudadanos, así como sus posibles impactos negativos. -> Comprendo los conceptos de prejuicio y estereotipo y su relación con la exclusión, la discriminación y la intolerancia a la diferencia."
     },
@@ -1198,10 +1198,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspecto importante le hace falta tener en cuenta al director de curso para entender el problema?",
-      "context_summary": "Se plantea un caso en el que el profesor de Español tuvo que reemplazar temporalmente al de Sociales, pues este estaba enfermo. Con el cambio de profesor, las notas de Sociales de los estudiantes de 5.° bajaron.",
-      "takeaway": "Si el profesor está interesado en enseñar los temas de Sociales.",
-      "analysis": "La pregunta evalúa la capacidad de reconocer aspectos que faltan para comprender un problema escolar. La opción C es correcta porque, además de oír a los estudiantes, hace falta considerar si el profesor sustituto realmente está dispuesto e interesado en enseñar Sociales de manera adecuada.",
-      "distractors": "La opción A no es correcta, ya que el director de curso averiguó con los estudiantes de quinto, quienes manifiestan que les llama la atención los temas de Sociales, por lo que sí tuvo en cuenta el interés de los estudiantes por aprender esta asignatura. La opción B no es correcta, ya que en las averiguaciones que hizo el director de curso para entender el problema de que los estudiantes bajaran sus notas, no se evidenció que tuviese que incluir el apoyo de los padres en las tareas. La opción D no es correcta, ya que para entender el problema de que los estudiantes de quinto bajaron sus notas en Sociales, no se requiere saber si en otras asignaturas hay grupos de estudio o si este factor pueda incidir en el problema.",
+      "context_summary": "El profesor de Español tuvo que reemplazar temporalmente al de Sociales, pues este estaba enfermo. Con el cambio de profesor, las notas de Sociales de los estudiantes de 5.° bajaron.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "La pregunta evalúa la capacidad de reconocer aspectos que faltan para comprender un problema escolar. La respuesta correcta se sostiene porque , además de oír a los estudiantes, hace falta considerar si el profesor sustituto realmente está dispuesto e interesado en enseñar Sociales de manera adecuada.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -1256,10 +1256,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes intereses de la estudiante entraría en conflicto con pasarle las respuestas a su amigo?",
-      "context_summary": "Se plantea un caso en el que un estudiante de noveno necesita sacar una nota casi perfecta en un examen de Matemáticas para no perder el año.",
-      "takeaway": "El interés por evitar que haya problemas con la escuela.",
-      "analysis": "La pregunta evalúa la capacidad de identificar intereses en conflicto dentro de un dilema ético. La opción B es correcta porque ayudar a un amigo copiando puede chocar directamente con el interés de evitar sanciones o problemas graves con la institución.",
-      "distractors": "La opción A no es correcta, ya que el interés por evitar que su amigo pierda el año no se encuentra en conflicto con pasarle las respuestas del examen de matemáticas, incluso, podrían ser complementarias. La opción C no es correcta, ya que en el enunciado se manifiesta que la estudiante ya es una de las mejores del curso en Matemáticas y no se encuentra en contravía de pasarle las respuestas a su amigo; puede continuar siendo una de las mejores. La opción D no es correcta, ya que parte del interés de pasarle las respuestas a su amigo puede ser el de estar en el mismo curso en el año siguiente, por lo que estás dos opciones no se encuentran en conflicto.",
+      "context_summary": "Un estudiante de noveno necesita sacar una nota casi perfecta en un examen de Matemáticas para no perder el año.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "La pregunta evalúa la capacidad de identificar intereses en conflicto dentro de un dilema ético. La respuesta correcta se sostiene porque ayudar a un amigo copiando puede chocar directamente con el interés de evitar sanciones o problemas graves con la institución.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto. -> Comprendo que los conflictos ocurren en las relaciones, incluyendo las de pareja, y que se pueden manejar de manera constructiva si nos escuchamos y comprendemos los puntos de vista del otro."
     },
@@ -1313,11 +1313,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿La decisión de la institución estatal es adecuada?",
-      "context_summary": "Se presenta el caso de una institución estatal decidió llevar a casas especiales de cuidado y protección a aquellos niños y niñas menores de diez años de edad que pasaran largas horas vendiendo cualquier tipo de productos en las calles de una ciudad.",
-      "takeaway": "Sí, porque en este caso los derechos de los niños al cuidado y la protección están por encima de los derechos de los padres a vivir con sus hijos.",
-      "analysis": "La opción C es correcta, pues la Constitución Política de Colombia, en el Artículo 44, manifiesta que los derechos de los niños prevalecen sobre los derechos de los demás; en este caso, los derechos de los niños se encuentran por encima del derecho de los padres a vivir con sus hijos.",
-      "distractors": "La opción A no es correcta, porque el hecho de que los menores trabajen va en contravía con la legislación colombiana, puesto que, a pesar de las condiciones que pueda tener su núcleo familiar en la que requiere un ingreso adicional, el trabajo infantil es catalogado como una explotación laboral o económica y, por ende, es ilegal. La opción B no es correcta, según el Artículo 44 de la Constitución Política de Colombia, los derechos de los niños y las niñas prevalecen sobre los derechos de los demás, incluyendo a sus padres. Por tanto, los tutores no pueden decidir si deben dejar de estudiar para trabajar, ya que viola los derechos constitucionales del niño. La opción D no es correcta, en Colombia la edad en la cual una persona puede empezar a trabajar es cuando cumple mayoría de edad, es decir, 18 años. Se exceptuan algunos casos, en los que por unas condiciones especiales y con autorización de las autoridades competentes, se permite el trabajo de menores de edad.",
+      "guiding_question": "¿Cómo se resuelve este caso cuando entran en tensión la autoridad familiar y la protección reforzada de la niñez?",
+      "context_summary": "Una institución estatal decidió llevar a casas especiales de cuidado y protección a aquellos niños y niñas menores de diez años de edad que pasaran largas horas vendiendo cualquier tipo de productos en las calles de una ciudad.",
+      "takeaway": "Cuando se vulneran derechos de niños y niñas, su protección prevalece sobre decisiones familiares o intereses económicos.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque la Constitución Política de Colombia, en el Artículo 44, manifiesta que los derechos de los niños prevalecen sobre los derechos de los demás; en este caso, los derechos de los niños se encuentran por encima del derecho de los padres a vivir con sus hijos.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los derechos fundamentales consagrados en la Constitución. -> Rechazo las situaciones de discriminación y exclusión social en el país; comprendo sus posibles causas y las consecuencias negativas para la sociedad."
     },
@@ -1372,10 +1372,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué circunstancia genera este conflicto?",
-      "context_summary": "Se presenta el caso de una comunidad rural está siendo afectada por la escasez de agua. Para evitar que el problema continúe, las autoridades proponen suspender este servicio dos días a la semana.",
-      "takeaway": "La dificultad que tienen las autoridades para buscar otras fuentes de agua para abastecer a la comunidad.",
-      "analysis": "La opción A es correcta porque la medida surge porque existe escasez de agua, por lo cual, se puede inferir la imposibilidad que tuvo la autoridad para encontrar fuentes alternas que le permitiera abastecer a toda la comunidad.",
-      "distractors": "La opción B no es correcta, ya que, según el enunciado, el agua se va a repartir equitativamente por días y por sectores entre la comunidad. Está razón no es la circunstancia que ha generado el conflicto de la que se derivó la medida. La opción C no es correcta, ya que en el enunciado tanto los agricultores como los ganaderos hablaron de su situación específica y los efectos que iba a tener en sus actividades, sin entrar a dar testimonio sobre otros sectores o si alguno es más importante que otro. La opción D no es correcta, ya que en el enunciado no se menciona que la agricultura sea más importante que las actividades ganaderas y, por tanto, requiera un trato diferencial.",
+      "context_summary": "Una comunidad rural está siendo afectada por la escasez de agua. Para evitar que el problema continúe, las autoridades proponen suspender este servicio dos días a la semana.",
+      "takeaway": "Los conflictos por recursos escasos se entienden mejor cuando se reconocen sus causas estructurales y la dependencia de distintos actores.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque la medida surge porque existe escasez de agua, por lo cual, se puede inferir la imposibilidad que tuvo la autoridad para encontrar fuentes alternas que le permitiera abastecer a toda la comunidad.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -1429,11 +1429,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál es el interés del alcalde al aceptar esa propuesta?",
-      "context_summary": "Se plantea un caso en el que un alcalde le impone una millonaria multa a una empresa por destruir un bosque en su municipio. La empresa se niega a pagar, y a cambio propone construir varios hoteles en el municipio, con los que se generarán muchos empleos.",
-      "takeaway": "Mejorar la economía del municipio.",
-      "analysis": "La opción D es correcta porque la decisión del alcalde se relaciona con el aspecto económico. La empresa va a construir una serie de hoteles en el municipio a cambio de no pagar la multa por la destrucción de un bosque y el alcalde aceptó dicha propuesta. Se puede inferir que una de las razones para hacerlos es que va a generar empleo en el municipio y por tanto se daría una mejora a nivel económico.",
-      "distractors": "La opción A no es correcta, ya que, desde el inicio, el alcalde buscó que la empresa tuviera que pagar por la destrucción del bosque. Por lo que, el interés del alcalde se encontraba en que hubiese algún tipo de reparación, más no en ahorrarle dinero a la empresa. La opción B no es correcta porque la propuesta aceptada por el alcalde no incluye la protección y el cuidado del medio ambiente, a pesar de que la construcción de hoteles está asociada a una reparación por un daño ambiental no se manifiesta que vaya encaminada hacia ese tipo de cuidado. La opción C no es correcta, ya que el alcalde no manifiesta que la reparación económica esté en pro de la protección de los bosques del municipio.",
+      "guiding_question": "¿Qué interés público parece privilegiar el alcalde al aceptar la propuesta de la empresa?",
+      "context_summary": "Un alcalde le impone una millonaria multa a una empresa por destruir un bosque en su municipio. La empresa se niega a pagar, y a cambio propone construir varios hoteles en el municipio, con los que se generarán muchos empleos.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque la decisión del alcalde se relaciona con el aspecto económico. La empresa va a construir una serie de hoteles en el municipio a cambio de no pagar la multa por la destrucción de un bosque y el alcalde aceptó dicha propuesta. Se puede inferir que una de las razones para hacerlos es que va a generar empleo en el municipio y por tanto se daría una mejora a nivel económico.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución, considerando los aspectos positivos y negativos de cada una."
     },
@@ -1488,10 +1488,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes comportamientos es más afín con la creencia del hinduismo?",
-      "context_summary": "Se plantea un caso en el que en un grupo de personas que practican el hinduismo se considera que la no violencia es el deber religioso más básico de cualquier persona.",
-      "takeaway": "Crear un grupo de apoyo a padres de familia para promover estrategias de crianza en las que no se haga uso del castigo físico ni verbal.",
-      "analysis": "La opción D es correcta, ya que las creencias del hindusimo incluyen no cometer ningún tipo de actos violentos (físicos y psicológicos), por tanto, contribuir con sus enseñanzas a brindar estrategias de crianza que no incluya castigo físico ni verbal.",
-      "distractors": "La opción A no es correcta porque la compra y distribución de productos elaborados con piel de animal se cataloga como una actividad violenta para el animal, por ende, se encuentra en contravía con la creencia de la comunidad hindú. La opción B no es correcta porque arrojar al mar productos no biodegradables causa daño al ecosistema y por lo tanto a la vida marina, por lo que se encuentra en contravía con la creencia hindú. La opción C no es correcta porque la creencia hindú valora la vida de todo ser vivo y eso incluye la del ser humano, por lo que no estaría alineada con el apoyo de la interrupción de la vida.",
+      "context_summary": "En un grupo de personas que practican el hinduismo se considera que la no violencia es el deber religioso más básico de cualquier persona.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque las creencias del hindusimo incluyen no cometer ningún tipo de actos violentos (físicos y psicológicos), por tanto, contribuir con sus enseñanzas a brindar estrategias de crianza que no incluya castigo físico ni verbal.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce que las diferentes concepciones y roles sociales determinan diferentes posiciones y comportamientos. -> Rechazo las situaciones de discriminación y exclusión social en el país; comprendo sus posibles causas y las consecuencias negativas para la sociedad."
     },
@@ -1546,10 +1546,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuáles intereses podría entrar en conflicto y por qué?",
-      "context_summary": "Se presenta una situación en un debate organizado por el alcalde de una ciudad se discute si todos los colegios deben ofrecer jornada escolar completa en la que es decir, de 7:00 a. m. a 3:30 p. m. de lunes a viernes.",
-      "takeaway": "Los intereses del padre de familia y del profesor, porque la propuesta de que los profesores se queden esperando a los familiares de los estudiantes alargaría demasiado su jornada laboral.",
-      "analysis": "La opción C es correcta porque los intereses de los padres no incluyen las opiniones de los docentes, por tanto, el esfuerzo adicional por esperar que sean recogidos los estudiantes, significaría ampliar la jornada laboral de los docentes, lo que puede tener consecuencias en sus vidas privadas y familiares.",
-      "distractors": "La opción A no es correcta porque el rector, al igual que los docentes, considera necesario tener en cuenta el aspecto económico de la implementación de una jornada escolar completa. Por lo que sus intereses no se encuentran en conflicto. La opción B no es correcta, ya que en el enunciado no se indica que los padres de familia consideren importante recibir recursos de la Alcaldía, o que esta medida pueda afectar la economía de las familias. La opción D no es correcta porque incluye información que no se encuentra en el enunciado, puesto que, en esta opción se afirma que los docentes reconocen que no hay recursos suficientes para esto, y su opinión va encaminada a manifestar la necesidad de aumentar el pago por las horas de clase adicionales.",
+      "context_summary": "Un debate organizado por el alcalde de una ciudad se discute si todos los colegios deben ofrecer jornada escolar completa en la que es decir, de 7:00 a. m. a 3:30 p. m. de lunes a viernes.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque los intereses de los padres no incluyen las opiniones de los docentes, por tanto, el esfuerzo adicional por esperar que sean recogidos los estudiantes, significaría ampliar la jornada laboral de los docentes, lo que puede tener consecuencias en sus vidas privadas y familiares.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto. -> Comprendo que los conflictos ocurren en las relaciones, incluyendo las de pareja, y que se pueden manejar de manera constructiva si nos escuchamos y comprendemos los puntos de vista del otro."
     },
@@ -1603,11 +1603,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes ramas del poder público evaluaría su petición?",
+      "guiding_question": "¿Qué institución tiene competencia para tramitar y responder de manera adecuada una petición ciudadana?",
       "context_summary": "Se presenta un caso sobre el derecho de petición y se pregunta qué rama del poder público sería competente para evaluar un cambio en la ley que lo regula en Colombia.",
       "takeaway": "La idea clave es reconocer que los cambios en una ley deben tramitarse ante la rama legislativa.",
-      "analysis": "La opción A es correcta, pues, al estar legislado el derecho de petición, para poder realizar algunos cambios con respecto a su regulación se debe recurrir a la rama legislativa. Ya que, es la encargada de promulgar, modificar y reformar las leyes.",
-      "distractors": "La opción B no es correcta, la rama ejecutiva representada por el presidente de la República, los ministros, entre otros, le corresponde realizar las acciones orientadas a los intereses generales de la comunidad para el cumplimiento de los fines esenciales del Estado. La opción C no es correcta, la rama judicial se encarga de administrar la justicia en el país, solucionar conflictos entre los ciudadanos y entre éstos y el Estado y velar por el cumplimiento de la ley. La opción D no es correcta, ya que la rama de poder constitucional no existe y por lo tanto no puede ser la encargada de evaluar la petición.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque , al estar legislado el derecho de petición, para poder realizar algunos cambios con respecto a su regulación se debe recurrir a la rama legislativa. Ya que, es la encargada de promulgar, modificar y reformar las leyes.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la organización del Estado y las funciones básicas de las ramas del poder. -> Participo o lidero iniciativas democráticas en mi medio escolar o en mi comunidad, con criterios de justicia, solidaridad y equidad, y en defensa de los derechos civiles y políticos."
     },
@@ -1662,10 +1662,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué aspecto de la situación le da más importancia el padre de Julián?",
-      "context_summary": "Se plantea un caso en el que el papá de Julián, después de enterarse de lo que habían hecho ese día en el colegio, escribió, ofendido, una carta a la rectora: “El día de hoy el profesor de Julián llevó a los estudiantes a visitar una fábrica de prendas de cuero, dizque para que aprendieran sobre el trabajo en las fábricas y pudieran ver ellos mismos el proceso mediante el cual se transforma la piel de una vaca en una chaqueta de cuero.",
-      "takeaway": "A la protección de los animales que se usan para producir cuero.",
-      "analysis": "La opción B es correcta porque el papá de Julián, en su carta, manifiesta su inconformidad hacia la enseñanza impartida a su hijo en una visita de fábrica de cueros, por lo que solicita que no vuelvan a incluir en su hijo en salidas que le enseñen que está bien matar animales para producir ropa y que se deba incluir una clase para hablar de los derechos que tienen los animales. Por tanto, en la situación, muestra una mayor preocupación por la protección de los animales.",
-      "distractors": "La opción A no es correcta porque en la carta enviada a la rectora el padre dice “dizque para aprender sobre el trabajo en las fábricas”, con lo cual manifiesta su inconformidad con que le hayan enseñado a su hijo que está bien matar animales para producir ropa. La opción C no es correcta porque el papá de Julián, en su carta, no habla acerca del derecho que tienen las personas que dependen de esta actividad, sino el de los animales que son maltratados como parte del proceso de producción. La opción D no es correcta porque el papá de Julián no habla específicamente de los animales domésticos, sino de los animales que hacen parte de la producción en las fábricas de cuero.",
+      "context_summary": "El papá de Julián, después de enterarse de lo que habían hecho ese día en el colegio, escribió, ofendido, una carta a la rectora: “El día de hoy el profesor de Julián llevó a los estudiantes a visitar una fábrica de prendas de cuero, dizque para que aprendieran sobre el trabajo en las fábricas y pudieran ver ellos mismos el proceso mediante el cual se transforma la piel de una vaca en una chaqueta de cuero.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque el papá de Julián, en su carta, manifiesta su inconformidad hacia la enseñanza impartida a su hijo en una visita de fábrica de cueros, por lo que solicita que no vuelvan a incluir en su hijo en salidas que le enseñen que está bien matar animales para producir ropa y que se deba incluir una clase para hablar de los derechos que tienen los animales. Por tanto, en la situación, muestra una mayor preocupación por la protección de los animales.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -1720,10 +1720,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los dos estudiantes apoya la opinión del profesor?",
-      "context_summary": "Se plantea un caso en el que en clase de Ciencias Naturales, el profesor afirma: “Es fundamental proteger el medio ambiente. La vida de todos los seres que viven en nuestro planeta es igual de importante a la nuestra”.",
-      "takeaway": "Julián, porque afirma que debemos preservar los ecosistemas y respetar a todos los seres vivos.",
-      "analysis": "La opción D es correcta porque Julián reconoce que se deben preservar y respetar todos los seres vivos simplemente porque en ellos hay vida; además, va en la misma línea de la opinión del docente al decir que se deben cuidar a los seres que viven en la tierra porque su vida es igual de importantes a la nuestra.",
-      "distractors": "La opción A no es correcta porque Camila condiciona que se deben cuidar los recursos naturales para que el ser humano los pueda usar, lo que va en contravía con lo mencionado por el profesor en torno a que todas las vidas son igual de importantes. La opción B no es correcta porque Julián no menciona en sus argumentos que hay que aprovechar y explotar la vida en los ecosistemas, por el contrario, afirma que se deben cuidar los ecosistemas simplemente porque en ellos hay vida. La opción C no es correcta porque Camila manifiesta que es importante cuidar el medio ambiente para que los humanos puedan aprovechar sus recursos para seguir existiendo, por lo que va en contravía con la idea del profesor sobre el cuidado porque viven en el planeta y sus vidas son igual de importantes a la nuestra.",
+      "context_summary": "En clase de Ciencias Naturales, el profesor afirma: “Es fundamental proteger el medio ambiente. La vida de todos los seres que viven en nuestro planeta es igual de importante a la nuestra”.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque Julián reconoce que se deben preservar y respetar todos los seres vivos simplemente porque en ellos hay vida; además, va en la misma línea de la opinión del docente al decir que se deben cuidar a los seres que viven en la tierra porque su vida es igual de importantes a la nuestra.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Identifico dilemas relacionados con problemas de exclusión y analizo alternativas de solución, considerando los aspectos positivos y negativos de cada opción."
     },
@@ -1777,11 +1777,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes formas de ver la vida explica mejor lo dicho por la persona vegetariana?",
-      "context_summary": "Se plantea un caso en el que un famoso restaurante, conocido por ofrecer una gran variedad de carnes (de res, cerdo y pollo), organizó un concurso de cocina. Los participantes debían preparar recetas con carne, y el plato ganador sería incluido en la carta del restaurante.",
-      "takeaway": "La vida de los animales es igual de valiosa a la de los humanos, por lo cual no se debe comer su carne.",
-      "analysis": "La opción D es correcta, pues la persona vegetariana indica que quiere usar carne de soya en modo de protesta, porque hay personas que al decir que no quieren sacrificar la vida de los otros seres, y consideran que la vida de los animales es igual de valiosa a la de los humanos.",
-      "distractors": "La opción A no es correcta porque esta opción habla de características de la comida, más no de la posición de la persona vegetariana y sus razones para competir con carne de soya. La opción B no es correcta, puesto que en esta opción hace referencia específicamente a la importancia de la vida de las personas, excluyendo la de otros seres vivos, por lo que va en contravía con lo mencionado por la persona vegetariana. La opción C no es correcta porque la persona vegetariana, en su forma de protesta, no incluye información acerca de la historia y la cultura de los pueblos, y que esté haciendo una manifestación para que se rescaten estas prácticas.",
+      "guiding_question": "¿Qué concepción ética sobre la relación entre seres humanos y animales sustenta esta postura?",
+      "context_summary": "Un famoso restaurante, conocido por ofrecer una gran variedad de carnes (de res, cerdo y pollo), organizó un concurso de cocina. Los participantes debían preparar recetas con carne, y el plato ganador sería incluido en la carta del restaurante.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque la persona vegetariana indica que quiere usar carne de soya en modo de protesta, porque hay personas que al decir que no quieren sacrificar la vida de los otros seres, y consideran que la vida de los animales es igual de valiosa a la de los humanos.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución, considerando los aspectos positivos y negativos de cada una."
     },
@@ -1836,10 +1836,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspectos están en conflicto en esta situación?",
-      "context_summary": "Se plantea un caso en el que la madre de un estudiante le solicita al rector que le dé permiso a su hijo para no asistir a la clase de Biología.",
-      "takeaway": "Las creencias religiosas y los planes de estudio del colegio.",
-      "analysis": "La opción A es correcta porque de acuerdo a lo expresado por la madre, lo que entra en conflicto es el contenido y programa de la clase, con creencias religiosas de la familia.",
-      "distractors": "La opción B no es correcta porque en el contexto no se hace referencia a la autoridad de los adultos ni tampoco a la desobediencia de los niños, por lo que esta opción no se encuentra en conflicto en la situación abordada. La opción C no es correcta porque en el contexto no se incluye información acerca de la existencia de indisciplina en las clases o información relacionada con que se esté faltando a los deberes académicos. Por tanto, con la información dada no se puede suponer un conflicto entre estos dos ámbitos. La opción D no es correcta, ya que, aunque se encuentran en conflicto las creencias religiosas que tiene la familia del niño, no se está poniendo en duda la autoridad que tienen los docentes. Por tanto, no se encuentra evidencia de existencia de un conflicto.",
+      "context_summary": "La madre de un estudiante le solicita al rector que le dé permiso a su hijo para no asistir a la clase de Biología.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque de acuerdo a lo expresado por la madre, lo que entra en conflicto es el contenido y programa de la clase, con creencias religiosas de la familia.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -1894,10 +1894,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué aspecto se le da un mayor énfasis en esta descripción de la situación?",
-      "context_summary": "Se plantea un caso en el que el Gobierno de un país dio permiso a una empresa minera para hacer exploraciones en la zona que rodea uno de sus ríos más hermosos, famoso porque su agua parece de siete colores.",
-      "takeaway": "Al impacto económico que tendría la reducción del turismo en la región.",
-      "analysis": "La opción A es correcta porque en el enunciado se describe la enorme preocupación de la ciudadanía por el riesgo al ecosistema; esto lo asocian a los efectos en la cantidad de turistas y cómo perjudicaría a la economía del municipio y a las familias que viven del turismo. Por lo que se enfatiza en la parte económica.",
-      "distractors": "La opción B no es correcta, ya que las preocupaciones a las que se refieren los habitantes del municipio y su alcalde no hacen referencia a los cambios culturales, o que su cultura está asociada al turismo. La opción C no es correcta porque en la situación descrita se presta más atención a la opinión de los habitantes del municipio y a la reacción del alcalde frente a la posibilidad de las exploraciones mineras en el municipio. La opción D no es correcta porque, a pesar de que se menciona el riesgo ambiental en la descripción de la situación, la mayor preocupación es acerca del aspecto económico. Esto, al mencionar, por ejemplo, la posibilidad de que cientos de familias se vean afectadas, en caso de que se reduzca el turismo en el municipio.",
+      "context_summary": "El Gobierno de un país dio permiso a una empresa minera para hacer exploraciones en la zona que rodea uno de sus ríos más hermosos, famoso porque su agua parece de siete colores.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque en el enunciado se describe la enorme preocupación de la ciudadanía por el riesgo al ecosistema; esto lo asocian a los efectos en la cantidad de turistas y cómo perjudicaría a la economía del municipio y a las familias que viven del turismo. Por lo que se enfatiza en la parte económica.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -1951,11 +1951,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes personas podría darle a María una opinión más confiable sobre el tema?",
-      "context_summary": "Se plantea un caso en el que los papás de María quieren que estudie medicina luego de terminar el colegio. Aunque a María le interesa la medicina, no está segura de querer estudiar esa carrera, pues también le gustan muchas otras cosas, como el arte, las matemáticas y la educación física.",
-      "takeaway": "Un estudiante de medicina de últimos semestres.",
-      "analysis": "La opción C es correcta porque un estudiante de últimos semestres de medicina le puede ayudar a María a tener más información sobre cómo es la carrera y puede tener una opinión confiable sobre estudiar esta disciplina.",
-      "distractors": "La opción A no es correcta porque, a pesar de que una persona que está segura de estudiar medicina puede ser una fuente de motivación, no es la más confiable en comparación con una estudiante de últimos semestres de medicina, quien puede hablar desde su experiencia. La opción B no es correcta porque, aunque matemáticas es una de las opciones que le gusta a María, sus padres quieren que conozca sobre la carrera de medicina y, por ende, se encuentra en contravía a la opción que sugieren sus padres. La opción D no es correcta, ya que la rectora del colegio de María es posible que no tenga la información que le pueda facilitar la toma de decisión a la estudiante sobre cuál carrera estudiar.",
+      "guiding_question": "¿Qué características vuelven más confiable una opinión cuando alguien debe decidir su proyecto de vida?",
+      "context_summary": "Los papás de María quieren que estudie medicina luego de terminar el colegio. Aunque a María le interesa la medicina, no está segura de querer estudiar esa carrera, pues también le gustan muchas otras cosas, como el arte, las matemáticas y la educación física.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque un estudiante de últimos semestres de medicina le puede ayudar a María a tener más información sobre cómo es la carrera y puede tener una opinión confiable sobre estudiar esta disciplina.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Identifico dilemas relacionados con problemas de exclusión y analizo alternativas de solución, considerando los aspectos positivos y negativos de cada opción."
     },
@@ -2009,11 +2009,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes circunstancias da lugar al conflicto entre los ciudadanos que tienen carros particulares y el alcalde?",
-      "context_summary": "Se presenta una situación en una ciudad se ha incrementado la compra y uso de carros particulares. debido a esto en la que hay más trancones, pues hay muchos más carros circulando por las calles.",
-      "takeaway": "Que la medida que propone el alcalde no garantiza buenas condiciones de seguridad para los dueños de carros particulares.",
-      "analysis": "La opción B es correcta porque la medida que propone el alcalde tiene el propósito de bajar la circulación de carros y, con ello, mejorar la calidad del aire, pero no incluye el posible riesgo que puedan tener los dueños de los carros por cumplir la medida de mínimo dos personas en un auto.",
-      "distractors": "La opción A no es correcta porque la medida que propone el alcalde tiene como objetivo mejorar la calidad del aire y el ambiente, pero no se evidencia que este sea un factor de conflicto con los dueños de carros, por lo que esta opción no es cierta. La opción C no es correcta porque, según el contexto, se propone desestimular el uso del carro, pero no se presenta la opción de que sea para motivar el uso de la bicicleta, por lo que no se tiene evidencia de que este sea un motivo de conflicto entre el alcalde y los dueños de los carros. La opción D no es correcta porque el conflicto entre el alcalde y los dueños de carros particulares no menciona que sea por falta de explicación de la medida.",
+      "guiding_question": "¿Qué tensión entre movilidad, seguridad y uso del espacio urbano origina este conflicto?",
+      "context_summary": "Una ciudad se ha incrementado la compra y uso de carros particulares. debido a esto en la que hay más trancones, pues hay muchos más carros circulando por las calles.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque la medida que propone el alcalde tiene el propósito de bajar la circulación de carros y, con ello, mejorar la calidad del aire, pero no incluye el posible riesgo que puedan tener los dueños de los carros por cumplir la medida de mínimo dos personas en un auto.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -2068,10 +2068,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿El profesor tiene información suficiente para afirmar esto?",
-      "context_summary": "Se plantea un caso en el que un profesor se da cuenta de que los estudiantes de su curso que pertenecen a barras de fútbol tienen muy malas notas.",
-      "takeaway": "No, porque es posible que otros estudiantes del colegio que pertenecen a barras de fútbol tengan buenas notas.",
-      "analysis": "La opción C es correcta porque el profesor solo tiene la información de un curso, lo que hace que su conclusión sobre los estudiantes que pertenecen a una barra de fútbol sea una generalización que puede ser incorrecta. En la situación, se necesita más información ya que puede que haya niños con buenas notas y que pertenezcan a barras de fútbol.",
-      "distractors": "La opción A no es correcta, ya que el profesor no tiene evidencia de que las actividades extracurriculares como las barras de fútbol le quiten demasiado tiempo a los estudiantes que no le permiten asistir normalmente a clases o que sea el causante de sus malas notas. La opción B no es correcta porque esta respuesta incluye un prejuicio y generalización al decir que por conocer a algunos estudiantes que son barristas y que tienen malas notas, es suficiente para decir que a todos les va mal en las materias. La opción D no es correcta, ya que esta respuesta incluye una generalización al decir que con conocer un poco a quienes pertenecen a una barra de fútbol es suficiente para saber que no tendrían malas notas, sin embargo, el docente tiene evidencia de algunos estudiantes que no cumplen esta regla.",
+      "context_summary": "Un profesor se da cuenta de que los estudiantes de su curso que pertenecen a barras de fútbol tienen muy malas notas.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque el profesor solo tiene la información de un curso, lo que hace que su conclusión sobre los estudiantes que pertenecen a una barra de fútbol sea una generalización que puede ser incorrecta. En la situación, se necesita más información ya que puede que haya niños con buenas notas y que pertenezcan a barras de fútbol.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Identifico dilemas relacionados con problemas de exclusión y analizo alternativas de solución, considerando los aspectos positivos y negativos de cada opción."
     },
@@ -2126,10 +2126,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A dónde debe dirigirse el representante estudiantil para hacer esta petición?",
-      "context_summary": "Se plantea un caso en el que los estudiantes de grado 7.° le piden a su representante estudiantil que, para la semana cultural, se realicen más actividades artísticas.",
+      "context_summary": "Los estudiantes de grado 7.° le piden a su representante estudiantil que, para la semana cultural, se realicen más actividades artísticas.",
       "takeaway": "La idea clave es reconocer que el Consejo de Estudiantes es la instancia adecuada para tramitar esta situación dentro del Gobierno Escolar.",
-      "analysis": "La opción A es correcta porque en el Consejo de estudiantes se encuentran los representantes de cada curso y son los encargados de animar, promover y coordinar distintas propuestas para el bienestar de los estudiantes, por tanto, es en este espacio donde se puede proponer que se realicen más actividades artísticas.",
-      "distractors": "La opción B no es correcta, ya que el Congreso de la República es el encargado de representar la nación, transmisión de leyes, fiscalización y control político, entre otros. Este estamento supera el entorno del colegio, por lo que no es una opción para proponer actividades en su interior. La opción C no es correcta porque es el organismo destinado a garantizar que exista la participación de los padres de familia, mas no tiene la capacidad de respaldar y de llevar a cabo la petición de realizar más actividades artísticas en la semana cultural. La opción D no es correcta porque las funciones del comité de convivencia están encaminadas a mantener y mejorar la convivencia y la construcción de ciudadanía al interior del colegio, además, de ser el espacio para la conciliación de conflictos. Por lo que no es el estamento encargado de evaluar la pertinencia de las actividades artísticas de la semana cultural.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque en el Consejo de estudiantes se encuentran los representantes de cada curso y son los encargados de animar, promover y coordinar distintas propuestas para el bienestar de los estudiantes, por tanto, es en este espacio donde se puede proponer que se realicen más actividades artísticas.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos de participación democrática en los diferentes niveles gubernamentales (escolar, municipal, departamental y nacional). -> Conozco, analizo y uso los mecanismos de participación ciudadana."
     },
@@ -2183,11 +2183,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "La propuesta del profesor va en contra de los intereses",
-      "context_summary": "Se plantea un caso en el que un profesor identifica que sus estudiantes no comprenden la importancia de trabajar en equipo. En su opinión, esto sucede porque valoran mucho más los resultados que obtienen por sus esfuerzos individuales.",
+      "guiding_question": "La propuesta del profesor va en contra de los intereses?",
+      "context_summary": "Un profesor identifica que sus estudiantes no comprenden la importancia de trabajar en equipo. En su opinión, esto sucede porque valoran mucho más los resultados que obtienen por sus esfuerzos individuales.",
       "takeaway": "La idea clave es reconocer que la responsabilidad principal recae en la coordinadora, por su deber de garantizar el respeto de los derechos estudiantiles.",
-      "analysis": "La opción C es correcta porque la coordinadora menciona que es importante la competencia, puesto que en el mundo real solo triunfan los esfuerzos individuales, lo que va en contravía de la propuesta del profesor para incentivar el trabajo en equipo y su importancia.",
-      "distractors": "La opción A no es correcta porque el rector no manifiesta estar de acuerdo o en desacuerdo con la propuesta del docente, con tal de que este no descuide el avance en el aprendizaje. La opción B no es correcta porque la reacción de Roberto apoya la propuesta del docente de trabajar en equipo, ya que considera que así le será más fácil obtener buenas calificaciones. Por lo que estos intereses no están en contraposición a los del docente. La opción D no es correcta porque la reacción de Sara apoya la propuesta del profesor, ya que considera que se puede desarrollar una serie de habilidades que le permitirán sobresalir en el mundo laboral.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque la coordinadora menciona que es importante la competencia, puesto que en el mundo real solo triunfan los esfuerzos individuales, lo que va en contravía de la propuesta del profesor para incentivar el trabajo en equipo y su importancia.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución, considerando los aspectos positivos y negativos de cada una."
     },
@@ -2242,10 +2242,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál derecho de los trabajadores están protegiendo los defensores de derechos humanos?",
-      "context_summary": "Se plantea un caso en el que los trabajadores de una empresa están en huelga porque sus condiciones de trabajo no son adecuadas. Varios defensores de derechos humanos acompañan la huelga, con el fin de asegurarse de que no se cometa ningún tipo de acto violento contra los trabajadores.",
-      "takeaway": "El derecho a reunirse y manifestarse pacíficamente.",
-      "analysis": "La opción C es correcta porque los defensores de derechos humanos se encuentran acompañando una huelga de trabajadores y se aclara que es con el fin de asegurarse que no se cometan actos violentos contra ellos, por lo que se está protegiendo el derecho de poder reunirse y sobre todo manifestarse pacíficamente.",
-      "distractors": "La opción A no es correcta, ya que no se sugiere que exista una trasgresión hacia el derecho a la igualdad o que existan casos donde algunas personas no gozan los beneficios que tienen otros y, por tanto, no es una razón para que los defensores de derechos humanos se encuentren acompañando dicho espacio. La opción B no es correcta porque el derecho al buen nombre de la empresa no es uno de los derechos básicos de la Constitución; adicionalmente, en la justificación de por qué están los defensores de derechos humano no se incluye que estén para proteger la empresa, sino al contrario, para proteger a los trabajadores de actos violentos. La opción D no es correcta porque existe el derecho a la asociación; sin embargo, no se tiene información por la cual se pueda concluir que están allí para proteger la formación de un sindicato, por lo que a pesar de que puede ser un derecho, no es el que se estaba protegiendo en este momento.",
+      "context_summary": "Los trabajadores de una empresa están en huelga porque sus condiciones de trabajo no son adecuadas. Varios defensores de derechos humanos acompañan la huelga, con el fin de asegurarse de que no se cometa ningún tipo de acto violento contra los trabajadores.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque los defensores de derechos humanos se encuentran acompañando una huelga de trabajadores y se aclara que es con el fin de asegurarse que no se cometan actos violentos contra ellos, por lo que se está protegiendo el derecho de poder reunirse y sobre todo manifestarse pacíficamente.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los derechos fundamentales consagrados en la Constitución. -> Participo o lidero iniciativas democráticas en mi medio escolar o en mi comunidad, con criterios de justicia, solidaridad y equidad, y en defensa de los derechos civiles y políticos."
     },
@@ -2299,11 +2299,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes condiciones sería necesaria para que la medida tuviese éxito?",
-      "context_summary": "Se presenta una situación en un barrio en la que un grupo de jóvenes decide abandonar sus estudios y dedicarse a la delincuencia. La comunidad, preocupada, habla con uno de ellos, quien explica que sus familias necesitan el dinero con urgencia y no han podido conseguir trabajo.",
-      "takeaway": "Que los jóvenes tengan la disposición para empezar a trabajar.",
-      "analysis": "La opción C es correcta porque, para que se pueda implementar la medida y que esta sea exitosa, se debe tener en cuenta si los adolescentes tienen disposición para empezar a trabajar, puesto que, si no la tienen, la medida fracasará.",
-      "distractors": "La opción A no es correcta porque, a pesar de que uno de los factores que se debe reconocer es que los estudiantes abandonaron los estudios, para que se acabe la delincuencia se requiere que los estudiantes tengan un ingreso (razón por la que dejaron de estudiar) que el estudio no le está ofreciendo. Por ello, no es esta opción. La opción B no es correcta porque si las familias necesitan urgente el dinero, no quiere decir que los jóvenes estén dispuestos a abandonar la delincuencia; por otra parte, trabajar en los negocios puede ser un factor, pero no es el determinante para que la medida tenga éxito. La opción D no es correcta, ya que no se requiere que sean exclusivamente de telas; se puede cualquier tipo de negocio o empresa que esté dispuesta a ofrecer la oportunidad de trabajo a estos jóvenes.",
+      "guiding_question": "¿Qué condición social o institucional tendría que cumplirse para que la propuesta realmente funcione?",
+      "context_summary": "Un barrio en la que un grupo de jóvenes decide abandonar sus estudios y dedicarse a la delincuencia. La comunidad, preocupada, habla con uno de ellos, quien explica que sus familias necesitan el dinero con urgencia y no han podido conseguir trabajo.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque , para que se pueda implementar la medida y que esta sea exitosa, se debe tener en cuenta si los adolescentes tienen disposición para empezar a trabajar, puesto que, si no la tienen, la medida fracasará.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Analiza efectos de decisiones en distintos aspectos de una situación problemática. -> Conozco y utilizo estrategias creativas para solucionar conflictos."
     },
@@ -2358,10 +2358,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Es correcta la decisión del alcalde?",
-      "context_summary": "Se plantea un caso en el que en un municipio hay escasez de agua potable y la alcaldía no tiene dinero para llevar agua a todos los barrios.",
-      "takeaway": "No, porque los derechos de los niños del municipio están por encima de los derechos de los demás.",
-      "analysis": "La opción D es correcta, ya que en la Constitución Política de Colombia, en el Artículo 44, se dice que los derechos de los niños prevalecen sobre los derechos de los demás; en este caso el derecho a tener agua antes que otras personas en el municipio.",
-      "distractors": "La opción A no es correcta, ya que el apoyo que haya recibido el alcalde, por algunos sectores de la comunidad, para su elección no debe determinar las decisiones en situaciones como la descrita. La opción B no es correcta porque en el Artículo 315 de la Constitución se encuentra que, dentro de las funciones del alcalde, está ordenar los gastos municipales, por lo que él sí puede tomar las decisiones sobre el gasto de los recursos del municipio. La opción C no es correcta porque en el Artículo 13 de la Constitución se señala que todas las personas son iguales ante la ley y, por tanto, recibirán la misma protección y trato de las autoridades, por lo que este punto se encuentra en contravía con la Constitución.",
+      "context_summary": "En un municipio hay escasez de agua potable y la alcaldía no tiene dinero para llevar agua a todos los barrios.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque en la Constitución Política de Colombia, en el Artículo 44, se dice que los derechos de los niños prevalecen sobre los derechos de los demás; en este caso el derecho a tener agua antes que otras personas en el municipio.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los derechos fundamentales consagrados en la Constitución. -> Rechazo las situaciones de discriminación y exclusión social en el país; comprendo sus posibles causas y las consecuencias negativas para la sociedad."
     },
@@ -2416,10 +2416,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Por qué la decisión del rector puede generar un conflicto?",
-      "context_summary": "Se plantea un caso en el que un grupo de jóvenes artistas de octavo grado quiere pintar un gran mural en una de las paredes del colegio. El rector decide apoyar la iniciativa de los estudiantes con la condición de que mantengan buenas notas y no falten a ninguna clase.",
-      "takeaway": "Porque va en contra de los intereses de los jóvenes artistas.",
-      "analysis": "La opción B es correcta porque los estudiantes que iban a pintar el mural hicieron un acuerdo con el rector, pero no lo cumplieron al obtener notas bajas en Biología. Por ende, los intereses de los jóvenes artistas, suponiendo que quieran continuar pintando el mural, se encontrarán en conflicto con la decisión del rector por suspenderlo.",
-      "distractors": "La opción A no es correcta porque el profesor de Biología, ante la inasistencia y las malas notas de los jóvenes artistas, acude al rector, por lo que sus intereses se encuentran alineados con la decisión de este de suspender dicha actividad. La opción C no es correcta porque el rector apoyó la iniciativa de pintar un gran mural; sin embargo, se hizo bajo un acuerdo de que los estudiantes obtuvieran buenas notas. Al incumplir esto, la decisión de suspender el mural no va en contra de sus intereses. La opción D no es correcta porque la decisión de suspender el mural no va en contra de su propio interés, puesto que no es que se le dé más valor a un aspecto que a otro, sino que no se cumplió un acuerdo y, por tanto, fue suspendida temporalmente la práctica artística.",
+      "context_summary": "Un grupo de jóvenes artistas de octavo grado quiere pintar un gran mural en una de las paredes del colegio. El rector decide apoyar la iniciativa de los estudiantes con la condición de que mantengan buenas notas y no falten a ninguna clase.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque los estudiantes que iban a pintar el mural hicieron un acuerdo con el rector, pero no lo cumplieron al obtener notas bajas en Biología. Por ende, los intereses de los jóvenes artistas, suponiendo que quieran continuar pintando el mural, se encontrarán en conflicto con la decisión del rector por suspenderlo.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto. -> Comprendo que los conflictos ocurren en las relaciones, incluyendo las de pareja, y que se pueden manejar de manera constructiva si nos escuchamos y comprendemos los puntos de vista del otro."
     },
@@ -2474,10 +2474,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿La afirmación de Camila es confiable?",
-      "context_summary": "Se presenta una situación en un colegio en la que andrés, un estudiante de octavo, abandonó la institución a mitad del año. Sus compañeros más cercanos desconocen las causas de su deserción, y los profesores, aunque conocen detalles del asunto, no entregaron información a los estudiantes.",
-      "takeaway": "No, porque se basa en observaciones de las que no se puede concluir que Andrés haya sido víctima de matoneo.",
+      "context_summary": "Un colegio en la que andrés, un estudiante de octavo, abandonó la institución a mitad del año. Sus compañeros más cercanos desconocen las causas de su deserción, y los profesores, aunque conocen detalles del asunto, no entregaron información a los estudiantes.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "Aunque la afirmación de la estudiante se apoye en hechos y testimonios, estos no son suficientes para concluir, primero, que Andrés era víctima de matoneo y, segundo, que abandonó la institución por ello. Los hechos y testimonios son compatibles con que Andrés haya abandonado la institución por otras causas (enfermedad, movilidad, insatisfacción, etc.).",
-      "distractors": "La opción A no es correcta porque, aunque la estudiante sea compañera de Andrés, de esto no se infiere que sea un testigo presencial de hechos de acoso y, de hecho, la estudiante no basa su afirmación a partir de la observación de estos hechos. La opción B no es correcta porque, aunque es cierto que la estudiante basa su afirmación en hechos y testimonios de los profesores, el argumento para concluir que Andrés era víctima de matoneo no es válido, ya que los hechos y testimonios no soportan la afirmación y son compatibles con múltiples razones alternativas para que Andrés haya abandonado la institución. La opción D no es correcta porque el ser compañera de Andrés no implica que su opinión carezca de objetividad o no sea imparcial, pues no hay un evidente conflicto de intereses y, justamente, al ser compañera de Andrés, puede tener acceso a información confiable (como que faltaba reiteradamente a clase).",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Analizo críticamente y debato con argumentos y evidencias sobre hechos ocurridos a nivel local, nacional y mundial, y comprendo las consecuencias que éstos pueden tener sobre mi propia vida."
     },
@@ -2531,11 +2531,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿El brigadista actuó correctamente?",
-      "context_summary": "Se plantea un caso en el que durante un incendio en una institución educativa, un brigadista coordina la evacuación del edificio.",
-      "takeaway": "Sí, pues los derechos de los menores de edad prevalecen sobre los derechos de los demás.",
+      "guiding_question": "¿Qué criterio de protección y prioridad debe guiar una evacuación en una emergencia?",
+      "context_summary": "Durante un incendio en una institución educativa, un brigadista coordina la evacuación del edificio.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "De acuerdo con la Constitución, los derechos de los niños y niñas prevalecen sobre los derechos de los demás. El brigadista actúo correctamente según la Constitución, pues lo hizo conforme con el mencionado principio.",
-      "distractors": "La opción A y la opción B son incorrectas, pues las disposiciones sobre la evacuación de edificios en caso de incendios (u otros siniestros) no son definidas en la Constitución. La opción D es incorrecta porque, independientemente de qué grupo tenga más derechos, la Constitución establece la prioridad o prevalencia de los derechos de los niños y niñas.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los derechos fundamentales consagrados en la Constitución. -> Conozco los derechos fundamentales de los niños y las niñas: a tener nombre, nacionalidad, familia, cuidado, amor, salud, educación, recreación, alimentación y libre expresión."
     },
@@ -2590,10 +2590,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué rama del poder público le correspondería desarrollar esta reforma?",
-      "context_summary": "Se plantea un caso en el que el derecho de petición, establecido en la Constitución Política de Colombia, es el mecanismo al que puede acceder toda persona para presentar solicitudes respetuosas ante las autoridades o entidades.",
+      "context_summary": "El derecho de petición, establecido en la Constitución Política de Colombia, es el mecanismo al que puede acceder toda persona para presentar solicitudes respetuosas ante las autoridades o entidades.",
       "takeaway": "La idea clave es reconocer que una reforma de este tipo corresponde a la rama legislativa.",
       "analysis": "A la Rama Legislativa le compete elaborar, interpretar, reformar y derogar leyes y códigos en todos los ramos de la legislación.",
-      "distractors": "La opción D no es correcta porque esta no es una rama del poder público.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la organización del Estado y las funciones básicas de las ramas del poder. -> Comprendo las características del Estado de Derecho y del Estado Social de Derecho y su importancia para garantizar los derechos ciudadanos."
     },
@@ -2648,10 +2648,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué instancia del Gobierno Escolar pueden acudir los estudiantes?",
-      "context_summary": "Se presenta una situación en un colegio en la que los estudiantes de 10.° están incumpliendo las normas del uso de la cancha de fútbol que se establecieron al inicio del año.",
-      "takeaway": "Al Comité Escolar de Convivencia.",
+      "context_summary": "Un colegio en la que los estudiantes de 10.° están incumpliendo las normas del uso de la cancha de fútbol que se establecieron al inicio del año.",
+      "takeaway": "El gobierno escolar cuenta con instancias distintas para defender derechos, tramitar peticiones y representar a los estudiantes.",
       "analysis": "El comité escolar de convivencia es la instancia del gobierno escolar que se encarga de liderar el desarrollo de iniciativas de mediación y conciliación, que favorezcan el bienestar individual y colectivo en la escuela.",
-      "distractors": "La opción A no es correcta porque las funciones del Consejo Académico se definen en torno al proyecto educativo institucional y su ejecución. La opción B no es correcta, ya que este comité tiene como tiene propósito fortalecer el compromiso de cuidar y preservar el medio ambiente, pero no es una instancia que medie en situaciones en las que la convivencia pacífica esté en riesgo. La opción C no es correcta porque este consejo es un órgano de participación de los padres de familia del establecimiento educativo destinado a asegurar su continua participación en el proceso educativo y servir como órgano de control a la calidad del servicio. Sin embargo, dentro del alcance de sus funciones no está el de liderar iniciativas de mediación y conciliación entre los estudiantes.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos de participación democrática en los diferentes niveles gubernamentales (escolar, municipal, departamental y nacional). -> Conozco las funciones del gobierno escolar y el manual de convivencia."
     },
@@ -2706,10 +2706,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes intereses del policía podría generar un conflicto con el ciudadano?",
-      "context_summary": "Se plantea un caso en el que minutos antes de terminar su horario de trabajo, un policía de tránsito detiene a un ciudadano por conducir en estado de embriaguez, y le explica que la ley sanciona esta falta con una multa y la inmovilización del carro.",
-      "takeaway": "Su interés por hacer cumplir la ley.",
+      "context_summary": "Minutos antes de terminar su horario de trabajo, un policía de tránsito detiene a un ciudadano por conducir en estado de embriaguez, y le explica que la ley sanciona esta falta con una multa y la inmovilización del carro.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "El interés del policía por hacer cumplir la ley se opone a la pretensión del ciudadano de ofrecer dinero (soborno) para evitar la sanción y ganar tiempo.",
-      "distractors": "La opción B no es correcta porque el interés del policía de terminar su trabajo rápido no es contrario al afán del ciudadano por llegar a su casa. La opción C no es correcta debido a que si el policía tuviese el interés de recibir el dinero del ciudadano, se conformaría al interés de este último de llegar a su casa pronto, sobornando al policía. La opción D no es correcta porque, si el policía tuviese el interés de ayudar al conductor a llegar a casa, este interés sería compatible con el interés del ciudadano de librarse de la sanción y llegar pronto a su casa.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto. -> Identifico dilemas de la vida, en los que distintos derechos o distintos valores entran en conflicto y analizo posibles opciones de solución, considerando los aspectos positivos y negativos de cada una."
     },
@@ -2764,10 +2764,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A los intereses de qué grupo se ajusta la propuesta del alcalde?",
-      "context_summary": "Se presenta una situación en un barrio se instaló una clínica veterinaria junto a un edificio de apartamentos. un grupo de habitantes del edificio en la que dueños de mascotas, aplauden la instalación de la clínica.",
-      "takeaway": "A los intereses de los dueños de la clínica veterinaria.",
+      "context_summary": "Un barrio se instaló una clínica veterinaria junto a un edificio de apartamentos. un grupo de habitantes del edificio en la que dueños de mascotas, aplauden la instalación de la clínica.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "Aunque al ejecutarse la propuesta del alcalde se reduciría el nivel de ruido percibido, la propuesta favorece a los intereses de los dueños de la clínica, pues la ejecución y costos asociados a la propuesta recaerían sobre los vecinos que se quejan del ruido.",
-      "distractors": "La opción A no es correcta, pues el interés de los administradores del edificio es que la solución al problema de ruido sea responsabilidad de los dueños de la clínica. La opción C no es correcta porque, aunque la solución del alcalde podría reducir los niveles de ruido, el interés de los vecinos que se quejan del ruido es que la clínica sea reubicada. La opción D no es correcta, pues los dueños de mascotas están de acuerdo con que la clínica genera ruido molesto y que esta debe ser reubicada.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico las necesidades y los puntos de vista de personas o grupos en una situación de conflicto, en la que no estoy involucrado."
     },
@@ -2822,10 +2822,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuáles de los siguientes aspectos están en conflicto?",
-      "context_summary": "Se presenta una situación en un debate en clase de ciencias sociales en la que se discute sobre las ventajas y desventajas del uso de celulares por parte de los jóvenes.",
-      "takeaway": "La facilidad para encontrar respuestas rápidamente y la revisión crítica de la información.",
+      "context_summary": "Un debate en clase de ciencias sociales en la que se discute sobre las ventajas y desventajas del uso de celulares por parte de los jóvenes.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "Sara indica que la facilidad para obtener información a través del uso de celulares se contrasta con la falta de análisis crítico de la información obtenida.",
-      "distractors": "La opción A no es correcta, pues la formación de un criterio propio y el análisis crítico de la información son dos aspectos relacionados que, según Sara, entran en conflicto con la facilidad y rapidez con la que se accede a la información a través de dispositivos móviles. La opción B no es correcta porque el uso de la tecnología móvil, según Sara, no se opone a la interacción con personas de otras culturas, sino que la ha promovido. La opción C no es correcta, pues la facilidad para comunicarse con personas extrañas no entra en conflicto, según Sara, con la capacidad para interactuar con familiares; de hecho, según ella, el uso de celulares ha permitido ambas cosas.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Reconozco el conflicto como una oportunidad para aprender y fortalecer nuestras relaciones."
     },
@@ -2880,10 +2880,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspectos se refuerzan entre sí en el problema de la inequidad de género?",
-      "context_summary": "Se presenta el caso de una profesora asigna a sus estudiantes un tema para realizar un ensayo. A Lucía, estudiante de noveno, le corresponde el problema de la inequidad de género.",
-      "takeaway": "El aspecto económico y el cultural, pues la desigualdad en salarios puede ser propiciada por creencias culturales sin sustento científico.",
+      "context_summary": "Una profesora asigna a sus estudiantes un tema para realizar un ensayo. A Lucía, estudiante de noveno, le corresponde el problema de la inequidad de género.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "En su ensayo, Lucía defiende que tanto el aspecto económico como el cultural se refuerzan entre sí en el problema de la inequidad, pues ambos determinan dimensiones del problema: el primero en el aspecto salarial, el segundo, en el plano de las creencias injustificadas sobre la superioridad de un género sobre el otro.",
-      "distractors": "La opción B es incorrecta porque, justamente, Lucía indica que las capacidades físicas y mentales de ambos géneros son las mismas; los aspectos que se refuerzan en el problema son de orden cultural y económico. La opción C es incorrecta, pues el punto de Lucía es que la desigualdad salarial se presenta cuando los hombres ganan más que las mujeres a pesar de que ocupen los mismos cargos y ejerzan las mismas funciones. La opción D es incorrecta, pues lo que Lucía defiende es que la presunta superioridad de los hombres no tiene ningún sustento científico.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Reconozco el conflicto como una oportunidad para aprender y fortalecer nuestras relaciones."
     },
@@ -2937,11 +2937,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes afirmaciones es correcta?",
-      "context_summary": "Se plantea un caso en el que ante el aumento de los casos de obesidad infantil en una ciudad, la alcaldesa pide a sus asesores elaborar propuestas para reducir el consumo de bebidas gaseosas, pues, asegura, estas tienen un alto contenido de azúcar cuyo consumo puede estar relacionado con la obesidad.",
-      "takeaway": "Las propuestas se favorecen mutuamente, pues ambas buscan por distintos medios cambiar conductas que promueven la obesidad.",
+      "guiding_question": "¿Qué relaciones, efectos o condiciones permiten comprender mejor esta situación?",
+      "context_summary": "Ante el aumento de los casos de obesidad infantil en una ciudad, la alcaldesa pide a sus asesores elaborar propuestas para reducir el consumo de bebidas gaseosas, pues, asegura, estas tienen un alto contenido de azúcar cuyo consumo puede estar relacionado con la obesidad.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La opción correcta es la B porque las campañas y el impuesto a las gaseosas buscan cambiar conductas de consumo relacionadas con el aumento de la obesidad infantil, una por vía de la persuasión y otra por vía de la imposición.",
-      "distractors": "La opción A es incorrecta porque, incluso si la primera medida no logra el mismo objetivo de la segunda, esto no implica que ambas medidas no sean complementarias, dado el objetivo general de reducir el consumo de gaseosas. La opción C es incorrecta, pues la propuesta 1 no implica una sanción y la propuesta 2, más que una sanción, es una medida de disuasión. La opción D no es correcta porque, incluso si el impuesto tiene el efecto indeseado de hacer que los estudiantes busquen otras bebidas azucaradas, este efecto no se debería a la acción conjunta de ambas propuestas, pues la primera propuesta no plantea aumentar los costos de algún producto.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Analiza efectos de decisiones en distintos aspectos de una situación problemática. -> Preveo las consecuencias que pueden tener, sobre mí y sobre los demás, las diversas alternativas de acción propuestas frente a una decisión colectiva."
     },
@@ -2996,10 +2996,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de las afirmaciones presentadas por los miembros del concejo apoya la decisión tomada por la alcaldía?",
-      "context_summary": "Se plantea un caso en el que el alcalde de una ciudad da continuidad a la construcción de una vía, la cual había sido detenida porque implicaría causar daños a un río.",
-      "takeaway": "La cancelación definitiva de la obra provocaría una pérdida en el patrimonio de la ciudad.",
-      "analysis": "La opción A es correcta correcta porque la afirmación aprueba la continuidad de la obra debido a la pérdida económica que su cancelación generaría.",
-      "distractors": "La opción B es incorrecta, debido a que esa afirmación soportaría la decisión opuesta, la de no continuar la construcción. La opción C es incorrecta, pues el uso de los humedales como depósito de escombros y basuras es utilizado para oponerse a la medida tomada por la Alcaldía. La opción D es incorrecta porque el daño al suministro de agua del humedal sería una razón en contra de la continuidad de la obra.",
+      "context_summary": "El alcalde de una ciudad da continuidad a la construcción de una vía, la cual había sido detenida porque implicaría causar daños a un río.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque la afirmación aprueba la continuidad de la obra debido a la pérdida económica que su cancelación generaría.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Analizo críticamente las decisiones, acciones u omisiones que se toman en el ámbito nacional o internacional y que pueden generar conflictos o afectar los derechos humanos."
     },
@@ -3054,10 +3054,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Considera que la idea que tiene Ángela de los estudiantes de décimo está justificada?",
-      "context_summary": "Se presenta una situación en una integración de bachillerato en la que ángela, una estudiante de octavo, habla con Ismael, un estudiante de décimo. Ismael le dice a Ángela que los estudiantes de décimo son más inteligentes que los de los grados inferiores, pues ven materias más difíciles.",
-      "takeaway": "No, porque está realizando una generalización de la totalidad de estudiantes a partir de un solo caso.",
-      "analysis": "La opción C es correcta porque se da una generalización apresurada sobre todos los estudiantes de grado décimo, lo que evidencia que se realiza una conclusión a partir de hechos aislados o con pocas evidencias.",
-      "distractors": "La opción A es incorrecta, ya que la afirmación no se puede dar tampoco para los estudiantes de su colegio, puesto que no se puede pensar que todos son iguales y menos sin haberlos conocido. La opción B es incorrecta, ya que solo hablar con una persona no permite saber cómo son las demás, ya que no todas son iguales. La opción D es incorrecta porque también plantea una generalización sin evidencias.",
+      "context_summary": "Una integración de bachillerato en la que ángela, una estudiante de octavo, habla con Ismael, un estudiante de décimo. Ismael le dice a Ángela que los estudiantes de décimo son más inteligentes que los de los grados inferiores, pues ven materias más difíciles.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque se da una generalización apresurada sobre todos los estudiantes de grado décimo, lo que evidencia que se realiza una conclusión a partir de hechos aislados o con pocas evidencias.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en contextos ciudadanos -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos. -> Identifico prejuicios, estereotipos y emociones que me dificultan sentir empatía por algunas personas o grupos y exploro caminos para superarlos."
     },
@@ -3112,10 +3112,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué grupo de inmigrantes se les debería dar prioridad?",
-      "context_summary": "Se plantea un caso en el que dada la gran cantidad de inmigrantes que han llegado al país durante los últimos años y las limitaciones presupuestales del Ministerio de Relaciones Exteriores, que le impiden procesar las solicitudes de nacionalización de estas personas, el Gobierno Nacional ha decidido hacer una priorización.",
-      "takeaway": "A los niños, porque sus derechos prevalecen sobre los de los demás.",
-      "analysis": "La opción B es correcta porque, de acuerdo con la Constitución política de Colombia, los derechos de los niños prevalecen sobre los de los demás.",
-      "distractors": "La opción A es incorrecta porque el mayor aporte al país no es un criterio válido de priorización para conferir derechos. La opción C es incorrecta porque las necesidades médicas no sobrepasan en prioridad a los derechos de los niños. La opción D es incorrecta porque el género de una persona y su necesidad de acceso a subsidios no es un criterio válido para conferir derechos.",
+      "context_summary": "Dada la gran cantidad de inmigrantes que han llegado al país durante los últimos años y las limitaciones presupuestales del Ministerio de Relaciones Exteriores, que le impiden procesar las solicitudes de nacionalización de estas personas, el Gobierno Nacional ha decidido hacer una priorización.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque , de acuerdo con la Constitución política de Colombia, los derechos de los niños prevalecen sobre los de los demás.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los derechos fundamentales consagrados en la Constitución. -> Conozco los derechos fundamentales de los niños y las niñas: a tener nombre, nacionalidad, familia, cuidado, amor, salud, educación, recreación, alimentación y libre expresión."
     },
@@ -3170,10 +3170,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué derecho se vulnera o protege en la anterior situación?",
-      "context_summary": "Se plantea un caso en el que diana, una estudiante de noveno grado, decidió tinturarse el cabello de color azul. Por este hecho, los directivos de su colegio acordaron expulsarla.",
-      "takeaway": "Se vulnera el derecho al libre desarrollo de la personalidad, porque se limita la autonomía y convicciones personales de Diana.",
+      "context_summary": "Diana, una estudiante de noveno grado, decidió tinturarse el cabello de color azul. Por este hecho, los directivos de su colegio acordaron expulsarla.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "En este caso se está violando el derecho al libre desarrollo de la personalidad de la estudiante. Así mismo, es preciso aclarar que el Manual de Convivencia de una institución no puede ir en contra de lo establecido en la Constitución política de Colombia.",
-      "distractors": "La opción A no es correcta porque la expulsión de la estudiante no protege la libertad de cátedra, ya que ella no está interfiriendo en el proceso de enseñanza y aprendizaje. La opción B es incorrecta porque la igualdad para todos los estudiantes no aplica en este caso, ya que esta no puede estar fundamentada en la violación de derechos individuales. La opción D no es correcta porque el derecho a la personalidad jurídica, aunque es un derecho fundamental, no se vulnera al negar la calidad de estudiante.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los derechos fundamentales consagrados en la Constitución. -> Conozco los derechos fundamentales de los niños y las niñas. (A tener nombre, nacionalidad, familia, cuidado, amor, salud, educación, recreación, alimentación y libre expresión, al libre desarrollo)."
     },
@@ -3228,10 +3228,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿La propuesta de solución del Gobierno se ajusta a los intereses de la comunidad?",
-      "context_summary": "Se plantea un caso en el que en el mundo, muchas comunidades preparan sus alimentos en cocinas de carbón y leña, lo que provoca un gran número de muertes cada año debido a la inhalación de humos de cocina.",
-      "takeaway": "Sí, pues ofrece una alternativa a las cocinas de carbón y resuelve la preocupación de los habitantes que no tienen el conocimiento para usar la planta.",
+      "context_summary": "En el mundo, muchas comunidades preparan sus alimentos en cocinas de carbón y leña, lo que provoca un gran número de muertes cada año debido a la inhalación de humos de cocina.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "Los estudiantes que elijan esta opción están identificando aspectos claves del contexto, particularmente, que la propuesta responde a los intereses de la comunidad en cuanto ofrece una alternativa al uso de las cocinas de carbón, que causan daños en su salud, y resuelve la preocupación de quienes consideran que los habitantes no están capacitados para emplear la planta eléctrica.",
-      "distractors": "La opción A no es correcta porque la propuesta del Gobierno incluye la capacitación de varios miembros de la comunidad, lo que se ajusta a los intereses de esta. La opción B es incorrecta porque la propuesta sí ofrece una alternativa. Así mismo, aunque la comunidad no pueda financiarla por su propia cuenta, el Gobierno, como se indica, es quien la financia. Que sea el Gobierno y no la comunidad quien financie el proyecto no implica que la propuesta no se ajuste al mejor interés de la comunidad. La opción C es incorrecta porque la propuesta es una alternativa al uso de cocinas de carbón, no una forma de optimizarlas, lo que iría en contra de los mejores intereses de la comunidad.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico las necesidades y los puntos de vista de personas o grupos en una situación de conflicto, en la que no estoy involucrado. (En un problema, escucho a cada cual para entender sus opiniones)."
     },
@@ -3286,10 +3286,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de las propuestas de solución se ajusta a los estudiantes que NO presentan bajo rendimiento?",
-      "context_summary": "Se plantea un caso en el que los estudiantes del colegio han presentado bajo rendimiento académico. Ante esta situación, el director propone cancelar las actividades deportivas para todos los estudiantes y, a cambio, ofrecer clases de refuerzo escolar.",
-      "takeaway": "La propuesta de los profesores porque los estudiantes que no presentan bajo rendimiento estarían exentos de asistir a las clases de refuerzo.",
+      "context_summary": "Los estudiantes del colegio han presentado bajo rendimiento académico. Ante esta situación, el director propone cancelar las actividades deportivas para todos los estudiantes y, a cambio, ofrecer clases de refuerzo escolar.",
+      "takeaway": "El gobierno escolar cuenta con instancias distintas para defender derechos, tramitar peticiones y representar a los estudiantes.",
       "analysis": "Los estudiantes que no presentan bajo rendimiento no necesitan actividades de refuerzo, por lo que no les interesa tomarlas. Así, la propuesta de los profesores se ajusta a sus intereses, pues los refuerzos que se realizarán después de la jornada escolar serían, según esta propuesta, solo para los estudiantes que presentan bajo rendimiento.",
-      "distractors": "La opción A es incorrecta porque la solución propuesta por los padres de familia no se ajusta a los intereses de los estudiantes que no presentan bajo rendimiento, pues ellos no quieren asistir a los refuerzos, y, con la solución de los padres, tendrían que hacerlo. La opción B es incorrecta porque la solución propuesta por el director del colegio es la que genera molestia entre los estudiantes que no presentan bajo rendimiento, pues tendrían que tomar las clases de refuerzo a pesar de no necesitarlas. Además, no tendrían sus clases de deporte, por tanto, esta solución no se ajusta a sus intereses. La opción D no es correcta porque los miembros del Consejo Estudiantil proponen cancelar las clases de arte y, a cambio, hacer los refuerzos. Esta solución no beneficia a los estudiantes que no presentan bajo rendimiento, pues ellos no necesitan tomar los refuerzos y con la propuesta del Consejo no sólo tendrían que tomarlos, sino que no podrían tomar sus clases de arte.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico las necesidades y los puntos de vista de personas o grupos en una situación de conflicto, en la que no estoy involucrado. (En un problema, escucho a cada cual para entender sus opiniones)."
     },
@@ -3343,11 +3343,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál es el interés que tienen en común la junta y los vecinos?",
-      "context_summary": "Se plantea un caso en el que la junta administradora local y los vecinos de un barrio discuten las estrategias para evitar la acumulación de basuras en el parque infantil.",
-      "takeaway": "Que se reduzcan las basuras arrojadas en el parque.",
-      "analysis": "La opción C es correcta, pues describe el propósito de la junta al presentar la propuesta y la razón por la cual los vecinos la aceptan, pese a que no corresponde con el interés inmediato que estos tienen de desalojar a los recicladores.",
-      "distractors": "La opción A es incorrecta porque el propósito último de la Junta no es sancionar exclusivamente a los recicladores, sino a quien arroje basuras en el parque. La opción B es incorrecta porque describe el interés inmediato de los vecinos, pero no el interés último que tienen en común con la Junta. La opción D es incorrecta porque describe la propuesta de la Junta, pero no el interés último que la motiva y que es común al interés de los vecinos.",
+      "guiding_question": "¿Qué intereses, valores o puntos de vista ayudan a comprender mejor el conflicto planteado?",
+      "context_summary": "La junta administradora local y los vecinos de un barrio discuten las estrategias para evitar la acumulación de basuras en el parque infantil.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque describe el propósito de la junta al presentar la propuesta y la razón por la cual los vecinos la aceptan, pese a que no corresponde con el interés inmediato que estos tienen de desalojar a los recicladores.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución. -> Identifico las necesidades y los puntos de vista de personas o grupos en una situación de conflicto, en la que no estoy involucrado. (En un problema, escucho a cada cual para entender sus opiniones)."
     },
@@ -3401,11 +3401,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes es una actividad específica que ejemplifica las dos condiciones planteadas por los profesores?",
-      "context_summary": "Se plantea un caso en el que los profesores de un colegio creen que los procesos de aprendizaje son exitosos cuando se cumplen dos condiciones: 1) se dan estímulos a los estudiantes por los logros alcanzados y 2) los estímulos otorgados a los estudiantes van más allá de la asignación de una buena nota.",
-      "takeaway": "La realización de un concurso para premiar los mejores trabajos de arte de los estudiantes de bachillerato.",
+      "guiding_question": "¿Qué intereses, valores o puntos de vista ayudan a comprender mejor el conflicto planteado?",
+      "context_summary": "Los profesores de un colegio creen que los procesos de aprendizaje son exitosos cuando se cumplen dos condiciones: 1) se dan estímulos a los estudiantes por los logros alcanzados y 2) los estímulos otorgados a los estudiantes van más allá de la asignación de una buena nota.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "El concurso se ajusta en mayor medida a la concepción sobre el aprendizaje de los profesores del colegio, en tanto comprende el otorgamiento de un estímulo por lo aprendido y dicho estímulo supera la esfera de las calificaciones. El estímulo otorgado es un reconocimiento institucional por el trabajo realizado.",
-      "distractors": "La opción A es incorrecta, pues es afín con una concepción del aprendizaje que se apoya en el desarrollo de competencias actitudinales y cognitivas, pero no comprende ningún estímulo que supere los límites de la nota. La opción B no es correcta, ya que es afín con una concepción del aprendizaje que privilegia la aplicación de contenidos, pero no comprende ningún estímulo que supere los límites de la nota. La opción D no es correcta porque es afín con una concepción del aprendizaje que privilegia los procesos creativos, pero no comprende ningún estímulo que supere los límites de la nota.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce que las diferentes concepciones y roles sociales determinan diferentes posiciones y comportamientos. -> Reconozco lo distintas que somos las personas y comprendo que esas diferencias son oportunidades para construir nuevos conocimientos y relaciones y hacer que la vida sea más interesante y divertida."
     },
@@ -3460,10 +3460,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál es el aspecto más importante de la problemática descrita?",
-      "context_summary": "Se plantea un caso en el que considere el siguiente fragmento de un artículo periodístico: ¿Querer tener hijos y luego arrepentirse?",
-      "takeaway": "La presión social y el maltrato que reciben las mujeres que no quieren ser madres.",
+      "context_summary": "Considere el siguiente fragmento de un artículo periodístico: ¿Querer tener hijos y luego arrepentirse?",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La presión social, estigmatización y maltrato que reciben las mujeres que no quieren tener hijos es el eje central de la problemática. El dilema de las mujeres que no quieren ser madres o se arrepienten y las presiones externas que reciben, es el tema que se desarrolla en la descripción del problema.",
-      "distractors": "La opción A es incorrecta, pues se menciona que puede haber presión de la pareja y que es parte del imaginario que se inculca a las mujeres, pero no es la dimensión principal del problema. La opción B es incorrecta porque, si bien se mencionan algunos países y sus promedios de hijos por mujer, este no es el aspecto central del problema y no se trata de una comparación de las diferencias del fenómeno en diferentes países, sino una reflexión general. La opción D es incorrecta, pues en el contexto se menciona la tensión entre la independencia de la mujer y su decisión de ser madre, pero no se establece una relación directa entre su decisión de no tener hijos y sus oportunidades laborales.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática. -> Analizo críticamente los conflictos entre grupos, en mi barrio, vereda, municipio o país."
     },
@@ -3518,8 +3518,8 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspecto del problema no considera la propuesta del líder?",
-      "context_summary": "Se plantea un caso en el que un grupo de agricultores se reúne para discutir los problemas de producción que presenta la región.",
-      "takeaway": "Los recursos económicos necesarios para implementar su propuesta.",
+      "context_summary": "Un grupo de agricultores se reúne para discutir los problemas de producción que presenta la región.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La B es la clave porque, en la propuesta señalada en el contexto, una de las partes omite un aspecto importante del problema para aportar una solución: si bien la tecnificación de la agricultura puede representar grandes ventajas, dada la condición económica de la región, la propuesta no considera cómo se obtendrían los recursos económicos para ejecutarla.",
       "distractors": "",
       "glossary": [],
@@ -3576,10 +3576,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspectos están en conflicto?",
-      "context_summary": "Se plantea un caso en el que como parte del proyecto de ciencias y emprendimiento, los docentes de noveno deciden construir un cultivo de lombrices.",
-      "takeaway": "Las prácticas alimenticias de la familia y el uso de lombrices para producir carne.",
+      "context_summary": "Como parte del proyecto de ciencias y emprendimiento, los docentes de noveno deciden construir un cultivo de lombrices.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "Los aspectos que están en conflicto en este contexto son las prácticas alimenticias vegetarianas de la familia y el uso de animales, en este caso lombrices, para la elaboración y venta de alimentos.",
-      "distractors": "La opción A no es correcta porque en este contexto no están en conflicto el uso de lombrices para producir abono y carne. Estos dos aspectos son afines y hacen parte del proyecto de ciencias y emprendimiento. La opción C no es correcta porque el uso de las lombrices para producir abono no es un aspecto en conflicto con el régimen vegetariano de la familia. En el contexto se menciona que la familia no está de acuerdo con el uso de animales para la alimentación. La opción D es incorrecta porque no es posible inferir del contexto que la carne de lombriz esté asociada o produzca afectaciones en la salud de los estudiantes ni se afirma que los estudiantes sean quienes la consuman.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento sistémico -> Establece relaciones entre aspectos de una situación problemática. -> Identifico y analizo dilemas de la vida en los que los valores de distintas culturas o grupos sociales entran en conflicto y exploro distintas opciones de solución, considerando sus aspectos positivos y negativos."
     },
@@ -3634,10 +3634,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué efecto NO deseado puede tener la campaña desarrollada?",
-      "context_summary": "Se plantea un caso en el que como consecuencia del cambio climático y la fuerte sequía que azota a varias regiones del país, poblaciones como las que habitan en La Guajira se han visto afectadas fuertemente.",
-      "takeaway": "Que aumente la cantidad de plásticos y demás productos no biodegradables en las zonas aledañas en donde habitan las comunidades.",
-      "analysis": "La pregunta evalúa pensamiento sistémico a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción D es correcta porque la habilidad para identificar, en un conflicto, que efectos NO deseados se pueden generar. La opción D es la, ya que en el enunciado se dice que las ayudas han llegado en bolsas, empaques y latas, por lo que podría generar un problema asociado al aumento de los residuos no biodegradables en las zonas aledañas a las familias beneficiadas.",
-      "distractors": "La opción A no es válida porque sería un efecto positivo que el Estado entendiera la necesidad de prever la crisis o prepararse para ella; de hecho, si esto llegara a pasar, sería un efecto deseado. La opción B no es válida porque sería un efecto positivo que la cantidad de personas afectadas por la sequía disminuyera, incluso podría ser uno de los efectos esperados. La opción C no es válida porque el hecho de que la población del país sienta responsabilidad de ayudar a las comunidades afectadas en la Guajira, no sería un efecto adverso, sino deseado.",
+      "context_summary": "Como consecuencia del cambio climático y la fuerte sequía que azota a varias regiones del país, poblaciones como las que habitan en La Guajira se han visto afectadas fuertemente.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque la habilidad para identificar, en un conflicto, que efectos NO deseados se pueden generar. La opción D es la, ya que en el enunciado se dice que las ayudas han llegado en bolsas, empaques y latas, por lo que podría generar un problema asociado al aumento de los residuos no biodegradables en las zonas aledañas a las familias beneficiadas.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Analiza efectos de decisiones en distintos aspectos de una situación problemática."
     },
@@ -3691,11 +3691,11 @@ window.DATABASE = [
       "what_evaluates": "La habilidad para reconocer que diferentes perspectivas dan lugar a diversas formas de vida y creencias."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes formas de ver la vida explica mejor lo dicho por la persona vegetariana?",
-      "context_summary": "Se plantea un caso en el que un famoso restaurante, conocido por ofrecer una gran variedad de carnes (de res, cerdo y pollo), organizó un concurso de cocina. Los participantes debían preparar recetas con carne, y el plato ganador sería incluido en la carta del restaurante.",
-      "takeaway": "La vida de los animales es igual de valiosa a la de los humanos, por lo cual no se debe comer su carne.",
-      "analysis": "La pregunta evalúa multiperspectivismo a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción D es correcta porque la habilidad para reconocer que diferentes perspectivas dan lugar a diversas formas de vida y creencias. La opción D es la, pues la persona vegetariana indica que quiere usar carne de soya en modo de protesta, porque hay personas que al decir que no quieren sacrificar la vida de los otros seres, y consideran que la vida de los animales es igual de valiosa a la de los humanos.",
-      "distractors": "La opción A no es válida porque esta opción habla de características de la comida, mas no de la posición de la persona vegetariana y sus razones para competir con carne de soya. La opción B no es válida, puesto que en esta opción hace referencia específicamente a la importancia de la vida de las personas, excluyendo la de otros seres vivos, por lo que va en contravía con lo mencionado por la persona vegetariana. La opción C no es válida porque la persona vegetariana, en su forma de protesta, no incluye información acerca de la historia y la cultura de los pueblos, o que esté haciendo una manifestación para que se rescaten estas prácticas.",
+      "guiding_question": "¿Qué concepción ética sobre la relación entre seres humanos y animales sustenta esta postura?",
+      "context_summary": "Un famoso restaurante, conocido por ofrecer una gran variedad de carnes (de res, cerdo y pollo), organizó un concurso de cocina. Los participantes debían preparar recetas con carne, y el plato ganador sería incluido en la carta del restaurante.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque la habilidad para reconocer que diferentes perspectivas dan lugar a diversas formas de vida y creencias. La opción D es la, pues la persona vegetariana indica que quiere usar carne de soya en modo de protesta, porque hay personas que al decir que no quieren sacrificar la vida de los otros seres, y consideran que la vida de los animales es igual de valiosa a la de los humanos.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -3749,11 +3749,11 @@ window.DATABASE = [
       "what_evaluates": "La habilidad para identificar entre los intereses de distintas partes, cuál puede generar un conflicto."
     },
     "pedagogy": {
-      "guiding_question": "¿En qué se parecen las posiciones de Gloria y de Jorge?",
-      "context_summary": "Se plantea un caso en el que un colegio quiere establecer una campaña de reciclaje. Gloria, la coordinadora, propone que se instalen canecas especiales para reciclar y que se les enseñe a los estudiantes cómo utilizarlas.",
-      "takeaway": "Ambos reconocen que es importante que los estudiantes del colegio reciclen.",
-      "analysis": "La pregunta evalúa multiperspectivismo a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción C es correcta porque la habilidad para identificar entre los intereses de distintas partes, cuál puede generar un conflicto. La opción C es la, ya que, a pesar de las grandes diferencias que tienen los dos docentes en su perspectiva acerca del método para que los estudiantes reciclen, los dos manifiestan la importancia de que los estudiantes realicen esta actividad en el colegio.",
-      "distractors": "La opción A no es válida, ya que, precisamente, los métodos para lograr que los estudiantes del colegio reciclen son los que difieren: por un lado, Gloria propone enseñar y, por otro lado, Jorge opina que se deben imponer sanciones y castigos para que lo hagan. La opción B no es válida, porque Gloria no manifiesta estar de acuerdo en castigar; por el contrario, propone enseñar a los estudiantes a utilizar canecas especiales para reciclar. La opción D no es válida, ya que los dos profesores manifiestan el interés de que los estudiantes reciclen en el colegio, aunque, cada uno propone un método diferente para lograrlo.",
+      "guiding_question": "¿Qué comparten y en qué se diferencian las posturas de Gloria y Jorge sobre el reciclaje escolar?",
+      "context_summary": "Un colegio quiere establecer una campaña de reciclaje. Gloria, la coordinadora, propone que se instalen canecas especiales para reciclar y que se les enseñe a los estudiantes cómo utilizarlas.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
+      "analysis": "Esta ficha exige leer la situación desde las perspectivas, intereses o valores que orientan a los actores involucrados. La respuesta correcta se sostiene porque la habilidad para identificar entre los intereses de distintas partes, cuál puede generar un conflicto. La opción C es la, ya que, a pesar de las grandes diferencias que tienen los dos docentes en su perspectiva acerca del método para que los estudiantes reciclen, los dos manifiestan la importancia de que los estudiantes realicen esta actividad en el colegio.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Reconoce y compara las posiciones o intereses de las partes presentes en una situación y puede identificar la existencia de un conflicto."
     },
@@ -3807,11 +3807,11 @@ window.DATABASE = [
       "what_evaluates": "La habilidad para reconocer los efectos de una propuesta de solución a un conflicto y a cuáles actores afectaría."
     },
     "pedagogy": {
-      "guiding_question": "La propuesta del profesor va en contra de los intereses",
-      "context_summary": "Se plantea un caso en el que un profesor identifica que sus estudiantes no comprenden la importancia de trabajar en equipo. En su opinión, esto sucede porque valoran mucho más los resultados que obtienen por sus esfuerzos individuales.",
+      "guiding_question": "La propuesta del profesor va en contra de los intereses?",
+      "context_summary": "Un profesor identifica que sus estudiantes no comprenden la importancia de trabajar en equipo. En su opinión, esto sucede porque valoran mucho más los resultados que obtienen por sus esfuerzos individuales.",
       "takeaway": "La idea clave es reconocer que la responsabilidad principal recae en la coordinadora, por su deber de actuar frente a la situación planteada.",
-      "analysis": "La pregunta evalúa multiperspectivismo a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción C es correcta porque la habilidad para reconocer los efectos de una propuesta de solución a un conflicto y a cuáles actores afectaría. La opción C es correcta porque la coordinadora menciona que es importante la competencia, puesto que en el mundo real solo triunfan los esfuerzos individuales, lo que va en contravía de la propuesta del profesor para incentivar el trabajo en equipo y su importancia.",
-      "distractors": "La opción A no es válida porque el rector no manifiesta estar de acuerdo o en desacuerdo con la propuesta del docente, con tal de que este no descuide el avance en el aprendizaje. La opción B no es válida porque la reacción de Roberto apoya la propuesta del docente de trabajar en equipo, ya que considera que así le será más fácil obtener buenas calificaciones. Por lo que estos intereses no están en contraposición a los del docente. La opción D no es válida porque la reacción de Sara apoya la propuesta del profesor, ya que considera que se puede desarrollar una serie de habilidades que le permitirán sobresalir en el mundo laboral.",
+      "analysis": "La pregunta evalúa multiperspectivismo a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La respuesta correcta se sostiene porque la habilidad para reconocer los efectos de una propuesta de solución a un conflicto y a cuáles actores afectaría. La respuesta correcta se sostiene porque la coordinadora menciona que es importante la competencia, puesto que en el mundo real solo triunfan los esfuerzos individuales, lo que va en contravía de la propuesta del profesor para incentivar el trabajo en equipo y su importancia.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -3866,10 +3866,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué aspecto de la situación le da más importancia el padre de Julián?",
-      "context_summary": "Se plantea un caso en el que el papá de Julián, después de enterarse de lo que habían hecho ese día en el colegio, escribió, ofendido, una carta a la rectora: “El día de hoy el profesor de Julián llevó a los estudiantes a visitar una fábrica de prendas de cuero, dizque para que aprendieran sobre el trabajo en las fábricas y pudieran ver ellos mismos el proceso mediante el cual se transforma la piel de una vaca en una chaqueta de cuero.",
-      "takeaway": "A la protección de los animales que se usan para producir cuero.",
-      "analysis": "La pregunta evalúa pensamiento sistémico a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción B es correcta porque la habilidad para reconocer los aspectos que deben ser contemplados para comprender un conflicto y sus posibles soluciones. La opción B es correcta porque el papá de Julián, en su carta, manifiesta su inconformidad hacia la enseñanza impartida a su hijo en una visita de fábrica de cueros, por lo que solicita que no vuelvan a incluir en su hijo en salidas que le enseñen que está bien matar animales para producir ropa y que se deba incluir una clase para hablar de los derechos que tienen los animales. Por tanto, en la situación, muestra una mayor preocupación por la protección de los animales.",
-      "distractors": "La opción A no es válida porque en la carta enviada a la rectora el padre dice “dizque para aprender sobre el trabajo en las fábricas”, con lo cual manifiesta su inconformidad con que le hayan enseñado a su hijo que está bien matar animales para producir ropa. La opción C no es válida porque el papá de Julián, en su carta, no habla acerca del derecho que tienen las personas que dependen de esta actividad, sino el de los animales que son maltratados como parte del proceso de producción. La opción D no es válida porque el papá de Julián no habla específicamente de los animales domésticos, sino de los animales que hacen parte de la producción en las fábricas de cuero.",
+      "context_summary": "El papá de Julián, después de enterarse de lo que habían hecho ese día en el colegio, escribió, ofendido, una carta a la rectora: “El día de hoy el profesor de Julián llevó a los estudiantes a visitar una fábrica de prendas de cuero, dizque para que aprendieran sobre el trabajo en las fábricas y pudieran ver ellos mismos el proceso mediante el cual se transforma la piel de una vaca en una chaqueta de cuero.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "La pregunta evalúa pensamiento sistémico a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La respuesta correcta se sostiene porque la habilidad para reconocer los aspectos que deben ser contemplados para comprender un conflicto y sus posibles soluciones. La respuesta correcta se sostiene porque el papá de Julián, en su carta, manifiesta su inconformidad hacia la enseñanza impartida a su hijo en una visita de fábrica de cueros, por lo que solicita que no vuelvan a incluir en su hijo en salidas que le enseñen que está bien matar animales para producir ropa y que se deba incluir una clase para hablar de los derechos que tienen los animales. Por tanto, en la situación, muestra una mayor preocupación por la protección de los animales.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática."
     },
@@ -3923,11 +3923,11 @@ window.DATABASE = [
       "what_evaluates": "El conocimiento sobre los principios constitucionales de protección de la diversidad étnica y cultural del país."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes razones explica la decisión del Gobierno?",
-      "context_summary": "Se plantea un caso en el que en un colegio se aplican sanciones disciplinarias a los niños indígenas que no portan el uniforme como lo señalan las normas y se visten con algunas prendas propias de su cultura.",
-      "takeaway": "El deber de proteger la diversidad étnica y cultural en todo el país.",
-      "analysis": "La pregunta evalúa conocimientos a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción A es correcta porque el conocimiento sobre los principios constitucionales de protección de la diversidad étnica y cultural del país. La opción A es la, puesto que en la Constitución Política de Colombia, en el Artículo 7, manifiesta la obligación del Estado de proteger las riquezas culturales y naturales de la nación. En pro de ello, el Gobierno decide exigirle al colegio que quite la norma y las sanciones para que la población indígena pueda mantener sus tradiciones.",
-      "distractors": "La opción B no es válida, ya que en este caso no se está vulnerando el derecho a la educación, sino la posibilidad de asistir al colegio con una vestimenta diferente al uniforme del colegio. La opción C no es válida, ya que en la Constitución, en el Artículo 7, manifiesta la obligación del Estado de proteger la riqueza cultural. Por lo que no es un deber del Estado garantizar que exista una sola cultura en todo el país. La opción D no es válida, ya que no es solo deber exclusivo de los indígenas exigir y proteger sus derechos; según la Constitución, es el Estado quien está obligado a garantizar los derechos.",
+      "guiding_question": "¿Por qué la protección de la diversidad cultural limita las normas escolares uniformadoras?",
+      "context_summary": "En un colegio se aplican sanciones disciplinarias a los niños indígenas que no portan el uniforme como lo señalan las normas y se visten con algunas prendas propias de su cultura.",
+      "takeaway": "La Constitución protege la diversidad étnica y cultural por encima de normas escolares que pretendan uniformar a toda la comunidad.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque el conocimiento sobre los principios constitucionales de protección de la diversidad étnica y cultural del país. La opción A es la, puesto que en la Constitución Política de Colombia, en el Artículo 7, manifiesta la obligación del Estado de proteger las riquezas culturales y naturales de la nación. En pro de ello, el Gobierno decide exigirle al colegio que quite la norma y las sanciones para que la población indígena pueda mantener sus tradiciones.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce algunos de los principios fundamentales de la Constitución."
     },
@@ -3981,11 +3981,11 @@ window.DATABASE = [
       "what_evaluates": "El conocimiento sobre los derechos fundamentales consignados en la Constitución."
     },
     "pedagogy": {
-      "guiding_question": "Teniendo en cuenta los principios de la Constitución Política de Colombia, el colegio obró de manera",
-      "context_summary": "Se plantea un caso en el que los directivos de una institución académica decidieron incluir en el Manual de convivencia una norma que prohíbe la manifestación de cualquier conducta, práctica o pensamiento homosexual dentro de la institución.",
-      "takeaway": "incorrecta, puesto que está vulnerando derechos fundamentales establecidos en la Constitución, y la Constitución está por encima del Manual de convivencia.",
-      "analysis": "La pregunta evalúa conocimientos a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción A es correcta porque el conocimiento sobre los derechos fundamentales consignados en la Constitución. La opción A es la, ya que los derechos fundamentales están establecidos en la Constitución, que es la norma de normas, esto quiere decir que, en caso de incompatibilidad, se aplicarán las disposiciones constitucionales. Por tanto, se encuentra por encima de otro tipo de acuerdos como el Manual de Convivencia.",
-      "distractors": "La opción B no es válida, pues indica que el colegio obró de manera adecuada porque siguió el Manual, sin embargo, en la pregunta se manifiesta según los principios de la Constitución, por lo que se debe remitir a esta norma. La opción C no es válida, ya que la Constitución Política de Colombia no manifiesta que no pueda existir otras normas o acuerdos, siempre y cuando se acojan a lo descrito en la Constitución. La opción D no es válida, porque indica que el Manual de Convivencia está por encima de la Constitución y esto no es correcto, los demás acuerdos y manuales deben regirse por la Constitución.",
+      "guiding_question": "¿Qué principio constitucional permite cuestionar una norma escolar discriminatoria?",
+      "context_summary": "Los directivos de una institución académica decidieron incluir en el Manual de convivencia una norma que prohíbe la manifestación de cualquier conducta, práctica o pensamiento homosexual dentro de la institución.",
+      "takeaway": "Ningún manual escolar puede justificar discriminación ni vulnerar derechos fundamentales protegidos por la Constitución.",
+      "analysis": "Esta ficha se resuelve aplicando correctamente un derecho, una institución o un principio del orden constitucional y democrático. La respuesta correcta se sostiene porque el conocimiento sobre los derechos fundamentales consignados en la Constitución. La opción A es la, ya que los derechos fundamentales están establecidos en la Constitución, que es la norma de normas, esto quiere decir que, en caso de incompatibilidad, se aplicarán las disposiciones constitucionales. Por tanto, se encuentra por encima de otro tipo de acuerdos como el Manual de Convivencia.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce algunos de los principios fundamentales de la Constitución."
     },
@@ -4040,10 +4040,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Considera que la idea que tiene Ángela de los estudiantes de décimo está justificada?",
-      "context_summary": "Se presenta una situación en una integración de bachillerato en la que ángela, una estudiante de octavo, habla con Ismael, un estudiante de décimo. Ismael le dice a Ángela que los estudiantes de décimo son más inteligentes que los de los grados inferiores, pues ven materias más difíciles.",
-      "takeaway": "No, porque está realizando una generalización de la totalidad de estudiantes a partir de un solo caso.",
+      "context_summary": "Una integración de bachillerato en la que ángela, una estudiante de octavo, habla con Ismael, un estudiante de décimo. Ismael le dice a Ángela que los estudiantes de décimo son más inteligentes que los de los grados inferiores, pues ven materias más difíciles.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La capacidad para reconocer si una generalización acerca un asunto ciudadano está justificada. La opción C es la, ya que se da una generalización apresurada sobre todos los estudiantes de grado décimo, lo que evidencia que se realiza una conclusión a partir de hechos aislados o con pocas evidencias.",
-      "distractors": "La opción A no es válida, ya que la afirmación no se puede dar tampoco para los estudiantes de su colegio, puesto que no se puede pensar que todos son iguales y menos sin haberlos conocido. La opción B no es válida, ya que solo hablar con una persona no permite saber cómo son las demás, ya que no todas son iguales. La opción D no es válida porque también plantea una generalización sin evidencias.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en Contextos Ciudadanos -> Analiza y evalúa la intención, credibilidad, pertinencia y solidez de posiciones enmarcadas en asuntos ciudadanos, así como sus posibles impactos negativos. -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos."
     },
@@ -4098,10 +4098,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál es el aspecto más importante de la problemática descrita?",
-      "context_summary": "Se plantea un caso en el que considere el siguiente fragmento de un artículo periodístico: ¿Querer tener hijos y luego arrepentirse?",
-      "takeaway": "La presión social y el maltrato que reciben las mujeres que no quieren ser madres.",
+      "context_summary": "Considere el siguiente fragmento de un artículo periodístico: ¿Querer tener hijos y luego arrepentirse?",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad para identificar, en una descripción propuesta de una situación problemática, cuál de los diferentes aspectos (sociales, económicos, culturales, ambientales, entre otros) es el más preponderante. La opción C es correcta porque la presión social, estigmatización y maltrato que reciben las mujeres que no quieren tener hijos es el eje central de la problemática. El dilema de las mujeres que no quieren ser madres o se arrepienten y las presiones externas que reciben, es el tema que se desarrolla en la descripción del problema.",
-      "distractors": "La opción A no es válida, pues se menciona que puede haber presión de la pareja y que es parte del imaginario que se inculca a las mujeres, pero no es la dimensión principal del problema. La opción B no es válida porque, si bien se mencionan algunos países y sus promedios de hijos por mujer, este no es el aspecto central del problema y no se trata de una comparación de las diferencias del fenómeno en diferentes países, sino una reflexión general. La opción D no es válida, pues en el contexto se menciona la tensión entre la independencia de la mujer y su decisión de ser madre, pero no se establece una relación directa entre su decisión de no tener hijos y sus oportunidades laborales.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática."
     },
@@ -4156,10 +4156,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los dos estudiantes apoya la opinión del profesor?",
-      "context_summary": "Se plantea un caso en el que en clase de Ciencias Naturales, el profesor afirma: “Es fundamental proteger el medio ambiente. La vida de todos los seres que viven en nuestro planeta es igual de importante a la nuestra”.",
-      "takeaway": "Julián, porque afirma que debemos preservar los ecosistemas y respetar a todos los seres vivos.",
+      "context_summary": "En clase de Ciencias Naturales, el profesor afirma: “Es fundamental proteger el medio ambiente. La vida de todos los seres que viven en nuestro planeta es igual de importante a la nuestra”.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La capacidad para identificar las posiciones y argumentos que apoyan o entran conflicto con los de otros. La opción D es correcta porque Julián reconoce que se deben preservar y respetar todos los seres vivos simplemente porque en ellos hay vida; además, va en la misma línea de la opinión del docente al decir que se deben cuidar a los seres que viven en la tierra porque su vida es igual de importante a la nuestra.",
-      "distractors": "La opción A no es válida porque Camila afirma que se deben cuidar los recursos naturales para que el ser humano los pueda usar, lo que va en contravía con lo mencionado por el profesor en torno a que todas las vidas son igual de importantes. La opción B no es válida porque Julián no menciona en sus argumentos que hay que aprovechar y explotar la vida en los ecosistemas, por el contrario, afirma que se deben cuidar los ecosistemas simplemente porque en ellos hay vida. La opción C no es válida porque Camila manifiesta que es importante cuidar el medio ambiente para que los humanos puedan aprovechar sus recursos para seguir existiendo, por lo que va en contravía con la idea del profesor sobre el cuidado porque viven en el planeta y sus vidas son igual de importantes a la nuestra.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en Contextos Ciudadanos -> Analiza y evalúa la intención, credibilidad, pertinencia y solidez de posiciones enmarcadas en asuntos ciudadanos, así como sus posibles impactos negativos. -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos."
     },
@@ -4214,10 +4214,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspecto del problema no considera la propuesta del líder?",
-      "context_summary": "Se plantea un caso en el que un grupo de agricultores se reúne para discutir los problemas de producción que presenta la región.",
-      "takeaway": "Los recursos económicos necesarios para implementar su propuesta.",
+      "context_summary": "Un grupo de agricultores se reúne para discutir los problemas de producción que presenta la región.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad para identificar, en una descripción propuesta de una situación problemática, qué aspectos (sociales, económicos, culturales, ambientales, entre otros) hacen falta considerar para su adecuada comprensión. La opción B es correcta porque, en la propuesta señalada en el contexto, una de las partes omite un aspecto importante del problema para aportar una solución: la tecnificación de la agricultura puede representar grandes ventajas; sin embargo, dada la condición económica de la región, la propuesta no considera cómo se obtendrían los recursos económicos para ejecutarla.",
-      "distractors": "La opción A no es válida porque la propuesta aborda el problema que afecta a los habitantes de la región y considera mecanismos para integrarlos, como la capacitación en el uso de maquinaria. La opción C no es válida porque en el contexto expuesto se considera la necesidad de capacitar a un grupo de campesinos de la región, lo que no se considera es cómo contar con los recursos económicos para garantizar esta capacitación. La opción D no es válida porque la propuesta de tecnificar la agricultura puede generar un cambio positivo en las técnicas de cultivo, siempre y cuando se cuente con las condiciones económicas para implementarla.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática."
     },
@@ -4272,10 +4272,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿El profesor tiene información suficiente para afirmar esto?",
-      "context_summary": "Se plantea un caso en el que un profesor se da cuenta de que los estudiantes de su curso que pertenecen a barras de fútbol tienen muy malas notas.",
-      "takeaway": "No, porque es posible que otros estudiantes del colegio que pertenecen a barras de fútbol tengan buenas notas.",
+      "context_summary": "Un profesor se da cuenta de que los estudiantes de su curso que pertenecen a barras de fútbol tienen muy malas notas.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La capacidad para identificar las posiciones y argumentos que apoyan o entran conflicto con los de otros. La opción C es correcta porque el profesor solo tiene la información de un curso, lo que hace que su conclusión sobre los estudiantes que pertenecen a una barra de fútbol sea una generalización que puede ser incorrecta. En la situación, se necesita más información ya que puede que haya niños con buenas notas y que pertenezcan a barras de fútbol.",
-      "distractors": "La opción A no es válida, ya que el profesor no tiene evidencia de que las actividades extracurriculares como las barras de fútbol le quiten demasiado tiempo a los estudiantes, que no les permita asistir normalmente a clases o que sean la causa de sus malas notas. La opción B no es válida, porque a partir de conocer que algunos estudiantes que pertenecen a barras tienen malas notas no se puede inferir que todos los estudiantes que pertenecen a barras tienen mal desempeño académico. La opción D no es válida, puesto que esta respuesta incluye una generalización injustificada al decir que con conocer un poco a quienes pertenecen a una barra de fútbol es suficiente para saber que no tendrían malas notas; además, el docente tiene evidencia de algunos estudiantes que no cumplen esta regla.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación en Contextos Ciudadanos -> Analiza y evalúa la intención, credibilidad, pertinencia y solidez de posiciones enmarcadas en asuntos ciudadanos, así como sus posibles impactos negativos. -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos."
     },
@@ -4330,10 +4330,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál derecho de los trabajadores están protegiendo los defensores de derechos humanos?",
-      "context_summary": "Se plantea un caso en el que los trabajadores de una empresa están en huelga porque sus condiciones de trabajo no son adecuadas. Varios defensores de derechos humanos acompañan la huelga, con el fin de asegurarse de que no se cometa ningún tipo de acto violento contra los trabajadores.",
-      "takeaway": "El derecho a manifestarse pacíficamente.",
-      "analysis": "La pregunta evalúa conocimientos a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción C es correcta porque el conocimiento sobre los derechos humanos y los derechos fundamentales consagrados en la Constitución política de Colombia. La opción C es correcta porque los defensores de derechos humanos se encuentran acompañando una huelga de trabajadores y se aclara que es con el fin de asegurarse que no se cometan actos violentos contra ellos, por lo que se está protegiendo el derecho de poder reunirse y sobre todo manifestarse pacíficamente.",
-      "distractors": "La opción A no es válida, ya que no se sugiere que exista una trasgresión hacia el derecho a la igualdad o que existan casos donde algunas personas no gozan los beneficios que tienen otros y, por tanto, no es una razón para que los defensores de derechos humanos se encuentren acompañando dicho espacio. La opción B no es válida porque el derecho al buen nombre de la empresa no es uno de los derechos básicos de la Constitución; adicionalmente, en la justificación de por qué están los defensores de derechos humano no se incluye que estén para proteger la empresa, sino al contrario, para proteger a los trabajadores de actos violentos. La opción D no es válida porque existe el derecho a la asociación; sin embargo, no se tiene información por la cual se pueda concluir que están allí para proteger la formación de un sindicato, por lo que a pesar de que puede ser un derecho, no es el que se estaba protegiendo en este momento.",
+      "context_summary": "Los trabajadores de una empresa están en huelga porque sus condiciones de trabajo no son adecuadas. Varios defensores de derechos humanos acompañan la huelga, con el fin de asegurarse de que no se cometa ningún tipo de acto violento contra los trabajadores.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
+      "analysis": "La pregunta evalúa conocimientos a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La respuesta correcta se sostiene porque el conocimiento sobre los derechos humanos y los derechos fundamentales consagrados en la Constitución política de Colombia. La respuesta correcta se sostiene porque los defensores de derechos humanos se encuentran acompañando una huelga de trabajadores y se aclara que es con el fin de asegurarse que no se cometan actos violentos contra ellos, por lo que se está protegiendo el derecho de poder reunirse y sobre todo manifestarse pacíficamente.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce los derechos fundamentales consagrados en la Constitución."
     },
@@ -4388,10 +4388,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿La propuesta de solución del Gobierno se ajusta a los intereses de la comunidad?",
-      "context_summary": "Se plantea un caso en el que en el mundo, muchas comunidades preparan sus alimentos en cocinas de carbón y leña, lo que provoca un gran número de muertes cada año debido a la inhalación de humos de cocina.",
-      "takeaway": "Sí, pues ofrece una alternativa a las cocinas de carbón y resuelve la preocupación de los habitantes que no tienen el conocimiento para usar la planta.",
+      "context_summary": "En el mundo, muchas comunidades preparan sus alimentos en cocinas de carbón y leña, lo que provoca un gran número de muertes cada año debido a la inhalación de humos de cocina.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para reconocer si una propuesta de solución a una situación de conflicto se ajusta o no a los intereses de una o varias de las partes. La opción D es correcta porque los estudiantes que elijan esta opción están identificando aspectos claves del contexto, particularmente, que la propuesta responde a los intereses de la comunidad en cuanto ofrece una alternativa al uso de las cocinas de carbón, que causan daños en su salud, y resuelve la preocupación de quienes consideran que los habitantes no están capacitados para emplear la planta eléctrica.",
-      "distractors": "La opción A no es válida porque la propuesta del Gobierno incluye la capacitación de varios miembros de la comunidad, lo que se ajusta a los intereses de esta. La opción B no es válida porque la propuesta sí ofrece una alternativa. Así mismo, aunque la comunidad no pueda financiarla por su propia cuenta, el Gobierno, como se indica, es quien la financia. Que sea el Gobierno y no la comunidad quien financie el proyecto no implica que la propuesta no se ajuste al mejor interés de la comunidad. La opción C no es válida porque la propuesta es una alternativa al uso de cocinas de carbón, no una forma de optimizarlas, lo que iría en contra de los mejores intereses de la comunidad.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -4446,10 +4446,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué instancia del Gobierno Escolar pueden acudir los estudiantes?",
-      "context_summary": "Se presenta una situación en un colegio en la que los estudiantes de 10.° están incumpliendo las normas del uso de la cancha de fútbol que se establecieron al inicio del año.",
-      "takeaway": "Al Comité Escolar de Convivencia.",
+      "context_summary": "Un colegio en la que los estudiantes de 10.° están incumpliendo las normas del uso de la cancha de fútbol que se establecieron al inicio del año.",
+      "takeaway": "El gobierno escolar cuenta con instancias distintas para defender derechos, tramitar peticiones y representar a los estudiantes.",
       "analysis": "La capacidad para identificar, en una situación concreta, los mecanismos de participación pertinentes para la toma de decisiones del gobierno escolar. La opción D es correcta porque el comité escolar de convivencia es la instancia del Gobierno escolar que se encarga de liderar el desarrollo de iniciativas de mediación y conciliación, que favorezcan el bienestar individual y colectivo en la escuela.",
-      "distractors": "La opción A no es válida porque las funciones del Consejo Académico se definen en torno al proyecto educativo institucional y su ejecución. La opción B no es válida, ya que este comité tiene como propósito fortalecer el compromiso de cuidar y preservar el medio ambiente, pero no es una instancia que medie en situaciones en las que la convivencia pacífica esté en riesgo. La opción C no es válida porque este consejo es un órgano de participación de los padres de familia del establecimiento educativo destinado a asegurar su continua participación en el proceso educativo y servir como órgano de control a la calidad del servicio. Sin embargo, dentro del alcance de sus funciones no está el de liderar iniciativas de mediación y conciliación entre los estudiantes.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos que los ciudadanos tienen a su disposición para la participación democrática y para garantizar la protección de sus derechos. -> Conoce los mecanismos de participación democrática en los diferentes niveles gubernamentales (escolar, municipal, departamental y nacional)."
     },
@@ -4503,11 +4503,11 @@ window.DATABASE = [
       "what_evaluates": "La capacidad para identificar y analizar compatibilidades entre los argumentos de distintos actores."
     },
     "pedagogy": {
-      "guiding_question": "¿Con cuál de las siguientes cosmovisiones es más compatible este argumento?",
-      "context_summary": "Se plantea un caso en el que el siguiente argumento presenta las ideas de una comunidad en contra de la eutanasia, es decir, la acción de acelerar la muerte de un enfermo terminal para evitarle sufrimientos innecesarios: Estamos de acuerdo con morir con dignidad, con los cuidados para evitar el dolor, con la hidratación y con el uso de todos los medicamentos que le sirvan a una persona para vivir, pero no aceptamos matar a un enfermo terminal, así él lo pida, porque es un homicidio o un suicidio asistido y eso es un crimen.",
-      "takeaway": "La vida es un derecho sagrado sobre el cual las personas no tienen poder de decisión.",
+      "guiding_question": "¿Qué visión del mundo y de la dignidad humana sostiene la postura presentada?",
+      "context_summary": "El siguiente argumento presenta las ideas de una comunidad en contra de la eutanasia, es decir, la acción de acelerar la muerte de un enfermo terminal para evitarle sufrimientos innecesarios: Estamos de acuerdo con morir con dignidad, con los cuidados para evitar el dolor, con la hidratación y con el uso de todos los medicamentos que le sirvan a una persona para vivir, pero no aceptamos matar a un enfermo terminal, así él lo pida, porque es un homicidio o un suicidio asistido y eso es un crimen.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para identificar y analizar compatibilidades entre los argumentos de distintos actores. La opción A es la, ya que da razones por las cuales se justifica estar en contra de la eutanasia, como que la vida es sagrada; por tanto, no se puede tener poder de decisión, es la única opción que está en la misma línea que el argumento del enunciado.",
-      "distractors": "La opción B no es válida, ya que la cosmovisión del enunciado manifiesta que la eutanasia es un crimen y, en esta opción, se habla de la libertad de poder disponer de su propia vida; por ende, estas cosmovisiones son incompatibles. La opción C no es válida porque estas dos cosmovisiones se encuentran en conflicto, puesto que la cosmovisión del enunciado afirma que la eutanasia es un crimen así la persona que padece una enfermedad la pida; mientras que esta opción manifiesta el apoyo a esta práctica afirmando que el ser humano es racional y autónomo, por lo que puede decidir el momento de morir con el fin de evitar el sufrimiento. La opción D no es válida, ya que va en contravía con la cosmovisión del enunciado, pues en este se afirma que la eutanasia va en contra de la vida humana y la ley divina y esta opción manifiesta la capacidad para poder renunciar al derecho a vivir, si las personas así lo deciden",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -4562,10 +4562,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué aspectos están en conflicto?",
-      "context_summary": "Se plantea un caso en el que como parte del proyecto de ciencias y emprendimiento, los docentes de noveno deciden construir un cultivo de lombrices.",
-      "takeaway": "Las prácticas alimenticias de la familia y el uso de lombrices para producir carne.",
+      "context_summary": "Como parte del proyecto de ciencias y emprendimiento, los docentes de noveno deciden construir un cultivo de lombrices.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad para identificar, en una situación problemática, cuáles aspectos (sociales, económicos, culturales, ambientales, entre otros) entran en conflicto. La opción B es correcta porque los aspectos que están en conflicto en este contexto son las prácticas alimenticias vegetarianas de la familia y el uso de animales, en este caso lombrices, para la elaboración y venta de alimentos.",
-      "distractors": "La opción A no es válida porque en este contexto no están en conflicto el uso de lombrices para producir abono y carne. Estos dos aspectos son afines y hacen parte del proyecto de ciencias y emprendimiento. La opción C no es válida porque el uso de las lombrices para producir abono no es un aspecto en conflicto con el régimen vegetariano de la familia. En el contexto se menciona que la familia no está de acuerdo con el uso de animales para la alimentación. La opción D no es válida porque no es posible inferir del contexto que la carne de lombriz esté asociada o produzca afectaciones en la salud de los estudiantes ni se afirma que los estudiantes sean quienes la consuman.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Establece relaciones entre aspectos de una situación problemática."
     },
@@ -4619,11 +4619,11 @@ window.DATABASE = [
       "what_evaluates": "La capacidad para identificar el interés último de una de las partes involucradas en un conflicto, dada una solución que esta ha aceptado, pese a que no coincide con su interés inmediato."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál es el interés que tienen en común la junta y los vecinos?",
-      "context_summary": "Se plantea un caso en el que la junta administradora local y los vecinos de un barrio discuten las estrategias para evitar la acumulación de basuras en el parque infantil.",
-      "takeaway": "Que se reduzcan las basuras arrojadas en el parque.",
+      "guiding_question": "¿Qué intereses, valores o puntos de vista ayudan a comprender mejor el conflicto planteado?",
+      "context_summary": "La junta administradora local y los vecinos de un barrio discuten las estrategias para evitar la acumulación de basuras en el parque infantil.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para identificar el interés último de una de las partes involucradas en un conflicto, dada una solución que esta ha aceptado, pese a que no coincide con su interés inmediato. La opción C es la, pues describe el propósito de la junta al presentar la propuesta y la razón por la cual los vecinos la aceptan, pese a que no corresponde con el interés inmediato que estos tienen de desalojar a los recicladores.",
-      "distractors": "La opción A no es válida porque el propósito último de la Junta no es sancionar exclusivamente a los recicladores, sino a quien arroje basuras en el parque. La opción B no es válida porque describe el interés inmediato de los vecinos, pero no el interés último que tienen en común con la Junta. La opción D no es válida porque describe la propuesta de la Junta, pero no el interés último que la motiva y que es común al interés de los vecinos.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -4677,11 +4677,11 @@ window.DATABASE = [
       "what_evaluates": "El conocimiento del estudiante sobre el funcionamiento y división de las ramas del poder público y sus funciones."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes ramas del poder público evaluaría su petición?",
-      "context_summary": "Se plantea un caso en el que el derecho de petición es un mecanismo que les permite a los ciudadanos solicitar información o explicaciones a las entidades o a las autoridades del país. Si alguien quisiera cambiar la ley que regula el derecho de petición en Colombia.",
+      "guiding_question": "¿Qué institución tiene competencia para tramitar y responder de manera adecuada una petición ciudadana?",
+      "context_summary": "El derecho de petición es un mecanismo que les permite a los ciudadanos solicitar información o explicaciones a las entidades o a las autoridades del país. Si alguien quisiera cambiar la ley que regula el derecho de petición en Colombia.",
       "takeaway": "La idea clave es reconocer que los cambios en la ley deben tramitarse en la rama legislativa.",
       "analysis": "El conocimiento del estudiante sobre el funcionamiento y división de las ramas del poder público y sus funciones. La opción A es la respuesra correcta, pues, al estar legislado el derecho de petición, para poder realizar algunos cambios con respecto a su regulación se debe recurrir a la rama legislativa. Esta es la encargada de promulgar, modificar y reformar las leyes.",
-      "distractors": "La opción B no es válida, a la rama ejecutiva representada por el presidente de la República, los ministros, entre otros, le corresponde realizar las acciones orientadas a los intereses generales de la comunidad para el cumplimiento de los fines esenciales del Estado. La opción C no es válida, la rama judicial se encarga de administrar la justicia en el país, solucionar conflictos entre los ciudadanos y entre éstos y el Estado y velar por el cumplimiento de la ley. La opción D no es válida, ya que la rama de poder constitucional no existe y por lo tanto no puede ser la encargada de evaluar la petición.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce la organización del Estado y las funciones básicas de las ramas del poder."
     },
@@ -4736,10 +4736,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué grupo de inmigrantes se les debería dar prioridad?",
-      "context_summary": "Se plantea un caso en el que dada la gran cantidad de inmigrantes que han llegado al país durante los últimos años y las limitaciones presupuestales del Ministerio de Relaciones Exteriores, que le impiden procesar las solicitudes de nacionalización de estas personas, el Gobierno Nacional ha decidido hacer una priorización.",
-      "takeaway": "A los niños, porque sus derechos prevalecen sobre los de los demás.",
+      "context_summary": "Dada la gran cantidad de inmigrantes que han llegado al país durante los últimos años y las limitaciones presupuestales del Ministerio de Relaciones Exteriores, que le impiden procesar las solicitudes de nacionalización de estas personas, el Gobierno Nacional ha decidido hacer una priorización.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "La capacidad para reconocer, en una situación concreta, que los derechos de los niños prevalecen sobre los de los demás. La opción B es correcta porque, de acuerdo con la Constitución política de Colombia, los derechos de los niños prevalecen sobre los de los demás.",
-      "distractors": "La opción A no es válida porque el mayor aporte al país no es un criterio válido de priorización para conferir derechos. La opción C no es válida porque las necesidades médicas no sobrepasan en prioridad a los derechos de los niños. La opción D no es válida porque el género de una persona y su necesidad de acceso a subsidios no es un criterio válido para conferir derechos.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce los derechos fundamentales consagrados en la Constitución."
     },
@@ -4794,10 +4794,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes enunciados apoya lo dicho por la estudiante?",
-      "context_summary": "Se presenta una situación en una clase de ciencias en la que un grupo de estudiantes debatía sobre los problemas ambientales. En medio del debate, una estudiante dijo lo siguiente: “Los problemas ambientales no se resuelven solamente con acciones individuales.",
-      "takeaway": "Si descuidas la basura de la vecina, prepárate para la tormenta que se avecina.",
+      "context_summary": "Una clase de ciencias en la que un grupo de estudiantes debatía sobre los problemas ambientales. En medio del debate, una estudiante dijo lo siguiente: “Los problemas ambientales no se resuelven solamente con acciones individuales.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La capacidad de identificar razones que apoyan una posición enmarcada en un asunto ciudadano. La posición del estudiante es que se requieren acciones que trasciendan el ámbito personal para resolver los problemas ambientales que estamos enfrentando. Por ello, la opción B es correcta, en tanto sitúa como necesaria la preocupación por las acciones ambientales de otras personas.",
-      "distractors": "La opción A no es válida, puesto que sugiere una acción ambiental que no implica la preocupación por las acciones de otros: “No dejes las llaves abiertas”. La opción C no es válida, ya que indica una acción ambiental que no implica la preocupación por las acciones de otros: “No utilices plásticos de un solo uso”. La opción D no es válida porque enuncia una acción ambiental que tampoco implica la preocupación por las acciones de otros: “Apaga la luz”.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación -> Analiza y evalúa la intención, credibilidad, pertinencia y solidez de posiciones enmarcadas en asuntos ciudadanos, así como sus posibles impactos negativos. -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos."
     },
@@ -4852,10 +4852,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿La afirmación de Lucrecia está bien justificada?",
-      "context_summary": "Se plantea un caso en el que lucrecia, habitante de una vereda, afirma lo siguiente: “Yo creo que la mayoría de los niños de la vereda está abandonando la escuela para dedicarse a trabajar”.",
-      "takeaway": "No, porque hay muy pocos ejemplos para apoyar su afirmación.",
+      "context_summary": "Lucrecia, habitante de una vereda, afirma lo siguiente: “Yo creo que la mayoría de los niños de la vereda está abandonando la escuela para dedicarse a trabajar”.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La capacidad de identificar si una generalización acerca de un grupo de personas está justificada. La afirmación de Lucrecia es una generalización sobre la mayoría de los niños de la vereda. Dado que solo cuenta con dos familias para sustentar su afirmación sobre un mucho mayor número de familias (noventa), la información que tiene es insuficiente para apoyar una afirmación sobre la mayoría de los niños de la vereda.",
-      "distractors": "La opción B no es válida porque el hecho que la encuesta haya sido realizada por el líder comunitario no implica, que esta sea confiable ni que los resultados de la misma apoyen la afirmación de Lucrecia. La opción C no es válida, puesto que la encuesta no arroja como resultados que la mayoría de los niños apoye la afirmación de Lucrecia ni que la mayoría de ellos haya abandonado el colegio para dedicarse a trabajar. La opción D no es válida, ya que una encuesta sí puede recoger información sobre las condiciones socioeconómicas de los niños de la vereda.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación -> Analiza y evalúa la intención, credibilidad, pertinencia y solidez de posiciones enmarcadas en asuntos ciudadanos, así como sus posibles impactos negativos. -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos."
     },
@@ -4910,10 +4910,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Es justificada la afirmación hecha por el estudiante?",
-      "context_summary": "Se plantea un caso en el que un colegio está ubicado en una zona rural en donde hay casas antiguas y casas nuevas, construidas con distintos tipos de materiales.",
-      "takeaway": "No, porque el estado de una vivienda puede estar relacionado con aspectos distintos a la situación económica de quienes viven en ella.",
+      "context_summary": "Un colegio está ubicado en una zona rural en donde hay casas antiguas y casas nuevas, construidas con distintos tipos de materiales.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La capacidad para identificar por qué una posición o afirmación no está justificada. A partir de la información ofrecida en el contexto, se espera que el estudiante reconozca que hay aspectos contextuales que obligan a moderar las afirmaciones hechas sobre las personas o sobre grupos de personas. En este caso particular, se debe entender que el estado de la vivienda es un criterio limitado para determinar la situación económica de una familia, sobre todo si se tiene en cuenta que estas viviendas fueron construidas en distintas épocas y con distintos materiales y que, por ello, su deterioro puede estar relacionado con el momento o con los materiales en que fueron construidas y no necesariamente con la condición económica de sus habitantes.",
-      "distractors": "La opción A no es válida, ya que en una zona donde hay casas construidas en distintas épocas y con distintos materiales, el estado de las viviendas puede no estar relacionado con la situación económica de las familias. La opción B no es válida porque en la afirmación del estudiante no se hace una asociación entre capacidad económica de los hogares y compra de vivienda. La opción C no es válida, ya que la determinación de la situación económica por la comparación entre dos o más viviendas no es pertinente, justamente porque el estado de una vivienda no se relaciona directamente con la situación económica de quien vive en ella.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Argumentación -> Analiza y evalúa la intención, credibilidad, pertinencia y solidez de posiciones enmarcadas en asuntos ciudadanos, así como sus posibles impactos negativos. -> Evalúa la solidez, credibilidad y pertinencia de posiciones enmarcadas en asuntos ciudadanos."
     },
@@ -4968,10 +4968,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál principio constitucional se estaría vulnerando?",
-      "context_summary": "Se presenta una situación en una región donde habita mayoritariamente población indígena en la que un gobernante local propone unificar la enseñanza del castellano como única lengua en los colegios públicos y privados, con el fin de que la mayor cantidad de estudiantes pueda seguir y comprender el plan de estudios de los colegios, y se facilite la creación de guías y materiales pedagógicos.",
-      "takeaway": "El de proteger la diversidad cultural.",
+      "context_summary": "Una región donde habita mayoritariamente población indígena en la que un gobernante local propone unificar la enseñanza del castellano como única lengua en los colegios públicos y privados, con el fin de que la mayor cantidad de estudiantes pueda seguir y comprender el plan de estudios de los colegios, y se facilite la creación de guías y materiales pedagógicos.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "La capacidad para reconocer acciones o propuestas que vulnerarían el principio constitucional de protección a la diversidad étnica y cultural. La Constitución Política de Colombia garantiza la diversidad cultural, al promover que se usen las lenguas y dialectos de los grupos étnicos, los cuales también son oficiales en sus territorios. De este modo, el gobernante vulneraría el principio de protección a la diversidad cultural al impedir el uso de lenguas indígenas oficiales en su territorio.",
-      "distractors": "La opción A no es válida, pues la norma propuesta no limita los currículos académicos ni dictamina contenidos específicos. La opción B no es válida, debido a que no es un principio constitucional; además, la propuesta del alcalde no limita la libertad de elección de un plan de estudios, sino el lenguaje en el que este se presenta. La opción C no es válida porque la norma que pretende establecer el alcalde no limita la liberta de culto de ningún habitante.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce algunos de los principios fundamentales de la Constitución."
     },
@@ -5026,10 +5026,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes principios constitucionales se estaría vulnerando?",
-      "context_summary": "Se presenta una situación en una región del país con uno de los más altos índices de pobreza en la que un grupo de políticos propone crear un parque de diversiones al interior de un parque natural de la región.",
-      "takeaway": "El de la protección de las riquezas naturales.",
+      "context_summary": "Una región del país con uno de los más altos índices de pobreza en la que un grupo de políticos propone crear un parque de diversiones al interior de un parque natural de la región.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "La capacidad para reconocer situaciones en las cuales hay acciones o propuestas que vulnerarían el principio constitucional de protección a las riquezas naturales de la nación. La naturaleza y su entorno hacen parte de la riqueza natural de Colombia, por lo tanto, al tomar una decisión de afectar un parque natural, se afecta este principio.",
-      "distractors": "La opción A no es válida, puesto que la decisión de crear un parque de diversiones no afecta el principio de libertad económica: si bien es una apuesta para recaudo de recursos, no afecta la libertad de ejercer una actividad económica. La opción B no es válida porque, aunque según la Constitución la fauna silvestre que se encuentra en el territorio pertenece a la nación, el proyecto no implica la apropiación de la fauna de la región. La opción D no es válida, ya que el proyecto, aunque dirigido a promover empleo para sus habitantes, no impone, en principio, limitaciones o vulneraciones a su cultura o creencias.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce algunos de los principios fundamentales de la Constitución."
     },
@@ -5084,10 +5084,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Quién tiene la obligación de actuar para garantizar el bienestar de todas las partes?",
-      "context_summary": "Se plantea un caso en el que el gremio de los conductores ha decidido, como forma de protesta, cerrar las vías de salida de un pueblo. El objetivo del cierre es exigirles a la empresa privada y al Estado mejores condiciones laborales para los conductores.",
-      "takeaway": "El Estado, puesto que es su deber garantizar el bienestar y la defensa de los derechos de todos sus ciudadanos.",
+      "context_summary": "El gremio de los conductores ha decidido, como forma de protesta, cerrar las vías de salida de un pueblo. El objetivo del cierre es exigirles a la empresa privada y al Estado mejores condiciones laborales para los conductores.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "La capacidad de reconocer, en una situación concreta, que el Estado tiene el deber de garantizar la convivencia pacífica. El Estado, más allá de regirse por una serie de parámetros, tiene la obligación de garantizar los derechos fundamentales de todas las personas que le conforman.",
-      "distractors": "La opción A no es válida, pues los y las conductoras ejercen su derecho a la protesta y lo hacen de la manera en la que creen que podrán llamar la atención de las entidades públicas y privadas que pueden mejorar sus condiciones. Pero no es su responsabilidad el garantizar el bienestar de las partes o la de mantener el orden vigente. La opción B no es válida, ya que la empresa privada puede ser la responsable de algunos de los temores de los y las conductoras; pero, no tiene, dentro de sus responsabilidades, la de garantizar el bienestar de quienes le conforman o de las entidades y personas con las que interactúa. La opción C no es válida, debido a que las personas del pueblo pueden ejercer su derecho a la protesta, pero no es su rol el solucionar las condiciones laborales de los y las conductoras.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce la Constitución y su función de enmarcar y regular las acciones de las personas y grupos en la sociedad. -> Conoce algunos de los principios fundamentales de la Constitución."
     },
@@ -5142,10 +5142,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Mediante qué mecanismo se elige a la personería estudiantil?",
-      "context_summary": "Se plantea un caso en el que ¿Quiénes son los representantes estudiantiles?",
-      "takeaway": "Mediante mayoría y por voto secreto de los estudiantes matriculados en el colegio.",
+      "context_summary": "¿Quiénes son los representantes estudiantiles?",
+      "takeaway": "El gobierno escolar cuenta con instancias distintas para defender derechos, tramitar peticiones y representar a los estudiantes.",
       "analysis": "La capacidad de identificar los mecanismos para la elección de los miembros del Gobierno Escolar. Tal como lo expone la cartilla sobre Elecciones del Gobierno Escolar del MOE, el personero “es elegido por las y los estudiantes matriculados en la institución educativa, mediante mayoría simple y por voto secreto.” (pág. 11).",
-      "distractors": "La opción B no es válida porque la personería no es nombrada o elegida por el rector, sino por los estudiantes matriculados en la institución. La opción C no es válida porque el consejo de estudiantes no es el único que puede participar en la elección del personero. La opción D no es válida porque la personería no es nombrada o elegida por el coordinador académico, sino por los estudiantes matriculados en la institución.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos que los ciudadanos tienen a su disposición para la participación democrática y para garantizar la protección de sus derechos. -> Conoce los mecanismos de participación democrática en los diferentes niveles gubernamentales (escolar, municipal, departamental y nacional)."
     },
@@ -5199,11 +5199,11 @@ window.DATABASE = [
       "what_evaluates": "La capacidad para reconocer, en una situación concreta, la instancia a la que puede recurrir para hacer valer sus derechos o los de sus pares en contextos escolares."
     },
     "pedagogy": {
-      "guiding_question": "¿A cuál de las siguientes instancias deben dirigirse los estudiantes para presentar su propuesta ante el consejo directivo?",
-      "context_summary": "Se plantea un caso en el que ante los frecuentes conflictos entre los estudiantes de un colegio y los vecinos del barrio en el que se encuentra la institución educativa, un grupo de estudiantes de grado noveno quiere desarrollar una serie de actividades que motiven el diálogo y la convivencia con los vecinos.",
-      "takeaway": "A la representación estudiantil.",
+      "guiding_question": "¿Qué instancia del gobierno escolar canaliza mejor una propuesta estudiantil hacia la toma de decisiones?",
+      "context_summary": "Ante los frecuentes conflictos entre los estudiantes de un colegio y los vecinos del barrio en el que se encuentra la institución educativa, un grupo de estudiantes de grado noveno quiere desarrollar una serie de actividades que motiven el diálogo y la convivencia con los vecinos.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "La capacidad para reconocer, en una situación concreta, la instancia a la que puede recurrir para hacer valer sus derechos o los de sus pares en contextos escolares. Al requerir de aprobación del Consejo Directivo, la propuesta debe ser presentada ante este a través del representante estudiantil al consejo directivo.",
-      "distractors": "La opción A no es válida, ya que el director de grupo no tiene participación en el consejo directivo a menos que sea representante elegido por voto de los docentes. La opción B no es válida porque el coordinador académico hace parte del consejo académico, no del consejo directivo. La opción D no es válida, puesto que los líderes de cada área participan en la orientación pedagógica de la institución ante el consejo académico, no ante el consejo directivo.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos que los ciudadanos tienen a su disposición para la participación democrática y para garantizar la protección de sus derechos. -> Reconoce la función de las figuras de autoridad en diferentes niveles (familiar, escolar, municipal, departamental y nacional) y el alcance de su autoridad."
     },
@@ -5258,10 +5258,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿En cuál de las siguientes situaciones se estaría vulnerando el derecho a la protesta?",
-      "context_summary": "Se plantea un caso en el que según la Constitución Política de Colombia, los miembros de la sociedad civil tienen derecho a protestar o manifestarse pública y pacíficamente, con el fin de expresar su inconformismo, luchar por sus necesidades y lograr reivindicaciones.",
-      "takeaway": "Suspender una protesta debido a que los manifestantes descalifican a un funcionario público.",
-      "analysis": "La pregunta evalúa conocimientos a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La opción A es correcta porque la habilidad para reconocer situaciones en las cuales hay acciones o propuestas que vulnerarían el derecho a la protesta. El derecho a la protesta es fundamental, al igual que los derechos de reunión, de participación y de libertad de expresión. Suspender una protesta social pacífica porque un funcionario está siendo descalificado vulnera no solo el derecho a la libre expresión, sino el de protesta.",
-      "distractors": "La opción B no es válida porque las manifestaciones violentas pueden ser sancionadas debido a que el derecho contempla explícitamente que sean protestas pacíficas. En ese sentido, la Constitución rechaza cualquier accionar violento. La opción C no es válida porque el acompañamiento de una unidad de control no es razón suficiente para considerar que se está limitando o vulnerando el derecho a la protesta. El estudiante estaría suponiendo una hipótesis adicional en donde cualquier acompañamiento de la policía es equivalente a vulnerar la protesta, lo cual no se evidencia en el contexto ofrecido para resolver el ítem. La opción D no es válida, pues limitar el derecho a la protesta porque se desarrolla en lugares públicos justamente socaba su carácter de protesta pública, lo que vulneraría este derecho. De modo que permitir la protesta en lugares públicos, en lugar de vulnerar, respetaría el derecho en cuestión.",
+      "context_summary": "Según la Constitución Política de Colombia, los miembros de la sociedad civil tienen derecho a protestar o manifestarse pública y pacíficamente, con el fin de expresar su inconformismo, luchar por sus necesidades y lograr reivindicaciones.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
+      "analysis": "La pregunta evalúa conocimientos a partir de un caso que exige interpretar la situación y relacionarla con el criterio ciudadano o social central del ítem. La respuesta correcta se sostiene porque la habilidad para reconocer situaciones en las cuales hay acciones o propuestas que vulnerarían el derecho a la protesta. El derecho a la protesta es fundamental, al igual que los derechos de reunión, de participación y de libertad de expresión. Suspender una protesta social pacífica porque un funcionario está siendo descalificado vulnera no solo el derecho a la libre expresión, sino el de protesta.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Conocimientos -> Conoce los mecanismos que los ciudadanos tienen a su disposición para la participación democrática y para garantizar la protección de sus derechos. -> Reconoce situaciones en las que se requiere una participación que trascienda los mecanismos formales existentes."
     },
@@ -5316,10 +5316,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de las propuestas se ajusta a los intereses de ambos equipos?",
-      "context_summary": "Se presenta una situación en un colegio en la que los miembros de los equipos de baloncesto y voleibol están discutiendo por el uso de la cancha de la escuela para entrenar después de la jornada escolar, lo cual ha llevado a peleas entre ambos equipos.",
-      "takeaway": "La propuesta 2, ya que responde a la necesidad de entrenamiento del equipo de baloncesto y a la exigencia de agendamiento del de voleibol.",
+      "context_summary": "Un colegio en la que los miembros de los equipos de baloncesto y voleibol están discutiendo por el uso de la cancha de la escuela para entrenar después de la jornada escolar, lo cual ha llevado a peleas entre ambos equipos.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La habilidad de reconocer, dadas varias propuestas de solución a un conflicto, cuál propuesta se ajusta a los intereses de las partes involucradas. Muestra coherencia con la necesidad expuesta por los miembros del equipo de baloncesto de entrenar al menos cuatro días para las finales. Además, no desconoce que el equipo de voleibol debe comenzar a entrenar para el siguiente año.",
-      "distractors": "La opción A no es válida, pues aunque impide que se presenten encuentros entre ambos equipos, no responde al interés del equipo de baloncesto, ya que no podrían entrenar cuatro días de la semana. La opción C no es válida porque responde a la exigencia del equipo de voleibol, pero no a la exigencia de entrenamiento del equipo de baloncesto. La opción D no es válida, puesto que la solución 2 se aplicaría mientras se disputan las finales de baloncesto.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -5374,10 +5374,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de las propuestas favorece a los intereses de los campesinos y de los transportadores?",
-      "context_summary": "Se plantea un caso en el que un grupo de campesinos de una vereda está preocupado porque los transportadores que llevan sus productos hacia la capital aumentaron sus tarifas en un 10 %.",
-      "takeaway": "La 4, porque los transportadores podrían compensar el alza de los combustibles y no tendrían que aumentar los precios.",
+      "context_summary": "Un grupo de campesinos de una vereda está preocupado porque los transportadores que llevan sus productos hacia la capital aumentaron sus tarifas en un 10 %.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para identificar, entre varias propuestas de solución a un conflicto, cuál se ajusta a los intereses de las partes involucradas. Debe tenerse en cuenta que el enunciado indaga por la propuesta que beneficie a las dos partes. Teniendo en cuenta esto, la propuesta número 4 sería conveniente para los transportadores, en tanto compensaría el alza en el precio de los combustibles con la entrega del subsidio, y para los campesinos, en la medida que no tendrían que asumir el aumento planteado previamente por los transportadores del 10 %.",
-      "distractors": "La opción A no es válida, puesto que el valor del impuesto que pagarían los transportadores es el mismo, solo que se haría a través de pagos parciales hasta completar la suma total. Si bien esto puede aliviar la organización de las finanzas de los transportadores, tendrían que pagar al final la misma cantidad, de manera que no sería coherente con sus intereses bajar el precio de su servicio. La opción B no es válida, ya que aunque puede parecer ajustada a los intereses de los campesinos, va en contra de los intereses de los transportadores, porque estos perderían total o parcialmente su trabajo. La opción C no es válida, debido a que los transportadores no podrían beneficiarse con la construcción de la bodega, mientras que, por otro lado, tampoco lo harían los campesinos si los productos son retenidos por mucho tiempo.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -5431,11 +5431,11 @@ window.DATABASE = [
       "what_evaluates": "La capacidad para identificar, entre varias propuestas de solución a un conflicto, cuál se ajusta a los intereses de una de las partes involucradas."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál es el interés principal del alcalde?",
-      "context_summary": "Se presenta una situación en un país en la que por motivo de una emergencia sanitaria, el Gobierno ordenó que las playas con alta presencia de turistas se cerraran al público antes de las 3:00 p. m., para que los entes de control sanitario pudieran monitorear el acceso y evitar aglomeraciones.",
-      "takeaway": "Reducir el impacto económico que las medidas sanitarias generan en la región.",
+      "guiding_question": "¿Qué intereses, valores o puntos de vista ayudan a comprender mejor el conflicto planteado?",
+      "context_summary": "Un país en la que por motivo de una emergencia sanitaria, el Gobierno ordenó que las playas con alta presencia de turistas se cerraran al público antes de las 3:00 p. m., para que los entes de control sanitario pudieran monitorear el acceso y evitar aglomeraciones.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para identificar, entre varias propuestas de solución a un conflicto, cuál se ajusta a los intereses de una de las partes involucradas. El reclamo del alcalde al Gobierno es justamente que las medidas sanitarias impactan negativamente al comercio de la región, por lo que con su propuesta, y al aceptar la del gobierno, busca reducir dicho impacto.",
-      "distractors": "La opción A no es válida, pues lograr abrir las playas luego de la hora dispuesta por el Gobierno es solo un medio para lograr su interés principal o interés último, que es reducir el impacto económico de las medidas sanitarias. La opción B no es válida, ya que la propuesta del alcalde implica más bien flexibilizar los protocolos para atender la emergencia sanitaria. La opción D no es válida, puesto que no describe el interés último del alcalde, sino la solución del Gobierno que el alcalde acepta, dado que satisface, en alguna medida, su interés principal de reducir el impacto económico del protocolo sanitario definido por el Gobierno.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Establece relaciones entre perspectivas presentes en un conflicto y propuestas de solución."
     },
@@ -5489,11 +5489,11 @@ window.DATABASE = [
       "what_evaluates": "La capacidad para identificar, a partir de un conjunto de opiniones, cuál de ellas es más afín con una determinada concepción."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes concepciones en relación al alquiler de vientres, visto como una actividad económica, es afín a la posición del periodista?",
-      "context_summary": "Se plantea un caso en el que el alquiler de vientre es una práctica mediante la cual una mujer se compromete, a cambio de un pago de dinero, a gestar un bebé y entregarlo, luego de su nacimiento, a las personas que lo encargaron, quienes asumen su paternidad.",
-      "takeaway": "El alquiler de vientres es inapropiado, ya que implica usar el cuerpo de la mujer gestante como un objeto de comercio.",
+      "guiding_question": "¿Qué visión ética y social resulta coherente con la crítica planteada frente al alquiler de vientres?",
+      "context_summary": "El alquiler de vientre es una práctica mediante la cual una mujer se compromete, a cambio de un pago de dinero, a gestar un bebé y entregarlo, luego de su nacimiento, a las personas que lo encargaron, quienes asumen su paternidad.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para identificar, a partir de un conjunto de opiniones, cuál de ellas es más afín con una determinada concepción. Es la postura afín con la posición del periodista. Esto en cuanto que la práctica de la maternidad subrogada o alquiler de vientre supone el empleo del cuerpo de la mujer gestante con fines lucrativos, lo que implica tratarla como medio, y no como fin. Así, conforme con la posición del periodista, la práctica de la maternidad subrogada sería inapropiada.",
-      "distractors": "La opción B no es válida, pues no guarda relación con la posición del periodista, en cuanto que esta posición no involucra o sugiere un concepto específico de familia. La opción C no es válida, pues, aunque una mujer pueda lograr independencia económica, siendo tratada como un medio, esto no hace que dicha actividad sea apropiada según la posición del periodista, sino todo lo contrario. La opción D no es válida, ya que describe una concepción positiva del alquiler de vientres que es compatible con la instrumentalización del cuerpo de la mujer. Esta instrumentalización es contraria a la posición expuesta por el periodista en el debate.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Reconoce que las diferentes concepciones y roles sociales determinan diferentes posiciones y comportamientos."
     },
@@ -5548,10 +5548,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál estudiante muestra una posición acorde con el planteamiento de la profesora?",
-      "context_summary": "Se presenta el caso de una profesora habla con sus estudiantes sobre la importancia de utilizar de forma responsable los recursos no renovables, pues su consumo acelerado puede ser inconveniente a corto y mediano plazo para el planeta.",
-      "takeaway": "Ana, pues la reutilización de los materiales existentes puede disminuir la demanda sobre nuevas materias primas.",
+      "context_summary": "Una profesora habla con sus estudiantes sobre la importancia de utilizar de forma responsable los recursos no renovables, pues su consumo acelerado puede ser inconveniente a corto y mediano plazo para el planeta.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para identificar, a partir de un conjunto de creencias, cuál de ellas es más afín con una determinada concepción. La práctica de reciclaje que propone Ana podría reducir la demanda existente sobre algunas materias primas no renovables, lo que se alinea con el planteamiento del uso responsable de recursos no renovables propuesto por la profesora.",
-      "distractors": "La opción A no es válida, pues esta opción hace una lectura inadecuada del planteamiento de la profesora, y lo relaciona únicamente con la intención de cuidar el medio ambiente o con la idea de que la carne es un recurso no renovable. La opción C no es válida, ya que no tiene en cuenta los aspectos específicos en el planteamiento de la profesora: si bien sembrar árboles es positivo para el planeta, este es un recurso renovable que no solventa el uso de otros recursos que tienen un carácter finito. La opción D no es válida, puesto que centra su atención en el petróleo como único recurso no renovable, pero debe tenerse presente que la construcción de autos eléctricos, y sus componentes, implican el uso de otros tantos recursos no renovables, cuyo uso responsable no se garantiza.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Reconoce que las diferentes concepciones y roles sociales determinan diferentes posiciones y comportamientos."
     },
@@ -5605,11 +5605,11 @@ window.DATABASE = [
       "what_evaluates": "La capacidad para explicar el comportamiento de una misma persona involucrada en situaciones similares, pero en las que ocupa diferentes roles sociales."
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes es la mejor explicación de las diferencias en el comportamiento de Pedro?",
-      "context_summary": "Se plantea un caso en el que pedro es un profesor universitario que, en sus cursos, enseña a sus estudiantes acerca del plagio y sus graves consecuencias.",
-      "takeaway": "Cuando publicó el artículo, Pedro desatendió sus advertencias sobre el plagio, al buscar beneficios económicos.",
+      "guiding_question": "¿Qué puede explicar que una misma persona actúe de forma distinta frente a una norma que conoce bien?",
+      "context_summary": "Pedro es un profesor universitario que, en sus cursos, enseña a sus estudiantes acerca del plagio y sus graves consecuencias.",
+      "takeaway": "Comprender un conflicto exige comparar intereses, valores y perspectivas antes de juzgar a los actores involucrados.",
       "analysis": "La capacidad para explicar el comportamiento de una misma persona involucrada en situaciones similares, pero en las que ocupa diferentes roles sociales. La mejor explicación para dar cuenta de las diferencias en el comportamiento de Pedro es que este, a pesar de enseñar a sus estudiantes sobre el plagio y sus consecuencias, no aplicó esas lecciones para la publicación de su propio artículo por su interés en el beneficio económico que la publicación le reporta.",
-      "distractors": "La opción A no es válida porque del contexto se extrae que Pedro sí conocía las reglas existentes sobre el plagio, puesto que enseñaba a sus estudiantes en qué consistía, las consecuencias, y la importancia de dar el reconocimiento al autor de la idea. La opción B no es válida porque el hecho de que sean ideas tomadas de profesores colegas no justifica el comportamiento de Pedro, quien en todo caso debía citar las ideas que no fueran de su autoría para evitar cometer plagio. La opción D no es válida, si bien la opción podría explicar las diferencias en el comportamiento de Pedro, la justificación no es válida, pues al profesor le aplican por igual las reglas sobre el plagio, es decir, debe dar reconocimiento al autor de la idea, sin que se haya presentado en el contexto excepciones a la regla.",
+      "distractors": "Los distractores tergiversan los intereses de los actores, les atribuyen posiciones que el caso no respalda o pasan por alto el punto de encuentro y la tensión entre sus perspectivas.",
       "glossary": [],
       "scheme": "Multiperspectivismo -> Reconoce la existencia de diferentes perspectivas y las analiza. -> Reconoce que las diferentes concepciones y roles sociales determinan diferentes posiciones y comportamientos."
     },
@@ -5664,10 +5664,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes es un aspecto que hace falta considerar para comprender la situación descrita?",
-      "context_summary": "Se plantea un caso en el que en el área común de un conjunto residencial se instaló una antena de telefonía móvil de propiedad de una compañía telefónica.",
-      "takeaway": "Si los artículos consultados son fuentes fiables de información científica.",
+      "context_summary": "En el área común de un conjunto residencial se instaló una antena de telefonía móvil de propiedad de una compañía telefónica.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad para identificar qué aspecto hace falta considerar para la adecuada comprensión de un conflicto. Un aspecto que se omite en el problema es la confiabilidad de la información que sustenta la decisión de los vecinos. Si, en efecto, es información fiable, los vecinos pueden soportar su decisión de exigir a la empresa el traslado de la antena. Si la información no es fiable, su exigencia carecería de sustento, pues no tendrían cómo conectar su estado de salud con la radiación de la antena ni exigir, por este motivo, su traslado. De este modo, la confiabilidad de la información recolectada por los vecinos puede determinar si, en efecto, hay un problema de salud causado por la instalación de la antena y, así, comprender la situación.",
-      "distractors": "La opción A no es válida, puesto que en el contexto se consideran los beneficios económicos que reciben los vecinos por la instalación de la antena en su conjunto. La opción C no es válida, ya que en el contexto se manifiesta la existencia de un contrato con la empresa de telefonía, lo que implicaría un compromiso legal con la misma. La opción D no es válida porque si bien no se considera si los vecinos pueden asumir los costos del traslado de la antena, este aspecto no es relevante para la comprensión del problema, pue, por un lado, no es un factor que determine su origen: si pueden o no pagar estos costos, el problema existiría de comprobarse la confiabilidad de los artículos consultados por los vecinos. Por otro lado, en el contexto se sugiere que es la empresa, no los vecinos, la encargada de asumir los costos del traslado.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Reconoce los diferentes aspectos que se consideran o se omiten en la descripción propuesta de una situación problemática."
     },
@@ -5722,10 +5722,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿A qué aspecto le da prioridad el Estado con su decisión?",
-      "context_summary": "Se plantea un caso en el que la importación de arroz por parte del Estado generó incomodidad en los sindicatos campesinos del país.",
-      "takeaway": "A los acuerdos mercantiles que tiene con otros países.",
+      "context_summary": "La importación de arroz por parte del Estado generó incomodidad en los sindicatos campesinos del país.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad de identificar qué aspecto privilegia una decisión un curso de acción dado ante una problemática social. La decisión del Estado, a pesar de garantizar ayudas para el sector agrícola, prioriza el respeto a por los acuerdos económicos y busca ceñir las dinámicas de los sindicatos a la de los tratados internacionales.",
-      "distractors": "La opción A no es válida, pues las condiciones de los trabajadores no son afectadas directamente en este contexto, pues aunque exista una mejora en la competitividad esto no necesariamente se ve reflejado en una mejora de las condiciones de los trabajadores. La opción B no es válida porque la preocupación del Estado no se centra en la falta de producto para el consumo local, ya que se sabe que esta puede ser suplida por la producción nacional. La decisión prioriza, más bien, los compromisos adquiridos con otros países. La opción D no es válida, puesto que, si bien es un beneficio a largo plazo de la inversión del Estado, no es el aspecto prioritario de la decisión del Estado.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Analiza efectos de decisiones en distintos aspectos de una situación problemática."
     },
@@ -5780,10 +5780,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué impacto pueden tener las acciones de la alcaldía?",
-      "context_summary": "Se presenta una situación en una ciudad en la que los medios de transporte disponibles en la actualidad no dan respuesta a las necesidades de movilidad de sus habitantes.",
-      "takeaway": "Positivo, porque muchos habitantes de bajos recursos tendrán mayor acceso a servicios de transporte.",
+      "context_summary": "Una ciudad en la que los medios de transporte disponibles en la actualidad no dan respuesta a las necesidades de movilidad de sus habitantes.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad de identificar el impacto que tendría un curso de acción sobre uno de los aspectos de una situación problemática. La garantía de un subsidio parcial para la movilidad cotidiana permite que un grupo importante de personas, que pueden tener dificultades económicas, tenga un mayor acceso a los nuevos medios de transporte, dado el menor precio que debe pagar por los pasajes.",
-      "distractors": "La opción A no es válida, puesto que la existencia de un subsidio de movilidad implica el descuento en las tarifas de una población específica. Sin embargo, esto no implica el alza en las tarifas para las personas que no cuentan con acceso al subsidio. La opción B no es válida, ya que el hecho de que más personas utilicen el sistema no lleva, necesariamente, a que funcione de manera errática. La opción D no es válida porque la medida de la alcaldía es un descuento, mas no el subsidio total del transporte, por lo que no es cierto que un impacto sea que muchas familias puedan transportarse gratuitamente.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Analiza efectos de decisiones en distintos aspectos de una situación problemática."
     },
@@ -5838,10 +5838,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Se favorecería o limitaría la efectividad de la solución 2?",
-      "context_summary": "Se plantea un caso en el que en Colombia existe una gran cantidad de personas que no proveen lo necesario para garantizar la adecuada nutrición, salud, vivienda y educación de sus hijos.",
-      "takeaway": "Se limitaría, puesto que la solución 1 restringe el acceso a recursos que pueden ser empleados para cumplir con las obligaciones como padres.",
+      "context_summary": "En Colombia existe una gran cantidad de personas que no proveen lo necesario para garantizar la adecuada nutrición, salud, vivienda y educación de sus hijos.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad de reconocer, dadas varias soluciones a un problema que puedan implementarse simultáneamente, si una de ellas obstaculiza o favorece la aplicación de otra. La finalidad de la solución 2 es disuadir a las personas de incumplir sus obligaciones alimentarias; sin embargo, la solución 1 le impide al deudor acceder a recursos que podría usar para el pago mismo de la obligación alimentaria, por lo que limita la efectividad de la solución 2.",
-      "distractors": "La opción A no es válida porque la solución 1 no contribuye al objetivo de lograr que las personas incumplidas se pongan al día con sus obligaciones, ya que limita el acceso a recursos que podrían contribuir a la satisfacción de la obligación alimentaria. La opción C no es válida, debido a que la solución 1 no favorece, sino que limita la efectividad de la solución 2; además, el objetivo de la solución 2 no es que más personas vayan a prisión, sino disuadir a las personas de incumplir con sus obligaciones alimentarias. La opción D no es válida porque aunque pueda plantear una dificultad de la solución 2, esta no es una dificultad que dependa de la aplicación de la solución 1.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Analiza efectos de decisiones en distintos aspectos de una situación problemática."
     },
@@ -5896,10 +5896,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué consecuencia NO deseada podría generar la medida?",
-      "context_summary": "Se presenta una situación en un municipio se están presentando conflictos entre los vecinos porque las basuras se dejan en las calles en la que lo que causa malos olores y la presencia permanente de animales portadores de enfermedades.",
-      "takeaway": "Aumento de los costos para controlar el uso del adecuado del basurero.",
+      "context_summary": "Un municipio se están presentando conflictos entre los vecinos porque las basuras se dejan en las calles en la que lo que causa malos olores y la presencia permanente de animales portadores de enfermedades.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La capacidad para identificar los efectos plausibles no deseados que puede tener una solución a un conflicto. Puesto que el basurero queda alejado de las viviendas, lo que evita los problemas de malos olores y enfermedades en el municipio, también dificulta controlar que, efectivamente, las basuras sean depositadas adecuadamente en el basurero y no arrojadas en el camino. Llevar un control efectivo del uso adecuado del basurero implicaría costos, en tiempo o dinero, para quienes gestionen dicho control.",
-      "distractors": "La opción A no es válida, ya que es poco probable el incremento de enfermedades porque el basurero fue ubicado a una distancia considerable de las viviendas. La opción B no es válida, puesto que la disminución de los conflictos por los malos olores es una consecuencia deseada de la propuesta. La opción D no es válida, ya que por el contrario, es probable que se incrementen los ingresos del municipio por el cobro de multas.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Sistémico -> Comprende que las problemáticas sociales y sus soluciones involucran distintos aspectos y reconoce relaciones entre estos. -> Analiza efectos de decisiones en distintos aspectos de una situación problemática."
     },
@@ -5954,10 +5954,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Existe un prejuicio en lo que dice el joven?",
-      "context_summary": "Se plantea un caso en el que un joven leyó en un texto de Sociales lo siguiente: “Para los indígenas, tener relaciones homosexuales se asocia con cambios en la naturaleza: el sexo entre mujeres produce lluvias, y, entre hombres, puede hacer que los árboles crezcan más de lo acostumbrado”.",
-      "takeaway": "Sí, porque el joven cree que las acciones de una persona, por el solo hecho de ser homosexual, resultan dañinas para su comunidad.",
+      "context_summary": "Un joven leyó en un texto de Sociales lo siguiente: “Para los indígenas, tener relaciones homosexuales se asocia con cambios en la naturaleza: el sexo entre mujeres produce lluvias, y, entre hombres, puede hacer que los árboles crezcan más de lo acostumbrado”.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La es la opción D porque evidencia el prejuicio que sostiene la afirmación del estudiante que asocia la homosexualidad con los desastres naturales.",
-      "distractors": "La opción A evidencia el derecho a la libre expresión, sin embargo, un ciudadano competente es capaz no solo de expresarse sin hacer daño a otros, sino también puede identificar el prejuicio que sostiene su creencia. La opción B asocia una creencia falsa a los indígenas y no al prejuicio del estudiante. La opción C niega el prejuicio del estudiante, con base en una afirmación falsa sobre la presencia del prejuicio en el texto de la clase.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Devela prejuicios e intenciones en enunciados o argumentos. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6012,10 +6012,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Por qué es posible afirmar que este fragmento describe un aspecto del fenómeno de la globalización?",
-      "context_summary": "Se plantea un caso en el que “¿Puede alguien hoy no tener nada que ver con USA? Quizás pueda uno quererlo, pero es poco menos que imposible lograrlo. Estados Unidos está en todas partes.",
-      "takeaway": "Porque alude al intercambio cultural entre diferentes sociedades del mundo.",
-      "analysis": "La opción C es correcta porque identifica el aspecto cultural de la globalización descrito por el texto.",
-      "distractors": "La opción A menciona aspectos que no se abordan en el texto. La opción B menciona el aprendizaje de las nuevas generaciones, pero no su educación. La opción D describe la influencia de Estados Unidos como una potencia con un término impreciso.",
+      "context_summary": "“¿Puede alguien hoy no tener nada que ver con USA? Quizás pueda uno quererlo, pero es poco menos que imposible lograrlo. Estados Unidos está en todas partes.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque identifica el aspecto cultural de la globalización descrito por el texto.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Ciencias Sociales) -> Analiza modelos conceptuales y sus usos en decisiones sociales. -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -6069,11 +6069,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "En esta situación, se configura un conflicto entre",
-      "context_summary": "Se plantea un caso en el que durante varios años, los miembros de un barrio residencial han interpuesto demandas tratando de cerrar el bar de la zona porque consideran que genera mucho ruido y es la mayor fuente de peligros del sector; por tanto, deben acudir constantemente a la policía.",
-      "takeaway": "intereses por la seguridad y por el ejercicio laboral.",
+      "guiding_question": "En esta situación, se configura un conflicto entre?",
+      "context_summary": "Durante varios años, los miembros de un barrio residencial han interpuesto demandas tratando de cerrar el bar de la zona porque consideran que genera mucho ruido y es la mayor fuente de peligros del sector; por tanto, deben acudir constantemente a la policía.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la B porque los vecinos del sector se han quejado de la inseguridad que genera el ejercicio laboral desarrollado en un bar.",
-      "distractors": "La opción C menciona un interés que puede corresponder a la comunidad barrial: la convivencia; sin embargo, el interés por la cultura no se puede atribuir al dueño del bar. La opción D menciona intereses que no se ven reflejados en el contexto.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce y compara perspectivas de actores y grupos sociales. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6128,10 +6128,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál es la causa del conflicto?",
-      "context_summary": "Se plantea un caso en el que en el laboratorio de una universidad se crea una vacuna contra un virus letal. La universidad patenta la vacuna para su producción exclusiva.",
-      "takeaway": "El desconocimiento de los participantes de que su vida estaba en riesgo.",
-      "analysis": "La opción C es correcta porque la acción más problemática que realizó la universidad fue no informar a los participantes sobre el riesgo que corrió su vida. Esto puede causar un conflicto.",
-      "distractors": "La opción A es una afirmación falsa que no genera conflicto porque la universidad contó con el consentimiento de los participantes. La opción B puede causar un conflicto con quienes necesitan la vacuna, pero estos actores no se mencionan en el contexto. La opción D es un asunto normal dentro del ejercicio investigativo que adelanta una universidad.",
+      "context_summary": "En el laboratorio de una universidad se crea una vacuna contra un virus letal. La universidad patenta la vacuna para su producción exclusiva.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque la acción más problemática que realizó la universidad fue no informar a los participantes sobre el riesgo que corrió su vida. Esto puede causar un conflicto.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Competencias Ciudadanas) -> Establece relaciones que hay entre dimensiones presentes en una situación problemática. -> Conozco y sé usar los mecanismos constitucionales de participación que permiten expresar mis opiniones y participar en la toma de decisiones políticas tanto a nivel local como a nivel nacional."
     },
@@ -6185,11 +6185,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes afirmaciones puede expresar los efectos más probables, para los estudiantes comunistas, de la afirmación del representante?",
-      "context_summary": "Se presenta una situación en un colegio en la que tres estudiantes de grado 11.º declararon que eran comunistas. Un compañero de ellos, que es representante del curso, afirmó: “Ellos solo deberían venir a clase después de que un doctor los cure de esa enfermedad”.",
-      "takeaway": "Que los compañeros los rechacen porque creen que realmente están enfermos.",
-      "analysis": "La opción B es correcta porque enuncia el efecto más probable que podría generar la afirmación del representante de curso: que los estudiantes comunistas sean rechazados por los demás porque piensan que sus creencias se deben a una enfermedad.",
-      "distractors": "La opción A no es probable porque los estudiantes afectados saben que sus creencias no son una enfermedad. La opción C parte del supuesto de que una creencia es una enfermedad, lo cual invalida la acción del colegio. La opción D es un efecto contrario al esperado por parte de los afectados, quienes se pueden sentir agredidos.",
+      "guiding_question": "¿Qué efectos puede producir un discurso excluyente dentro de una comunidad educativa?",
+      "context_summary": "Un colegio en la que tres estudiantes de grado 11.º declararon que eran comunistas. Un compañero de ellos, que es representante del curso, afirmó: “Ellos solo deberían venir a clase después de que un doctor los cure de esa enfermedad”.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque enuncia el efecto más probable que podría generar la afirmación del representante de curso: que los estudiantes comunistas sean rechazados por los demás porque piensan que sus creencias se deben a una enfermedad.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Devela prejuicios e intenciones en enunciados o argumentos. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6244,10 +6244,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué consecuencias podrían presentarse en el ámbito económico al implementarse políticas afines a la economía del desarrollo?",
-      "context_summary": "Se plantea un caso en el que lea el siguiente apartado del artículo “Ecuador: las claves del milagro económico”, escrito por David Marty: “Rafael Correa es economista del desarrollo y se nota. Este dato es importante para comprender sus políticas.",
-      "takeaway": "Mayor intervención estatal en el sector financiero.",
-      "analysis": "La opción A es correcta porque la economía del desarrollo impulsa la regulación de mercados financieros, como lo menciona el artículo, lo que implica una intervención estatal en este ámbito.",
-      "distractors": "La opción B es contraria a la economía del desarrollo, que busca proteger a la industria nacional. La opción C también es contraria a la economía del desarrollo porque esta protege el empleo. La opción D también es contraria a la propuesta económica de Correa, que sustenta el crecimiento en los salarios que impulsa el crecimiento de la industria nacional.",
+      "context_summary": "Lea el siguiente apartado del artículo “Ecuador: las claves del milagro económico”, escrito por David Marty: “Rafael Correa es economista del desarrollo y se nota. Este dato es importante para comprender sus políticas.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque la economía del desarrollo impulsa la regulación de mercados financieros, como lo menciona el artículo, lo que implica una intervención estatal en este ámbito.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Ciencias Sociales) -> Analiza los efectos en distintas dimensiones que tendría una posible intervención. -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -6301,11 +6301,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "Entre estas tres soluciones, podría decirse que hay una relación de",
-      "context_summary": "Se plantea un caso en el que la pesca ilegal no declarada, ni reglamentada, es un negocio millonario en aumento, que tiene graves consecuencias en distintos ámbitos.",
-      "takeaway": "complementariedad, pues están dirigidas a resolver diferentes aspectos del problema de la pesca ilegal.",
-      "analysis": "La opción C es correcta porque las soluciones previstas se pueden entender como un conjunto de medidas que se dirigen a diferentes aspectos del problema de la pesca ilegal: la vigilancia, la educación y la certificación de buenas prácticas.",
-      "distractors": "La opción A menciona una relación incorrecta y su justificación no es cierta, porque las soluciones no se dirigen a diferentes actores. La opción B es la más cercana a la; sin embargo, las soluciones no permiten establecer la compatibilidad; además, la solución 1 está dirigida a buques no a todos los pescadores. La opción D establece una relación incorrecta, además, señala una variable que no se abordó en el contexto: el tiempo.",
+      "guiding_question": "Entre estas tres soluciones, podría decirse que hay una relación de?",
+      "context_summary": "La pesca ilegal no declarada, ni reglamentada, es un negocio millonario en aumento, que tiene graves consecuencias en distintos ámbitos.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque las soluciones previstas se pueden entender como un conjunto de medidas que se dirigen a diferentes aspectos del problema de la pesca ilegal: la vigilancia, la educación y la certificación de buenas prácticas.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Competencias Ciudadanas) -> Analiza los efectos en distintas dimensiones que tendría una posible intervención. -> Conozco y sé usar los mecanismos constitucionales de participación que permiten expresar mis opiniones y participar en la toma de decisiones políticas tanto a nivel local como a nivel nacional."
     },
@@ -6359,11 +6359,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "El concepto que mejor describe esta situación es el de",
-      "context_summary": "Se plantea un caso en el que un estudio de 2012 reveló que en Colombia los medicamentos pueden valer hasta 240 % más que en otros países. Según los expertos, esto se debe a una elevada concentración del mercado farmacéutico en pocos laboratorios.",
+      "guiding_question": "El concepto que mejor describe esta situación es el de?",
+      "context_summary": "Un estudio de 2012 reveló que en Colombia los medicamentos pueden valer hasta 240 % más que en otros países. Según los expertos, esto se debe a una elevada concentración del mercado farmacéutico en pocos laboratorios.",
       "takeaway": "La idea clave es reconocer que el concepto adecuado para describir la situación es el de monopolio.",
       "analysis": "La es la opción D porque en el contexto se mencionan características del monopolio: pocos laboratorios concentran el mercado, no tienen competencia ni regulación estatal, lo que les permite fijar arbitrariamente los precios.",
-      "distractors": "La opción A hace referencia a un modelo que por definición establece la competencia abierta entre empresas, contrario a lo presentado en el contexto. La opción B refiere un modelo que fija impuestos para proteger a la industria nacional. La opción C es un concepto cercano a la opción A, por lo cual es incorrecto.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Ciencias Sociales) -> -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -6417,11 +6417,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes explicaciones justifica mejor la acción de quien que denuncia a su amigo?",
-      "context_summary": "Se plantea un caso en el que el empleado de un banco se dio cuenta de que su compañero y mejor amigo del trabajo se robaba diariamente pequeñas cantidades de dinero al terminar la jornada laboral.",
-      "takeaway": "Considera que la honestidad está por encima de la amistad.",
-      "analysis": "La opción C es correcta porque ante el conflicto entre amistad y honestidad, se privilegia la última para realizar la denuncia.",
-      "distractors": "La opción A es un dicho popular que no explica satisfactoriamente la denuncia. La opción B es una razón que sustentará la acción contraria: encubrir al amigo. La opción D es una razón que llevaría al denunciante a aliarse con el ladrón, no a denunciarlo.",
+      "guiding_question": "¿Qué razones pueden justificar denunciar una acción incorrecta incluso cuando afecta a alguien cercano?",
+      "context_summary": "El empleado de un banco se dio cuenta de que su compañero y mejor amigo del trabajo se robaba diariamente pequeñas cantidades de dinero al terminar la jornada laboral.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque ante el conflicto entre amistad y honestidad, se privilegia la última para realizar la denuncia.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce que las cosmovisiones, ideologías y roles sociales, influyen en diferentes argumentos, posiciones y conductas. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6475,11 +6475,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "Estas conclusiones se concentran en promover",
-      "context_summary": "Se presenta el caso de una de las conclusiones del Congreso Nacional de Comunidades Indígenas fue la necesidad de fortalecer su identidad como grupo. Su vocero dijo: “Nuestra identidad nos dará reconocimiento político, económico y social.",
+      "guiding_question": "Estas conclusiones se concentran en promover?",
+      "context_summary": "Una de las conclusiones del Congreso Nacional de Comunidades Indígenas fue la necesidad de fortalecer su identidad como grupo. Su vocero dijo: “Nuestra identidad nos dará reconocimiento político, económico y social.",
       "takeaway": "La idea clave es reconocer que la protección del patrimonio también incluye los saberes culturales de las comunidades.",
-      "analysis": "La opción A es correcta porque sintetiza las conclusiones en un concepto: saberes culturales (o ancestrales), que son de gran importancia para las comunidades indígenas.",
-      "distractors": "La opción B menciona aspectos que aparecen en el discurso del vocero, pero que solo se promueven a través de saberes culturales. La opción C y la D mencionan conceptos que no aparecen ni se relacionan con en el contexto. Identifica y usa conceptos sociales básicos (económicos, políticos, culturales y geográficos). Evidencia",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque sintetiza las conclusiones en un concepto: saberes culturales (o ancestrales), que son de gran importancia para las comunidades indígenas.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Ciencias Sociales) -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto. Estándar asociado La habilidad para identificar conceptos básicos de las ciencias sociales."
     },
@@ -6533,11 +6533,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "Del contenido de este fragmento, puede inferirse que la defensa de los derechos humanos en el mundo supone",
-      "context_summary": "Se plantea un caso en el que lea atentamente el siguiente fragmento escrito por José Ballester Gozalvo y publicado en el periódico El Tiempo en diciembre de 1958: “No habrá verdadera garantía de los Derechos del Hombre en el plano internacional más que cuando ciertas instancias independientes, objetivas, compuestas de personalidades de alto rango moral, puedan juzgar con toda libertad y serenidad las violaciones que se producen en los Estados… La lucha contra la miseria, contra el trabajo inhumano, contra las viviendas míseras e insalubres, contra el hambre, contra la tortura, contra el ‘asesinato seudo-legal’ son elementos de lucha por la paz”.",
-      "takeaway": "establecer mecanismos para proteger los derechos que sean aplicables por encima de las fronteras nacionales.",
-      "analysis": "La opción B es correcta porque sintetiza la necesidad, expresada por el autor del artículo, de contar con instancias objetivas e independientes que garanticen los derechos humanos más allá de las fronteras de los Estados nacionales.",
-      "distractors": "La opción A se refiere a creencias y costumbres que no se tratan en el contexto. La opción C tampoco se menciona como una alternativa para asegurar el respeto de los derechos humanos. La opción D se refiere a prácticas culturales, que no se mencionan en el contexto.",
+      "guiding_question": "Del contenido de este fragmento, puede inferirse que la defensa de los derechos humanos en el mundo supone?",
+      "context_summary": "Lea atentamente el siguiente fragmento escrito por José Ballester Gozalvo y publicado en el periódico El Tiempo en diciembre de 1958: “No habrá verdadera garantía de los Derechos del Hombre en el plano internacional más que cuando ciertas instancias independientes, objetivas, compuestas de personalidades de alto rango moral, puedan juzgar con toda libertad y serenidad las violaciones que se producen en los Estados… La lucha contra la miseria, contra el trabajo inhumano, contra las viviendas míseras e insalubres, contra el hambre, contra la tortura, contra el ‘asesinato seudo-legal’ son elementos de lucha por la paz”.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
+      "analysis": "Esta ficha exige relacionar causas, efectos, actores y condiciones para comprender el problema de forma integral. La respuesta correcta se sostiene porque sintetiza la necesidad, expresada por el autor del artículo, de contar con instancias objetivas e independientes que garanticen los derechos humanos más allá de las fronteras de los Estados nacionales.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Ciencias Sociales) -> Afirmación Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto. Estándar asociado La habilidad para aplicar diferentes teorías sociales en el siglo XX."
     },
@@ -6591,11 +6591,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "El alcalde",
-      "context_summary": "Se plantea un caso en el que el alcalde de un municipio, quien cuenta con una gran popularidad entre los ciudadanos, está próximo a finalizar el período para el que fue elegido.",
-      "takeaway": "debe ser sancionado por la Procuraduría General de la Nación pues la ley le impide a un funcionario público participar en política.",
-      "analysis": "La opción A es correcta porque un funcionario público tiene prohibido participar en política, dada su posición privilegiada en la sociedad que le da acceso a recursos y visibilidad ante su comunidad.",
-      "distractors": "La opción B es un deber que no le corresponde al alcalde, dada las prohibiciones que tiene como funcionario público. La opción C señala una conducta ilegal. La opción D es una afirmación falsa; el apoyo a algún candidato el alcalde lo puede brindar únicamente mediante el voto.",
+      "guiding_question": "¿Qué límites constitucionales impiden que la popularidad de una autoridad se convierta en permanencia en el poder?",
+      "context_summary": "El alcalde de un municipio, quien cuenta con una gran popularidad entre los ciudadanos, está próximo a finalizar el período para el que fue elegido.",
+      "takeaway": "La popularidad de una autoridad no anula los límites constitucionales que impiden usar el cargo para influir indebidamente en elecciones.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque un funcionario público tiene prohibido participar en política, dada su posición privilegiada en la sociedad que le da acceso a recursos y visibilidad ante su comunidad.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce la organización del Estado: Conoce las funciones y alcances de las ramas del poder y de los organismos de control. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -6649,11 +6649,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes posiciones presenta un argumento a favor de la postura del segundo congresista?",
-      "context_summary": "Se plantea un caso en el que en el Congreso, en medio del debate sobre la despenalización del aborto, un congresista afirma que está a favor de esta en todos los casos, porque un embrión no puede considerarse una persona. Otro congresista dice que no está de acuerdo.",
-      "takeaway": "El aborto es inaceptable, pues nadie tiene derecho de decidir sobre una vida que se está iniciando.",
+      "guiding_question": "¿Qué argumento resulta más coherente con la postura que se quiere defender en este debate?",
+      "context_summary": "En el Congreso, en medio del debate sobre la despenalización del aborto, un congresista afirma que está a favor de esta en todos los casos, porque un embrión no puede considerarse una persona. Otro congresista dice que no está de acuerdo.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La opción correcta es la D, puesto que es un argumento que puede sustentar el desacuerdo con la despenalización del aborto.",
-      "distractors": "La opción A es un argumento sobre la manera en que se realiza el aborto, pero no sustenta un desacuerdo con su despenalización. La opción B y la C son argumentos que servirían para sustentar la posición del primer congresista, no la del segundo.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Evalúa posibilidades y limitaciones del uso de una fuente para apoyar argumentos o explicaciones. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6708,10 +6708,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Es correcta la decisión que tomaron los profesores?",
-      "context_summary": "Se plantea un caso en el que las directivas de un colegio decidieron suspender el servicio gratuito de transporte por falta de recursos económicos.",
-      "takeaway": "Sí, porque los profesores están protegiendo el derecho a la protesta.",
-      "analysis": "La opción A es correcta porque la protesta es un derecho constitucional que se debe privilegiar por encima de una norma institucional sobre el mal porte del uniforme.",
-      "distractors": "La opción B niega que la decisión de los profesores fuera correcta, mostrando un aspecto que una institución quiere guardar: su imagen. Sin embargo, la imagen no es un derecho constitucional, como sí lo es la protesta. La opción C acierta en afirmar que la decisión es correcta, sin embargo, la razón que se provee es falsa porque no toda iniciativa estudiantil debe ser aceptada por los profesores. La opción D niega que la decisión de los profesores sea correcta, dándole mayor importancia a una regla institucional que a un derecho constitucional, lo cual es incorrecto.",
+      "context_summary": "Las directivas de un colegio decidieron suspender el servicio gratuito de transporte por falta de recursos económicos.",
+      "takeaway": "El gobierno escolar cuenta con instancias distintas para defender derechos, tramitar peticiones y representar a los estudiantes.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque la protesta es un derecho constitucional que se debe privilegiar por encima de una norma institucional sobre el mal porte del uniforme.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce los mecanismos que los ciudadanos tienen a su disposición para participar activamente en la democracia y para garantizar el respeto de sus derechos. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -6766,10 +6766,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál podría ser el origen del conflicto para los indígenas de la Sierra Nevada de Santa Marta?",
-      "context_summary": "Se plantea un caso en el que recientemente, se desató una enorme polémica en el país por la posibilidad de realizar un proyecto hotelero en el Parque Natural Tayrona.",
-      "takeaway": "No se consultó a la comunidad ni se tuvo en cuenta el impacto social y cultural del proyecto sobre ella.",
-      "analysis": "La opción B es correcta, porque desde la perspectiva de la comunidad indígena lo más problemático del proyecto tenía que ver con el impacto social y cultural que generaría.",
-      "distractors": "La opción A muestra una dimensión de la situación que no pertenece a la postura de la comunidad indígena. La opción C muestra aspectos que la comunidad indígena sostuvo: arquitectura e impacto ambiental. La opción D atiende a un asunto de procedimiento que no era necesario para otorgar la licencia al proyecto, sobre todo porque se enfatiza en una consulta a todo el país.",
+      "context_summary": "Recientemente, se desató una enorme polémica en el país por la posibilidad de realizar un proyecto hotelero en el Parque Natural Tayrona.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque , porque desde la perspectiva de la comunidad indígena lo más problemático del proyecto tenía que ver con el impacto social y cultural que generaría.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce y compara perspectivas de actores y grupos sociales. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6824,10 +6824,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué razón podrían tener los compañeros de Laura para mantener su forma de protesta?",
-      "context_summary": "Se plantea un caso en el que laura es una estudiante transgénero que ha solicitado al rector del colegio que le permita usar el uniforme para niñas, porque es acorde al género con el que se identifica.",
-      "takeaway": "Demostrar compromiso con la causa que defiende Laura y hacerle saber a todos que no están dispuestos a permitir que ella sea expulsada del colegio por su identidad de género.",
-      "analysis": "La opción A es correcta porque explica la razón por la que los estudiantes mantienen su forma de protesta frente a una decisión que atenta contra los derechos de una estudiante.",
-      "distractors": "La opción B evidencia el desconocimiento del ordenamiento estatal y de las autoridades que podrían restituir los derechos de la estudiante. La opción C privilegia la imagen de la institución, que no es un derecho; en contraste con el derecho a la educación y al libre desarrollo del estudiante. La opción D desfigura las razones que sostienen la protesta de los estudiantes, al afirmar que se manifiestan en contra de la presencia del estudiante que el rector quiere expulsar.",
+      "context_summary": "Laura es una estudiante transgénero que ha solicitado al rector del colegio que le permita usar el uniforme para niñas, porque es acorde al género con el que se identifica.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque explica la razón por la que los estudiantes mantienen su forma de protesta frente a una decisión que atenta contra los derechos de una estudiante.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce los mecanismos que los ciudadanos tienen a su disposición para participar activamente en la democracia y para garantizar el respeto de sus derechos. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -6881,11 +6881,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "La explicación más razonable por la cual las personas del banco no trabajan por la época es:",
-      "context_summary": "Se plantea un caso en el que francisco llega de paseo a una ciudad costera. Es medio día y él está buscando un banco, pero encuentra que todos tienen letreros que indican que están cerrados “Por época de Carnaval”.",
-      "takeaway": "Es una costumbre asistir a las festividades y por eso en la época no se trabaja.",
-      "analysis": "La opción C es correcta porque muestra cómo en la región del caso las festividades son más valoradas que algunas actividades laborales.",
-      "distractors": "La opción A no es una razón para el cierre de los bancos. La opción B apunta a un acuerdo entre entidades bancarias; sin embargo, la razón de fondo para mantener las oficinas cerradas son las festividades, no el acuerdo entre los bancos. La opción D es una generalización incorrecta, de acuerdo con la información del contexto.",
+      "guiding_question": "La explicación más razonable por la cual las personas del banco no trabajan por la época es?",
+      "context_summary": "Francisco llega de paseo a una ciudad costera. Es medio día y él está buscando un banco, pero encuentra que todos tienen letreros que indican que están cerrados “Por época de Carnaval”.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque muestra cómo en la región del caso las festividades son más valoradas que algunas actividades laborales.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce que las cosmovisiones, ideologías y roles sociales, influyen en diferentes argumentos, posiciones y conductas. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6939,11 +6939,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "En la afirmación anterior, el periodista está",
-      "context_summary": "Se plantea un caso en el que a propósito de una serie de protestas estudiantiles ocurridas en una ciudad de Colombia, en una emisión radial, un periodista afirmó: “Es inaudito que la ciudad se paralice por una protesta estudiantil.",
-      "takeaway": "presentando una conclusión equivocada: que los dos estudiantes no hayan sido capaces de dar razones convincentes no prueba que nadie tenga razones para protestar.",
-      "analysis": "La opción C es correcta porque muestra que la generalización realizada por el periodista es injustificada, dado que la deriva de la pregunta a dos estudiantes. Para sustentar apropiadamente la conclusión, el periodista debería haber entrevistado a número suficiente (representativo) de estudiantes.",
-      "distractors": "La opción A es incorrecta porque afirma que la entrevista a dos estudiantes es una prueba suficiente para descalificar las protestas. La opción B afirma, equivocadamente, que la entrevista a dos estudiantes es suficiente para vincular la protesta y el vandalismo. La opción D muestra otra generalización errónea sobre las protestas y las razones de quienes participan, tan solo a partir de dos entrevistas.",
+      "guiding_question": "En la afirmación anterior, el periodista está?",
+      "context_summary": "A propósito de una serie de protestas estudiantiles ocurridas en una ciudad de Colombia, en una emisión radial, un periodista afirmó: “Es inaudito que la ciudad se paralice por una protesta estudiantil.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
+      "analysis": "Esta ficha exige evaluar la solidez de los argumentos, detectar prejuicios o identificar qué postura está mejor sustentada. La respuesta correcta se sostiene porque muestra que la generalización realizada por el periodista es injustificada, dado que la deriva de la pregunta a dos estudiantes. Para sustentar apropiadamente la conclusión, el periodista debería haber entrevistado a número suficiente (representativo) de estudiantes.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Evalúa posibilidades y limitaciones del uso de una fuente para apoyar argumentos o explicaciones. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -6997,11 +6997,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes situaciones contradice lo establecido en la Constitución?",
-      "context_summary": "Se plantea un caso en el que la Constitución colombiana de 1991 estableció que la República de Colombia es “democrática, participativa y pluralista, fundada en el respeto de la dignidad humana, en el trabajo y la solidaridad de las personas que la integran y en la prevalencia del interés general” (Art.",
-      "takeaway": "La negación de ingreso a un estudiante indígena a una institución educativa por hablar principalmente en su lengua y tener deficiencias en español.",
-      "analysis": "La opción A es correcta porque impedir la admisión a un indígena a una institución educativa por deficiencias en el idioma español lo excluye por causa de su pertenencia a una comunidad indígena.",
-      "distractors": "La opción B se enfoca en un asunto poco importante y que no afecta directamente un derecho de una persona. Las opciones C y D son coherentes con la Constitución. Por un lado, las becas para jóvenes pertenecientes a minorías étnicas reconocen la exclusión histórica de estas comunidades y les dan oportunidades para un acceso más equitativo a la educación. Por el otro, la etnoeducación o educación propia es un derecho de las comunidades étnicas para promover sus cosmovisiones entre sus miembros.",
+      "guiding_question": "¿Qué situaciones contradicen de forma directa los principios de un Estado democrático, participativo y pluralista?",
+      "context_summary": "La Constitución colombiana de 1991 estableció que la República de Colombia es “democrática, participativa y pluralista, fundada en el respeto de la dignidad humana, en el trabajo y la solidaridad de las personas que la integran y en la prevalencia del interés general” (Art.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
+      "analysis": "Esta ficha exige reconocer el concepto histórico, político, económico o territorial que organiza la situación planteada. La respuesta correcta se sostiene porque impedir la admisión a un indígena a una institución educativa por deficiencias en el idioma español lo excluye por causa de su pertenencia a una comunidad indígena.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -7055,11 +7055,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Quiénes tienen opiniones compatibles?",
-      "context_summary": "Se plantea un caso en el que los directivos de una empresa proponen que las decisiones sean tomadas solamente por hombres. Entre el grupo de empleados, los hombres están de acuerdo con ellos pues creen que el género es más importante que la formación a la hora de tomar decisiones.",
+      "guiding_question": "¿Qué posturas resultan compatibles cuando se discute discriminación de género en el trabajo?",
+      "context_summary": "Los directivos de una empresa proponen que las decisiones sean tomadas solamente por hombres. Entre el grupo de empleados, los hombres están de acuerdo con ellos pues creen que el género es más importante que la formación a la hora de tomar decisiones.",
       "takeaway": "La idea clave es reconocer que en el caso entran en tensión los intereses de los clientes y de las mujeres involucradas.",
       "analysis": "La es la opción A porque evidencia la compatibilidad entre las perspectivas de dos actores, los clientes y las mujeres, respecto a quién debe tomar decisiones en la empresa.",
-      "distractors": "La opción B menciona dos posturas que no representan una relación de compatibilidad, ya que los clientes no centran su posición en el género. En las opciones C y D hay dos actores con opiniones opuestas basadas en el género y en las características que debería tener la persona que tome decisiones.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce y compara perspectivas de actores y grupos sociales. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -7113,11 +7113,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿A cuál de las siguientes entidades del Estado le corresponde vigilar a los funcionarios públicos?",
+      "guiding_question": "¿Qué entidad controla disciplinariamente a los funcionarios públicos en Colombia?",
       "context_summary": "",
-      "takeaway": "La Procuraduría General de la Nación.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la opción A porque la Procuraduría General de la Nación es la entidad encargada de investigar a los funcionarios públicos por faltas disciplinarias y a todo aquel particular que ejerce funciones públicas o maneja dineros del Estado.",
-      "distractors": "La opción B se refiere a la entidad encargada de examinar e investigar las quejas y reclamos que presente cualquier ciudadano con el fin de establecer si la conducta de los funcionarios públicos es contraria al ordenamiento jurídico vigente. La opción C se refiere a la entidad encargada de investigar y acusar personas que cometen delitos al interior del país. La opción D menciona a la entidad encargada de vigilar la protección de los derechos y libertades de los ciudadanos.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce la organización del Estado: Conoce las funciones y alcances de las ramas del poder y de los organismos de control. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -7172,10 +7172,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Esta decisión atenta contra la democracia?",
-      "context_summary": "Se plantea un caso en el que el presidente de un país, electo democráticamente, decide que, para facilitar la aprobación de sus propuestas por el Congreso, va a abolir todos los partidos políticos de oposición.",
-      "takeaway": "Sí, porque los partidos políticos garantizan la representación de diferentes ideologías.",
+      "context_summary": "El presidente de un país, electo democráticamente, decide que, para facilitar la aprobación de sus propuestas por el Congreso, va a abolir todos los partidos políticos de oposición.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la opción C porque, al abolir todos los partidos políticos de oposición, el presidente estaría sustituyendo la pluralidad de voces que debe tener el Congreso en una democracia, por representantes de una sola postura que sería idéntica a la del Ejecutivo.",
-      "distractors": "La opción A justifica la decisión del presidente desconociendo uno de los principios de la democracia: garantizar la representación de diferentes voces y posturas a través de los partidos políticos. La opción B también desconoce las garantías que se deben cumplir para proteger y garantizar que haya una verdadera democracia. La opción D es incorrecta porque menciona una función de los partidos políticos que es falsa.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce los mecanismos que los ciudadanos tienen a su disposición para participar activamente en la democracia y para garantizar el respeto de sus derechos. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -7230,10 +7230,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿En cuál de las siguientes situaciones se presenta discriminación por orientación sexual?",
-      "context_summary": "Se plantea un caso en el que discriminar significa separar a alguien porque se considera que es “inferior” a los demás. Puede discriminarse por diferentes motivos: por género, religión, origen geográfico, raza, orientación sexual, entre otros.",
-      "takeaway": "Una pareja de mujeres es insultada por sostener una relación afectiva.",
+      "context_summary": "Discriminar significa separar a alguien porque se considera que es “inferior” a los demás. Puede discriminarse por diferentes motivos: por género, religión, origen geográfico, raza, orientación sexual, entre otros.",
+      "takeaway": "La respuesta correcta surge de aplicar con precisión derechos, principios, instituciones o mecanismos democráticos.",
       "analysis": "La es la opción C porque en la situación planteada se evidencia discriminación por orientación sexual, ya que dos mujeres son insultadas debido a la relación afectiva que sostienen.",
-      "distractors": "La opción A no es correcta porque representa una situación de discriminación a una mujer por estar en embarazo. En la opción B la discriminación ocurre debido al origen geográfico de las personas. Y en la opción D la mujer afrocolombiana es discriminada por su color de piel.",
+      "distractors": "Los distractores confunden derechos, jerarquías normativas, competencias institucionales o mecanismos democráticos que no aplican en este caso.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -7288,10 +7288,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué impacto tendría en las personas que consumen drogas?",
-      "context_summary": "Se plantea un caso en el que en Bogotá existe un barrio en el que han venido concentrándose consumidores y vendedores de drogas ilegales.",
-      "takeaway": "Negativo, ya que encontrarían otros expendedores y su adicción continuaría sin ser tratada.",
+      "context_summary": "En Bogotá existe un barrio en el que han venido concentrándose consumidores y vendedores de drogas ilegales.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La opción correcta es la D porque explica la dinámica típica que ocurre cuando los vendedores de un producto se desplazan geográficamente: los compradores acuden a otros distribuidores.",
-      "distractors": "La opción A es incorrecta porque desconoce las dinámicas del consumo de drogas y las consecuencias del periodo de abstinencia sin recibir atención médica. En la opción B la justificación no responde a lo que se está preguntando. La opción C es incorrecta porque el impacto no puede ser positivo y, a su vez, reconoce la importancia de la segunda solución, si esta hubiese sido aplicada.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Competencias Ciudadanas) -> Analiza los efectos en distintas dimensiones que tendría una posible intervención. -> Conozco y sé usar los mecanismos constitucionales de participación que permiten expresar mis opiniones y participar en la toma de decisiones políticas tanto a nivel local como a nivel nacional."
     },
@@ -7345,11 +7345,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "El anterior apartado ofrece razones que justifican la implementación de una política de apertura económica,",
-      "context_summary": "Se plantea un caso en el que un documento del Consejo Nacional de Política Económica y Social elaborado en 1990 dice lo siguiente: “Debido a los grandes niveles de protección, las unidades productivas ven reducidos los incentivos para buscar mejoras tecnológicas que se traduzcan en mayores niveles de eficiencia, en mejoras en la calidad y en variedad de los productos.",
-      "takeaway": "porque señala que proteger la economía nacional desestimula la competitividad y no garantiza que los recursos del Estado se dirijan hacia sectores con ventajas comparativas.",
+      "guiding_question": "El anterior apartado ofrece razones que justifican la implementación de una política de apertura económica?",
+      "context_summary": "Un documento del Consejo Nacional de Política Económica y Social elaborado en 1990 dice lo siguiente: “Debido a los grandes niveles de protección, las unidades productivas ven reducidos los incentivos para buscar mejoras tecnológicas que se traduzcan en mayores niveles de eficiencia, en mejoras en la calidad y en variedad de los productos.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La opción correcta es la B porque sintetiza las razones que justifican la implementación de una política de apertura económica debido a la baja competitividad y a la inversión estatal dirigida a sectores estratégicos.",
-      "distractors": "La opción A puede ser una conclusión de la primera parte del contexto, pero no es la explicación que responde a la pregunta porque no toma en cuenta la totalidad del contexto. La opción C es incorrecta porque llega a una conclusión que no tiene correspondencia con la información: menciona variables que el autor no aborda y hace relaciones que él no presenta. Y la D es una afirmación completamente contraria a las razones presentadas por el autor.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Ciencias Sociales) -> Analiza modelos conceptuales y sus usos en decisiones sociales. -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -7404,8 +7404,8 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál es un obstáculo para solucionar el problema de tráfico?",
-      "context_summary": "Se plantea un caso en el que en una ciudad muy poblada toma mucho tiempo desplazarse en vehículos públicos o particulares.",
-      "takeaway": "“Mientras no haya suficientes calles y en buen estado, se justifica violar las reglas de tránsito para poder ir más rápido”.",
+      "context_summary": "En una ciudad muy poblada toma mucho tiempo desplazarse en vehículos públicos o particulares.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La opción correcta es la D porque la frase es una justificación para no cumplir con las reglas, lo que a su vez aumenta el problema de tráfico.",
       "distractors": "",
       "glossary": [],
@@ -7461,11 +7461,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "Estas dos visiones,",
-      "context_summary": "Se plantea un caso en el que el proyecto de realizar una carretera transnacional despierta polémica entre dirigentes y ciudadanos. Hay dos visiones del asunto: la primera dice que la vía podría impulsar el comercio, pero generaría un daño en bosques y especies.",
-      "takeaway": "se oponen en que en la segunda se considera que el proyecto no genera daños ambientales.",
+      "guiding_question": "¿Qué intereses y preocupaciones contrapuestas aparecen en el debate sobre esta obra de infraestructura?",
+      "context_summary": "El proyecto de realizar una carretera transnacional despierta polémica entre dirigentes y ciudadanos. Hay dos visiones del asunto: la primera dice que la vía podría impulsar el comercio, pero generaría un daño en bosques y especies.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La opción correcta es la B porque expresa la polémica que genera el proyecto según las dos perspectivas involucradas.",
-      "distractors": "La opción A es incorrecta porque en ella no se evidencia la polémica que genera el proyecto, sino que da cuenta de la variable que reconoce los beneficios económicos que traería su implementación. La opción C da información que no tiene relación con lo expuesto en el contexto. La opción D es incorrecta porque solo una de las visiones prevé posibles efectos negativos del proyecto.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce y compara perspectivas de actores y grupos sociales. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -7519,11 +7519,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "Indirectamente, esta revolución condujo a",
+      "guiding_question": "¿Qué transformaciones sociales y territoriales se desprendieron de la Revolución Industrial?",
       "context_summary": "Se analiza cómo la ciencia y la tecnología, los efectos de la Revolución Industrial mejoraron los procesos productivos en el campo y propiciaron el uso de nuevas fuentes de energía como el carbón y el vapor.",
-      "takeaway": "el deterioro del ambiente y al uso irracional de la tierra.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La opción correcta es la A porque hace referencia a las consecuencias no esperadas que ocasionaron los avances en los procesos productivos en el campo con la Revolución Industrial.",
-      "distractors": "La opción B indica una consecuencia que no se puede extraer de la información del contexto. La opción C es una consecuencia directa de los avances que trajo la Revolución Industrial. Y en la opción D se presentan resultados que no son producto de la Revolución Industrial ni tienen relación con lo expuesto en el contexto.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Ciencias Sociales) -> -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -7577,11 +7577,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "La solución propuesta por el Gobierno",
-      "context_summary": "Se plantea un caso en el que los habitantes de un pueblo localizado a las orillas de un río han vivido siempre de la pesca.",
-      "takeaway": "solucionaría parcialmente el problema, porque no considera que puede haber personas que no podrán o no desearán cambiar su actividad económica.",
+      "guiding_question": "La solución propuesta por el Gobierno?",
+      "context_summary": "Los habitantes de un pueblo localizado a las orillas de un río han vivido siempre de la pesca.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La opción correcta es C porque muestra de qué manera la solución propuesta por el gobierno es parcial, ya que no consigue abordar toda la problemática, no contempla la posibilidad de que existan personas que dependen de la pesca como actividad económica y que no tengan los requisitos para emplearse en la planta para reemplazar su fuente de ingresos.",
-      "distractors": "La opción A afirma algo cierto que se puede extraer del contexto, pero no se sitúa en el aspecto económico del problema, siendo la variable central en esta pregunta. La opción B es incorrecta porque presenta información que, aunque puede llegar a deducirse, no responde al aspecto que se intenta solucionar con la medida. La opción D no es una conclusión a la que se pueda llegar con la información del contexto, ya que se da por hecho que todas las personas que se sostienen de la pesca cumplen con los requisitos para emplearse en la planta.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Competencias Ciudadanas) -> Analiza los efectos en distintas dimensiones que tendría una posible intervención. -> Conozco y sé usar los mecanismos constitucionales de participación que permiten expresar mis opiniones y participar en la toma de decisiones políticas tanto a nivel local como a nivel nacional."
     },
@@ -7636,10 +7636,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Qué quieren lograr José y el funcionario del distrito?",
-      "context_summary": "Se plantea un caso en el que josé es el líder de un grupo musical y quiere dar un concierto en la plaza principal de su ciudad. Para esto, tiene que solicitar a la administración de la ciudad varios permisos, cuyos trámites toman varios días.",
-      "takeaway": "Saltarse pasos en el trámite de los permisos necesarios para el concierto.",
+      "context_summary": "José es el líder de un grupo musical y quiere dar un concierto en la plaza principal de su ciudad. Para esto, tiene que solicitar a la administración de la ciudad varios permisos, cuyos trámites toman varios días.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la D porque la intención de José es obtener los permisos necesarios. Para ello, los funcionarios que acepten colaborar deben saltarse pasos para adelantar el proceso en menos tiempo del estipulado.",
-      "distractors": "La opción A es algo que no se consigue con la forma en que se intenta acelerar el proceso de asignación de permisos. La opción B es incorrecta porque José no evita el proceso, sino que quiere acelerarlo. La opción C es una conclusión a la que no se puede llegar con la información del contexto.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Reconoce y compara perspectivas de actores y grupos sociales. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -7693,11 +7693,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "¿Cuál de las siguientes es una función de los partidos políticos en una democracia?",
+      "guiding_question": "¿Qué papel cumplen los partidos políticos en una democracia más allá de las elecciones?",
       "context_summary": "",
-      "takeaway": "Representar los diversos intereses de los ciudadanos.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la A porque en una democracia se busca garantizar representación de los intereses de los ciudadanos.",
-      "distractors": "La opción B es incorrecta porque la función de los partidos políticos no es avalar decisiones del presidente de la República. La opción C plantea una función que no se contempla en la Constitución Política de Colombia. La opción D menciona una competencia que no les corresponde a los partidos políticos.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce los mecanismos que los ciudadanos tienen a su disposición para participar activamente en la democracia y para garantizar el respeto de sus derechos. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -7751,11 +7751,11 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "De acuerdo con el artículo anterior, se puede afirmar que en la Constitución de 1991 se aboga por un modelo de democracia participativa, porque",
-      "context_summary": "Se plantea un caso en el que de acuerdo con el artículo 2 de la Constitución Política de Colombia, “son fines esenciales del Estado servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución; facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y convivencia pacífica y la vigencia de un orden justo.",
-      "takeaway": "se les otorga a los ciudadanos derechos políticos que transcienden la elección de sus representantes.",
+      "guiding_question": "¿Qué rasgos muestran que la Constitución de 1991 impulsa una democracia participativa y no solo representativa?",
+      "context_summary": "De acuerdo con el artículo 2 de la Constitución Política de Colombia, “son fines esenciales del Estado servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución; facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y convivencia pacífica y la vigencia de un orden justo.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La es la D porque explica cómo el modelo de democracia participativa atribuye derechos a los ciudadanos que les permite participar en las decisiones que los afectan y no solo en la elección de sus representantes.",
-      "distractors": "La opción A es incorrecta porque se contradice con lo que dice el artículo citado. En las opciones B y C no se da una razón que explique por qué en la Constitución de 1991 se aboga por un modelo de democracia participativa.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Competencias Ciudadanas) -> Analiza modelos conceptuales y sus usos en decisiones sociales. -> Conozco y sé usar los mecanismos constitucionales de participación que permiten expresar mis opiniones y participar en la toma de decisiones políticas tanto a nivel local como a nivel nacional."
     },
@@ -7809,9 +7809,9 @@ window.DATABASE = [
       "what_evaluates": ""
     },
     "pedagogy": {
-      "guiding_question": "A partir de lo anterior, se puede afirmar que el documento CONPES 2465 apoya la afirmación de Garay porque",
-      "context_summary": "Se plantea un caso en el que el economista colombiano Luis Jorge Garay señala que el proceso de apertura económica, llevado a cabo en el país a comienzos de la década de los noventa, se inició en la administración de Virgilio Barco.",
-      "takeaway": "contiene medidas orientadas a favorecer la entrada al país de productos extranjeros.",
+      "guiding_question": "A partir de lo anterior, se puede afirmar que el documento CONPES 2465 apoya la afirmación de Garay porque?",
+      "context_summary": "El economista colombiano Luis Jorge Garay señala que el proceso de apertura económica, llevado a cabo en el país a comienzos de la década de los noventa, se inició en la administración de Virgilio Barco.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La es la C porque explica con otras palabras, lo mismo que se expone en el documento CONPES, haciendo referencia a las medidas con las que se inició el proceso de apertura económica.",
       "distractors": "",
       "glossary": [],
@@ -7868,8 +7868,8 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Se puede afirmar que la alcaldía está haciendo una generalización indebida acerca de los cursos en tecnología para adultos mayores en su municipio?",
-      "context_summary": "Se plantea un caso en el que a la alcaldía de un municipio llega una propuesta para brindar capacitación en tecnología a adultos mayores. El curso consiste en varios módulos y está diseñado y dirigido por personas con experiencia.",
-      "takeaway": "No, porque se han dictado varios cursos diferentes en pocos años y en una misma población, lo cual permite anticipar el fracaso de los próximos.",
+      "context_summary": "A la alcaldía de un municipio llega una propuesta para brindar capacitación en tecnología a adultos mayores. El curso consiste en varios módulos y está diseñado y dirigido por personas con experiencia.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La es la A porque menciona las variables que tuvo en cuenta la Alcaldía para anticipar el fracaso de los próximos cursos y negar la propuesta, lo que le permite hacer una generalización adecuada.",
       "distractors": "",
       "glossary": [],
@@ -7926,10 +7926,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál era el objetivo más probable de esta política de titulación de tierras?",
-      "context_summary": "Se presenta el caso de uno de los programas del Gobierno de Juan Manuel Santos buscaba “otorgar títulos de propiedad a aquellos hogares que venían haciendo uso de la tierra y que no tenían un documento formal que estableciera la tenencia legal de la propiedad”. De los siguientes.",
-      "takeaway": "Evitar futuros procesos de apropiación indebida de tierras.",
+      "context_summary": "Uno de los programas del Gobierno de Juan Manuel Santos buscaba “otorgar títulos de propiedad a aquellos hogares que venían haciendo uso de la tierra y que no tenían un documento formal que estableciera la tenencia legal de la propiedad”. De los siguientes.",
+      "takeaway": "Para estudiar un problema social hay que mirar efectos, actores omitidos y tensiones entre distintas soluciones.",
       "analysis": "La es la C porque el programa privilegiaba otorgar títulos para legalizar la tenencia de las tierras, lo que, a su vez, dificultaría la apropiación ilegal de estos predios en el futuro.",
-      "distractors": "La opción B propone un objetivo que no se puede deducir de una política como la que se plantea en el contexto. En la opción D se plantea un objetivo que puede ser la razón para una política de titulación de tierras, pero sería un motivo secundario al planteado en la opción correcta.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [],
       "scheme": "Pensamiento Reflexivo y Sistémico (Ciencias Sociales) -> Analiza modelos conceptuales y sus usos en decisiones sociales. -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -7984,10 +7984,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál de los siguientes enunciados apoya la postura del grupo de ciudadanos que demanda al científico?",
-      "context_summary": "Se plantea un caso en el que un científico colombiano trabaja en el desarrollo de una vacuna contra la malaria, una enfermedad tropical que anualmente mata a millones de personas en los países en desarrollo.",
-      "takeaway": "Es inadmisible que se liberen animales infectados que transmitan la enfermedad a otros individuos de su especie.",
+      "context_summary": "Un científico colombiano trabaja en el desarrollo de una vacuna contra la malaria, una enfermedad tropical que anualmente mata a millones de personas en los países en desarrollo.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La es la B porque expresa la postura que está en contra del uso de los animales en trabajos científicos, debido a las consecuencias que trae para los animales.",
-      "distractors": "La opción C es incorrecta porque plantea el riesgo que puede traer para los humanos y no para los animales.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Evalúa posibilidades y limitaciones del uso de una fuente para apoyar argumentos o explicaciones. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -8042,10 +8042,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Con cuál de los siguientes aspectos se relacionan las concepciones sociales de la pobreza?",
-      "context_summary": "Se plantea un caso en el que el sociólogo Arturo Laguado afirma: “Las privaciones que se asocian a la pobreza son sumamente distintas; pobreza puede significar –por ejemplo, entre los wayú– falta de chivos o de lazos familiares”. Según esta afirmación.",
-      "takeaway": "Los recursos que se consideran valiosos dentro de un territorio.",
+      "context_summary": "El sociólogo Arturo Laguado afirma: “Las privaciones que se asocian a la pobreza son sumamente distintas; pobreza puede significar –por ejemplo, entre los wayú– falta de chivos o de lazos familiares”. Según esta afirmación.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la B porque reconoce aspectos que se asocian con la idea de pobreza en diferentes culturas o grupos sociales.",
-      "distractors": "La opción A se refiere a un aspecto que no se relaciona con la idea de pobreza. En la opción C se plantea una idea que no se deriva de lo planteado en el contexto. La opción D es incorrecta porque se centra en el aspecto cultural y étnico que guarda relación con el ejemplo que da el sociólogo en el contexto, pero no con la pregunta que demanda una comprensión más amplia.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Ciencias Sociales) -> -> Identifico y tomo posición frente a las principales causas y consecuencias políticas, económicas, sociales y ambientales de la aplicación de las diferentes teorías y modelos económicos en el siglo XX y formulo hipótesis que me permitan explicar la situación de Colombia en este contexto."
     },
@@ -8100,10 +8100,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Cuál deber se busca proteger con la restricción del paso?",
-      "context_summary": "Se plantea un caso en el que en el país, algunos de los territorios ancestrales indígenas se localizan dentro de parques nacionales naturales; este es el caso del Parque Nacional Natural de Utría en el Chocó, en el que vive gran parte de la población de la comunidad indígena embera.",
-      "takeaway": "El deber de garantizar la conservación e identidad del pueblo indígena, y la diversidad étnica y cultural del país.",
+      "context_summary": "En el país, algunos de los territorios ancestrales indígenas se localizan dentro de parques nacionales naturales; este es el caso del Parque Nacional Natural de Utría en el Chocó, en el que vive gran parte de la población de la comunidad indígena embera.",
+      "takeaway": "La clave es relacionar la situación con el concepto social, histórico o político que mejor la explica.",
       "analysis": "La es la C porque, de acuerdo con lo estipulado en la Constitución, el Estado colombiano tiene el deber de garantizar la conservación y la identidad del pueblo indígena; para ello, debe proteger zonas sagradas para estos pueblos.",
-      "distractors": "La opción D plantea una medida exagerada que puede llegar a vulnerar los derechos de la población indígena y no protegerlos como se busca según lo dispuesto en la Constitución.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [],
       "scheme": "Pensamiento Social (Competencias Ciudadanas) -> Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia. -> Participo constructivamente en iniciativas o proyectos a favor de la no-violencia en el nivel local o global."
     },
@@ -8158,10 +8158,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Ya conoces a mi primera esposa?",
-      "context_summary": "Se presenta una situación en una fiesta de matrimonio en la que el recién casado le presenta su esposa a un amigo suyo diciendo.",
-      "takeaway": "no tenga la intención de estar casado para siempre, pues espera tener más de una esposa.",
+      "context_summary": "Una fiesta de matrimonio en la que el recién casado le presenta su esposa a un amigo suyo diciendo.",
+      "takeaway": "Una lectura crítica distingue prejuicios, contradicciones y fuentes o argumentos mejor sustentados.",
       "analysis": "La es la C porque expresa qué quiso decir el recién casado cuando se refirió a su esposa como la primera.",
-      "distractors": "La opción A no tiene relación con la situación, por lo que no es una conclusión válida de lo ocurrido. La opción B no ofrece una conclusión válida frente a la expresión usada por el recién casado. Y la opción D no es una idea a la que se pueda llegar de acuerdo con la situación y a la información suministrada en el contexto.",
+      "distractors": "Los distractores agregan información no sustentada, ignoran la contradicción central del argumento o no distinguen entre un juicio sólido y un prejuicio.",
       "glossary": [],
       "scheme": "Interpretación y Análisis de Perspectivas (Competencias Ciudadanas) -> Devela prejuicios e intenciones en enunciados o argumentos. -> Expreso rechazo ante toda forma de discriminación o exclusión social y hago uso de los mecanismos democráticos para la superación de la discriminación y el respeto a la diversidad."
     },
@@ -8286,7 +8286,7 @@ window.DATABASE = [
       "context_summary": "Ante la escasez mundial de agua, se plantea la desalinización (convertir agua de mar en potable) como solución, destacando que actualmente solo países ricos en petróleo del Medio Oriente pueden costear los altos requerimientos económicos y energéticos de esta técnica.",
       "takeaway": "Las soluciones tecnológicas a problemas ambientales globales a menudo están limitadas por barreras económicas y energéticas insuperables para la mayoría de los países.",
       "analysis": "El ítem evalúa la capacidad de prever los efectos de una intervención a gran escala considerando una dimensión específica: la económica. Aunque la desalinización resuelve de manera efectiva el problema hídrico, el texto advierte claramente sobre sus 'enormes costos económicos y energéticos'. Por tanto, universalizar esta medida tendría un impacto económico negativo o prohibitivo para la gran mayoría de naciones que no poseen presupuestos gigantescos ni abundancia energética.",
-      "distractors": "Las opciones incorrectas intentan confundir desvían la atención hacia la dimensión puramente ecológica o ambiental (opciones A y D), lo cual responde a una pregunta distinta a la formulada. Por su parte, la opción B asume erróneamente que adquirir deudas masivas es un impacto macroeconómico 'positivo'.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [
         [
           "Desalinización",
@@ -8491,7 +8491,7 @@ window.DATABASE = [
       "context_summary": "Se promueve una aplicación para que los ciudadanos compartan solidariamente su automóvil. Se pide identificar un posible 'efecto no deseado' para el Gobierno frente a esta alternativa.",
       "takeaway": "Las innovaciones tecnológicas en servicios pueden generar economías informales que entren en conflicto con sectores regulados.",
       "analysis": "Evalúa el pensamiento sistémico: anticipar consecuencias negativas imprevistas de una buena intención. Si bien compartir el auto (carpooling) es solidario y ecológico, en la práctica (como ha sucedido con plataformas tipo Uber o InDrive), los conductores empiezan a cobrar por el servicio, generando una competencia desleal e ilegal frente al sistema de transporte público que sí paga impuestos y seguros. Esto es un dolor de cabeza para los gobiernos.",
-      "distractors": "Las opciones A y D plantean escenarios positivos o ideales (mejoras en la movilidad o en el transporte público), por lo que no responden a la pregunta sobre un 'efecto no deseado' para el Estado. La opción C es una consecuencia administrativa, pero el verdadero impacto perjudicial inicial es la competencia ilegal.",
+      "distractors": "Los distractores omiten relaciones clave entre actores, causas y efectos, o suponen consecuencias que el caso no permite sostener.",
       "glossary": [
         [
           "Efecto no deseado",
@@ -8558,7 +8558,7 @@ window.DATABASE = [
       "context_summary": "El texto cita un documento CONPES del gobierno de Virgilio Barco que propone trasladar cientos de artículos a un régimen de libre importación, reduciendo las barreras arancelarias y de licencia previa. Se pide identificar el propósito de esta medida.",
       "takeaway": "La libre importación es una política económica que busca reducir los obstáculos para que productos extranjeros ingresen al mercado nacional.",
       "analysis": "Esta pregunta evalúa la comprensión de conceptos económicos básicos de la historia reciente de Colombia (los inicios de la Apertura Económica). Si un gobierno decide 'reducir las licencias previas' y aplicar la 'libre importación', su objetivo directo es flexibilizar las fronteras comerciales para favorecer la entrada de productos de otros países.",
-      "distractors": "Las opciones A y B plantean exactamente lo contrario: políticas proteccionistas (incrementar la producción nacional o proteger la industria local). La opción D asume una consecuencia específica (precios de alimentos) que no se puede deducir directamente y de forma general del fragmento.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [
         [
           "Libre importación",
@@ -8622,10 +8622,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Por qué el Estado puede frenar un megaproyecto económico argumentando razones ecológicas?",
-      "context_summary": "Una noticia relata cómo el Gobierno considera inviable la construcción de un hotel en el Parque Tayrona porque su licencia ambiental permite la tala de bosque seco, un ecosistema en riesgo de extinción.",
+      "context_summary": "El Gobierno considera inviable la construcción de un hotel en el Parque Tayrona porque su licencia ambiental permite la tala de bosque seco, un ecosistema en riesgo de extinción.",
       "takeaway": "En los conflictos socioambientales, los actores institucionales pueden priorizar la conservación de ecosistemas vulnerables por encima de la viabilidad comercial de un proyecto.",
       "analysis": "La pregunta exige identificar la idea central que el autor/narrador quiere resaltar en la noticia. Aunque el caso involucra economía e instituciones, el foco explícito del ministro (y por ende de la noticia) es el daño irreparable a un ecosistema protegido (bosque seco). El énfasis está en el riesgo ambiental.",
-      "distractors": "La opción A se centra en el 'efecto político', la C en lo 'económico' y la D asume un problema de 'territorio ancestral', pero el fragmento citado habla específicamente del peligro de talar bosque seco, apuntando directamente a la dimensión ambiental (opción B).",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [
         [
           "Bosque seco",
@@ -8689,10 +8689,10 @@ window.DATABASE = [
     },
     "pedagogy": {
       "guiding_question": "¿Puede el Estado eliminar el secreto del voto bajo la excusa de evitar el fraude electoral?",
-      "context_summary": "El contexto plantea una hipotética propuesta del registrador nacional de eliminar el secreto del voto para evitar el fraude electoral. El estudiante debe determinar si esto viola los derechos ciudadanos constitucionales.",
+      "context_summary": "Una hipotética propuesta del registrador nacional de eliminar el secreto del voto para evitar el fraude electoral. El estudiante debe determinar si esto viola los derechos ciudadanos constitucionales.",
       "takeaway": "El voto secreto es una garantía constitucional innegociable, diseñada para proteger a los ciudadanos de presiones, coacciones y represalias políticas.",
       "analysis": "Se evalúa el conocimiento de los principios democráticos básicos. En Colombia (y en la mayoría de democracias), el voto es secreto por una razón esencial: evitar la compra de votos y la coerción. Si el Estado elimina el secreto del voto (incluso con la 'buena intención' de frenar el fraude), está violando la Constitución porque deja expuesto al votante a ser presionado o castigado por sus decisiones políticas.",
-      "distractors": "Las opciones A y C justifican erróneamente la medida asumiendo que el fin (evitar el fraude) justifica los medios (eliminar el secreto del voto). La opción B falla al depender de que el registrador 'confirme' el fraude, cuando la violación constitucional radica en la medida en sí misma, no en la certeza del fraude.",
+      "distractors": "Los distractores confunden mecanismos, instituciones o competencias que tienen finalidades distintas y no corresponden a la situación planteada.",
       "glossary": [
         [
           "Voto secreto",
@@ -9031,7 +9031,7 @@ window.DATABASE = [
       "context_summary": "Se plantea un escenario hipotético donde el presidente quiere declarar un estado de excepción con el objetivo de controlar a los medios de comunicación de oposición. Se interroga cuál debe ser el accionar de la Corte Constitucional frente a esto.",
       "takeaway": "Los estados de excepción otorgan poderes transitorios al presidente, pero la Corte Constitucional ejerce un estricto control automático para garantizar que no se violen libertades ni derechos fundamentales.",
       "analysis": "Se evalúa el mecanismo de frenos y contrapesos (equilibrio de poderes). Aunque el presidente de la República (poder ejecutivo) tiene la facultad de declarar un estado de excepción en emergencias, todo lo que decrete bajo esa figura pasa por revisión automática de la Corte Constitucional (poder judicial). La Corte tiene la obligación de rechazar la medida si su propósito es vulnerar derechos fundamentales (como la libertad de expresión y de prensa).",
-      "distractors": "Las opciones B y D justifican la medida bajo ideas antidemocráticas (censurar para 'evitar el caos' o actuar en conveniencia del ejecutivo). La opción A rechaza la medida pero con un argumento procesal falso: quien declara el estado de excepción es el Presidente, no la Corte (la Corte solo lo revisa).",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
       "glossary": [
         [
           "Estado de excepción",
@@ -9140,5 +9140,962 @@ window.DATABASE = [
         }
       ]
     }
+  },
+  {
+    "id": "soc-11-2021-c2-p14",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Mecanismos de participación ciudadana",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Conoce los mecanismos que los ciudadanos tienen a su disposición para participar en las decisiones democráticas.",
+      "evidence": "Diferencia los mecanismos de participación ciudadana según su propósito y autoridad convocante.",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 2,
+      "question_number": 14,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué mecanismo debe usar el presidente para preguntarle al pueblo si apoya una decisión política importante?",
+      "context_summary": "El Presidente de la República necesita tomar una decisión sobre una política de gran trascendencia nacional (que no implica cambiar la Constitución ni las leyes) y desea saber si los ciudadanos la apoyan o la rechazan.",
+      "takeaway": "El Plebiscito es el mecanismo exclusivo del Presidente de la República para consultar al pueblo sobre una decisión política del poder ejecutivo.",
+      "analysis": "La pregunta evalúa la capacidad de distinguir entre mecanismos de participación que suelen confundirse. El referendo se usa para aprobar o derogar leyes/constituciones; la consulta popular la pueden usar alcaldes y gobernadores; pero el plebiscito es de uso exclusivo del Presidente para decisiones de carácter estrictamente político (como se vio en Colombia con el Plebiscito por la Paz en 2016).",
+      "distractors": "El distractor más fuerte es el Referendo (A), pero este se utiliza para modificar textos normativos (leyes), no decisiones políticas ejecutivas. La Consulta Popular (C) a nivel nacional es similar, pero el plebiscito es el término exacto constitucional para decisiones del ejecutivo. El Cabildo Abierto (D) es solo para concejos municipales o asambleas locales.",
+      "glossary": [
+        [
+          "Plebiscito",
+          "Pronunciamiento del pueblo convocado por el Presidente de la República, mediante el cual se apoya o rechaza una determinada decisión del Ejecutivo."
+        ],
+        [
+          "Referendo",
+          "Convocatoria que se hace al pueblo para que apruebe o rechace un proyecto de norma jurídica (ley o reforma constitucional)."
+        ]
+      ],
+      "scheme": "Actor: Presidente de la República → Acción: Consultar una decisión política ejecutiva → Mecanismo constitucional: Plebiscito."
+    },
+    "assessment": {
+      "original_stem": "El Presidente de la República de Colombia está considerando firmar un tratado internacional de gran trascendencia política para el país. Aunque no requiere modificar la Constitución, el mandatario quiere consultar a los ciudadanos para saber si apoyan o rechazan esta decisión. Según la Constitución Política, ¿cuál es el mecanismo de participación ciudadana adecuado para este fin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "El referendo, porque permite que los ciudadanos aprueben o deroguen leyes importantes.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El referendo se utiliza para textos normativos (leyes o reformas), no para decisiones políticas del ejecutivo."
+        },
+        {
+          "label": "B",
+          "text": "El plebiscito, porque es el mecanismo mediante el cual el presidente consulta al pueblo una decisión política de su competencia.",
+          "is_correct": true,
+          "feedback": "Correcta. El plebiscito es la herramienta constitucional diseñada específicamente para que el Presidente valide decisiones políticas ante la ciudadanía."
+        },
+        {
+          "label": "C",
+          "text": "El cabildo abierto, porque permite reunir a todos los ciudadanos del país a debatir la decisión.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El cabildo abierto es un mecanismo de nivel territorial (municipios, localidades), no nacional."
+        },
+        {
+          "label": "D",
+          "text": "La revocatoria del mandato, porque si el pueblo vota en contra, el presidente debe renunciar.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La revocatoria del mandato solo aplica para alcaldes y gobernadores, y su fin es destituir al funcionario, no consultar una política."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2023-c1-p14",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Derecho Internacional Humanitario (DIH)",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Comprende los fundamentos del Derecho Internacional Humanitario y los Derechos Humanos.",
+      "evidence": "Diferencia las normas del DIH aplicables en el contexto de un conflicto armado.",
+      "source_year": 2023,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 14,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué normas regulan los límites de la guerra y protegen a quienes no participan en ella?",
+      "context_summary": "Durante un conflicto armado interno, un grupo guerrillero decide atacar un hospital civil argumentando que allí se esconden soldados heridos del bando contrario. El ataque deja múltiples médicos y pacientes civiles muertos.",
+      "takeaway": "El Derecho Internacional Humanitario (DIH) prohíbe estrictamente los ataques a misiones médicas y civiles durante un conflicto armado.",
+      "analysis": "Esta pregunta evalúa la capacidad del estudiante para identificar el marco jurídico que aplica en situaciones de guerra. A diferencia de los Derechos Humanos que aplican en todo momento, el DIH es el conjunto de normas que busca limitar los efectos de los conflictos armados. Una de sus reglas fundamentales es la protección absoluta de bienes civiles y misiones médicas. Atacar un hospital es una clara infracción al DIH, independientemente de la justificación táctica.",
+      "distractors": "Las opciones incorrectas pueden apelar a leyes locales, a los Derechos Humanos de manera general (que no regulan específicamente la conducción de las hostilidades), o intentar justificar el acto como un daño colateral 'necesario' en la guerra (lo cual el DIH rechaza categóricamente).",
+      "glossary": [
+        [
+          "Derecho Internacional Humanitario (DIH)",
+          "Conjunto de normas que, por razones humanitarias, trata de limitar los efectos de los conflictos armados. Protege a las personas que no participan o que han dejado de participar en las hostilidades."
+        ],
+        [
+          "Infracción al DIH / Crimen de guerra",
+          "Violación grave de las leyes y costumbres de la guerra, como atacar a civiles o misiones médicas."
+        ]
+      ],
+      "scheme": "Conflicto armado → Ataque a un hospital (bien civil protegido) → Violación directa de las normas del Derecho Internacional Humanitario (DIH)."
+    },
+    "assessment": {
+      "original_stem": "En el marco de un conflicto armado interno, los comandantes de un grupo insurgente ordenan bombardear un hospital del pueblo, argumentando que en sus instalaciones están siendo atendidos soldados enemigos heridos. El bombardeo destruye el hospital y causa la muerte de decenas de pacientes civiles, médicos y enfermeras. Desde el punto de vista del derecho internacional, ¿cómo se clasifica y juzga este hecho?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Como un acto legítimo de guerra, pues en los conflictos armados está permitido atacar cualquier estructura si el enemigo se refugia allí.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Las leyes de la guerra (DIH) prohíben explícitamente atacar hospitales, incluso si hay combatientes heridos en ellos."
+        },
+        {
+          "label": "B",
+          "text": "Como una infracción al Derecho Internacional Humanitario (DIH), ya que se atacó una misión médica y a población civil protegida.",
+          "is_correct": true,
+          "feedback": "Correcta. El DIH establece reglas claras para los conflictos armados, siendo la protección de la población civil y el personal médico una norma inquebrantable."
+        },
+        {
+          "label": "C",
+          "text": "Como una violación exclusiva a la Constitución Política del país, puesto que el derecho internacional no interviene en conflictos internos.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El DIH (específicamente el Artículo 3 común a los Convenios de Ginebra) aplica plenamente en conflictos armados internos o no internacionales."
+        },
+        {
+          "label": "D",
+          "text": "Como un daño colateral justificado, dado que el objetivo principal del grupo insurgente era neutralizar a los soldados enemigos.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La justificación táctica o la intención de neutralizar al enemigo no eximen de responsabilidad por atacar infraestructuras civiles protegidas."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2021-c1-p05",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Historia de Colombia: El Frente Nacional",
+      "competency": "Pensamiento social",
+      "component": "Tiempo y culturas",
+      "affirmation": "Comprende dimensiones históricas de los problemas y conflictos sociales en Colombia.",
+      "evidence": "Identifica las características y consecuencias políticas del pacto del Frente Nacional.",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 5,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué efecto tuvo para la democracia que solo dos partidos se repartieran el poder durante 16 años?",
+      "context_summary": "Para poner fin a 'La Violencia' partidista y a la dictadura de Rojas Pinilla, los partidos Liberal y Conservador firmaron el Frente Nacional (1958-1974), un acuerdo para alternarse la presidencia y repartirse todos los cargos públicos por mitades iguales.",
+      "takeaway": "El Frente Nacional pacificó el conflicto bipartidista, pero generó una profunda exclusión política al cerrar las vías institucionales a cualquier otro movimiento político.",
+      "analysis": "Esta es una pregunta clásica de análisis histórico. El estudiante debe evaluar los efectos a largo plazo de un pacto político. Si bien el Frente Nacional logró su objetivo inmediato (detener la matanza entre liberales y conservadores y estabilizar el Estado), su diseño institucional prohibía en la práctica que otros movimientos (de izquierda, minorías o independientes) accedieran al poder. Esta exclusión política es considerada por los historiadores como una de las causas del surgimiento de las guerrillas contemporáneas.",
+      "distractors": "Las opciones incorrectas suelen plantear efectos económicos falsos (como la privatización total de la economía) o asumir que el pacto eliminó por completo la violencia en el país (lo cual es falso, pues la violencia mutó hacia grupos insurgentes). Otra opción incorrecta común es afirmar que el Frente Nacional instauró una dictadura militar, cuando en realidad fue el mecanismo civil para salir de una.",
+      "glossary": [
+        [
+          "Frente Nacional",
+          "Pacto político entre liberales y conservadores en Colombia (1958-1974) para alternarse el poder y evitar la competencia electoral de terceros."
+        ],
+        [
+          "Exclusión política",
+          "Imposibilidad o bloqueo institucional que sufren ciertos grupos o movimientos para participar en las elecciones o en el gobierno."
+        ]
+      ],
+      "scheme": "Pacto bipartidista exclusivo → Repartición de cargos solo entre liberales y conservadores → Cierre de espacios para terceros → Exclusión política de nuevos movimientos."
+    },
+    "assessment": {
+      "original_stem": "A mediados del siglo XX, los líderes de los partidos Liberal y Conservador firmaron el acuerdo del Frente Nacional, mediante el cual se alternarían la Presidencia de la República durante 16 años y se repartirían equitativamente los ministerios y cargos públicos. Aunque este acuerdo logró disminuir significativamente la violencia entre los seguidores de ambos partidos, ¿cuál fue una de sus principales consecuencias políticas negativas para la democracia colombiana?",
+      "options": [
+        {
+          "label": "A",
+          "text": "La instauración de una dictadura militar permanente liderada por las Fuerzas Armadas.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El Frente Nacional fue un acuerdo civil que precisamente marcó el fin del gobierno militar del general Gustavo Rojas Pinilla."
+        },
+        {
+          "label": "B",
+          "text": "La exclusión institucional y el cierre de espacios de participación para partidos y movimientos políticos distintos al bipartidismo.",
+          "is_correct": true,
+          "feedback": "Correcta. Al garantizar el poder legalmente solo a dos partidos, el Frente Nacional excluyó y marginó a cualquier otra fuerza política de la época."
+        },
+        {
+          "label": "C",
+          "text": "El aumento de la confrontación armada directa entre los ejércitos oficiales del Partido Liberal y el Partido Conservador.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El acuerdo logró precisamente lo contrario: detener la guerra civil no declarada entre ambos partidos tradicionales."
+        },
+        {
+          "label": "D",
+          "text": "La privatización de todos los servicios públicos y el fin de la intervención del Estado en la economía nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El Frente Nacional fue un acuerdo de naturaleza estrictamente política e institucional, no un modelo de privatización económica."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2021-c1-p20",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Migración, discriminación y derechos",
+      "competency": "Interpretación y Análisis de Perspectivas",
+      "component": "Problemas socioeconómicos y territoriales",
+      "affirmation": "Contextualiza y evalúa usos de fuentes y argumentos.",
+      "evidence": "Identifica conceptos sociales que permiten relacionar diferentes fuentes o problemáticas.",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 20,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué concepto define el rechazo sistemático que sufren los migrantes y minorías en diferentes continentes?",
+      "context_summary": "Se presentan dos fragmentos reales: uno que describe la segregación escolar y residencial de la población gitana en Europa, y otro que narra las fronteras cerradas, deportaciones y crisis que sufren los migrantes haitianos en Suramérica.",
+      "takeaway": "La xenofobia es el rechazo o discriminación dirigida hacia personas extranjeras o minorías étnicas foráneas, un fenómeno global que vulnera los derechos humanos.",
+      "analysis": "El estudiante debe hacer un análisis comparado de dos fuentes geográficamente distantes (Europa y Suramérica) e identificar el factor común subyacente. En ambos casos, poblaciones que son percibidas como 'diferentes' o 'extranjeras' (gitanos y haitianos) sufren políticas de exclusión, negación de derechos y rechazo institucional. El concepto sociopolítico que define exactamente esta aversión u hostilidad hacia el extranjero es la xenofobia.",
+      "distractors": "Las opciones incorrectas son conceptos relacionados con la geografía o política, pero no describen el rechazo. El Patriotismo (B) es el amor por la patria, no necesariamente implica odio al extranjero. El Exilio (C) es ser expulsado del propio país por motivos políticos, pero los textos describen el rechazo al intentar entrar o vivir en otro. La Aculturación (D) es la asimilación de una nueva cultura, lo cual es opuesto a la segregación descrita.",
+      "glossary": [
+        [
+          "Xenofobia",
+          "Odio, rechazo u hostilidad hacia los extranjeros o hacia grupos étnicos diferentes percibidos como forasteros."
+        ],
+        [
+          "Segregación",
+          "Práctica de separar o aislar a grupos de personas, a menudo privándolos de sus derechos básicos (ej. escuelas solo para gitanos)."
+        ]
+      ],
+      "scheme": "Caso 1: Segregación a gitanos (Europa) + Caso 2: Rechazo a migrantes haitianos (Suramérica) → Factor común: Hostilidad al extranjero → Xenofobia."
+    },
+    "assessment": {
+      "original_stem": "Fragmento 1. Este fragmento describe la situación de la población gitana en un país de Europa: 'Aquí, los niños gitanos son enviados a escuelas especiales. Algunos comparten aulas con alumnos discapacitados, otros van a colegios solo para gitanos. Muchos viven en barrios o pueblos separados del resto de la población y sin acceso a los mismos derechos'.\nFragmento 2. Este fragmento describe la situación de la población haitiana en Suramérica: 'Desde Ecuador hasta la Guyana Francesa, los migrantes haitianos enfrentan un rosario cada vez más complejo de situaciones difíciles tales como: cierre de fronteras, amenazas de deportaciones, aumento de requisitos migratorios para ingresar a los territorios, crisis humanitarias'.\n\n¿Cuál de los siguientes conceptos permite relacionar mejor la información presentada en ambos fragmentos?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xenofobia.",
+          "is_correct": true,
+          "feedback": "Correcta. Ambos textos relatan el trato discriminatorio, la segregación y el rechazo institucional dirigido hacia poblaciones por su origen o condición de migrantes."
+        },
+        {
+          "label": "B",
+          "text": "Patriotismo.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El patriotismo es un sentido de pertenencia nacional, mientras que el texto resalta la vulneración y el rechazo social a grupos vulnerables."
+        },
+        {
+          "label": "C",
+          "text": "Exilio.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque algunos migrantes puedan ser exiliados, el texto se enfoca en cómo son tratados al llegar (rechazo/fronteras cerradas), no en el motivo político de su salida."
+        },
+        {
+          "label": "D",
+          "text": "Aculturación.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La aculturación implica integrarse y adoptar la cultura de destino, algo que los fragmentos demuestran que no está ocurriendo debido a la segregación."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2022-c2-p18",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Mecanismos de participación ciudadana",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Conoce los mecanismos que los ciudadanos tienen a su disposición para participar en las decisiones democráticas.",
+      "evidence": "Identifica la revocatoria del mandato como mecanismo de control político y ciudadano a nivel territorial.",
+      "source_year": 2022,
+      "grade": 11,
+      "cuadernillo": 2,
+      "question_number": 18,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué pueden hacer los ciudadanos si su alcalde no cumple las promesas que hizo en campaña?",
+      "context_summary": "Los habitantes de un municipio están profundamente insatisfechos porque su alcalde, tras dos años en el poder, no ha cumplido con las obras prometidas en su plan de gobierno. Deciden organizarse para destituirlo legalmente antes de que termine su periodo.",
+      "takeaway": "La revocatoria del mandato es el mecanismo de participación constitucional que permite a los ciudadanos dar por terminado el periodo de un alcalde o gobernador por incumplimiento de su plan de gobierno.",
+      "analysis": "Esta pregunta evalúa la precisión en el conocimiento de los mecanismos de participación ciudadana. A diferencia de otros mecanismos de consulta (como el plebiscito o la consulta popular) o de los procesos penales/disciplinarios (que hace la Procuraduría o Fiscalía), la Constitución otorga a los ciudadanos el poder político directo de 'despedir' a sus mandatarios locales (alcaldes y gobernadores) si se demuestra insatisfacción general o incumplimiento del programa de gobierno. Este mecanismo se llama Revocatoria del Mandato.",
+      "distractors": "Las opciones incorrectas son otros mecanismos jurídicos y de participación que tienen propósitos distintos. La Acción de Tutela (A) es para proteger derechos fundamentales individuales urgentes. El Plebiscito (B) es para que el Presidente consulte una decisión política. El Cabildo Abierto (D) es una reunión pública del concejo municipal, pero no destituye mandatarios.",
+      "glossary": [
+        [
+          "Revocatoria del mandato",
+          "Derecho político por medio del cual los ciudadanos dan por terminado el mandato que le han conferido a un gobernador o a un alcalde."
+        ],
+        [
+          "Plan de gobierno",
+          "Documento formal de promesas y proyectos que inscribe un candidato al momento de postularse y que está obligado a cumplir si es elegido."
+        ]
+      ],
+      "scheme": "Insatisfacción ciudadana / Incumplimiento de promesas → Mandatario local (Alcalde/Gobernador) → Mecanismo ciudadano de destitución → Revocatoria del mandato."
+    },
+    "assessment": {
+      "original_stem": "Tras cumplirse la mitad del periodo de gobierno, los habitantes de un municipio documentan que el alcalde no ha iniciado ninguna de las obras de infraestructura que prometió formalmente en su plan de gobierno al momento de inscribir su candidatura. Ante la insatisfacción generalizada, un grupo de ciudadanos decide recolectar firmas para convocar a unas votaciones con el fin de destituir al alcalde antes de que termine su periodo. Según la Constitución Política de Colombia, ¿qué mecanismo de participación ciudadana están utilizando?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Una Acción de Tutela, porque se está vulnerando el derecho fundamental de los ciudadanos a tener buenas vías.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La tutela no es un mecanismo de participación democrática para destituir funcionarios, sino una acción judicial para proteger derechos fundamentales individuales."
+        },
+        {
+          "label": "B",
+          "text": "Un Plebiscito, porque están consultando al pueblo sobre una decisión política del poder ejecutivo.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El plebiscito es convocado exclusivamente por el Presidente de la República a nivel nacional, no por los ciudadanos para destituir alcaldes."
+        },
+        {
+          "label": "C",
+          "text": "Una Revocatoria del mandato, porque es el derecho político de los ciudadanos para dar por terminado el periodo de un alcalde por incumplimiento.",
+          "is_correct": true,
+          "feedback": "Correcta. La revocatoria del mandato fue creada específicamente para ejercer control político sobre alcaldes y gobernadores que incumplen su plan de gobierno."
+        },
+        {
+          "label": "D",
+          "text": "Un Cabildo abierto, porque obligan al alcalde a responder públicamente por qué no ha construido las obras.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque el cabildo abierto permite el debate público y pedir explicaciones, no tiene la facultad legal de destituir al mandatario."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2021-c2-p10",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Mecanismos de protección ciudadana",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Conoce los mecanismos de protección de los derechos y normas.",
+      "evidence": "Identifica la Acción de Cumplimiento como mecanismo para hacer acatar la ley.",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 2,
+      "question_number": 10,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué pueden hacer los ciudadanos si un alcalde se niega a aplicar una ley ya aprobada?",
+      "context_summary": "El Congreso aprueba una ley que obliga a todos los municipios a destinar el 5% de su presupuesto a programas de juventud. El alcalde de un municipio decide ignorar la ley y no destinar los fondos.",
+      "takeaway": "La Acción de Cumplimiento es el mecanismo constitucional mediante el cual cualquier ciudadano puede obligar a una autoridad a acatar una ley o un acto administrativo que se niega a cumplir.",
+      "analysis": "Se evalúa la distinción entre mecanismos. No se está vulnerando un derecho fundamental directo a un individuo (lo que sería Tutela), ni un derecho ambiental (Acción Popular). El problema central es la omisión en la aplicación de una ley vigente por parte de un funcionario público. Para obligarlo a cumplir la norma, la herramienta exacta es la Acción de Cumplimiento.",
+      "distractors": "La Acción de Tutela (A) no aplica porque no protege la aplicación de leyes generales. El Derecho de Petición (C) sirve para pedir información, pero no tiene fuerza judicial coercitiva inmediata. La Acción Popular (D) es para proteger derechos colectivos como el medio ambiente.",
+      "glossary": [
+        [
+          "Acción de Cumplimiento",
+          "Mecanismo que permite a los ciudadanos exigir ante un juez que una autoridad o particular en funciones públicas aplique una ley o acto administrativo."
+        ],
+        [
+          "Omisión administrativa",
+          "Fallo o negativa de un funcionario a realizar una acción que la ley le obliga a ejecutar."
+        ]
+      ],
+      "scheme": "Ley aprobada → Alcalde la ignora (Omisión) → Ciudadanos exigen su aplicación → Mecanismo idóneo: Acción de Cumplimiento."
+    },
+    "assessment": {
+      "original_stem": "El Congreso de la República expidió una ley que obliga a todos los municipios del país a conformar un 'Consejo Municipal de Juventudes' y destinarle recursos. A pesar de que la ley ya entró en vigencia, el alcalde de un municipio se niega a acatarla argumentando que tiene otras prioridades. Un grupo de jóvenes quiere acudir a un juez para que obligue al alcalde a aplicar la ley. ¿Cuál es el mecanismo constitucional más adecuado para este fin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "La Acción de Tutela.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La Tutela ampara derechos fundamentales (vida, salud), no el mero cumplimiento de leyes administrativas."
+        },
+        {
+          "label": "B",
+          "text": "La Acción de Cumplimiento.",
+          "is_correct": true,
+          "feedback": "Correcta. Este mecanismo fue diseñado específicamente para combatir la negligencia u omisión de las autoridades frente al cumplimiento de leyes o actos administrativos."
+        },
+        {
+          "label": "C",
+          "text": "El Derecho de Petición.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque pueden pedirlo por esta vía, si el alcalde ya se negó, el derecho de petición no tiene el poder de obligarlo como sí lo hace la orden de un juez."
+        },
+        {
+          "label": "D",
+          "text": "La Acción Popular.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Se utiliza para proteger derechos colectivos como el espacio público o el medio ambiente sano, no para forzar la aplicación de normativas institucionales."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2023-c1-p08",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Estado Social de Derecho",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Comprende la estructura y principios fundamentales de la Constitución de 1991.",
+      "evidence": "Distingue las características del Estado Social de Derecho frente al Estado liberal clásico.",
+      "source_year": 2023,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 8,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué significa que la Constitución defina a Colombia como un 'Estado Social de Derecho'?",
+      "context_summary": "El Artículo 1 de la Constitución de 1991 define a Colombia como un Estado Social de Derecho. Se busca comprender qué implicación tiene la palabra 'Social' en las obligaciones del gobierno hacia los ciudadanos.",
+      "takeaway": "Un Estado Social de Derecho no solo garantiza las libertades básicas, sino que obliga al gobierno a intervenir para asegurar condiciones mínimas de vida digna (salud, educación, vivienda) a los más vulnerables.",
+      "analysis": "Se evalúa el concepto político fundamental del país. En un Estado de Derecho clásico, el gobierno solo debe hacer cumplir la ley y respetar libertades (que nadie te mate o te quite la propiedad). Al agregarle la palabra 'Social' (Constitución de 1991), el Estado asume una responsabilidad activa: debe garantizar la igualdad de oportunidades y la satisfacción de necesidades básicas (derechos sociales y económicos) para alcanzar la justicia social.",
+      "distractors": "Las opciones incorrectas asocian 'Social' con el socialismo marxista (eliminación de la propiedad privada) (A), con un estado militarista (C), o con la mera existencia de leyes (D), lo cual es la definición de Estado de Derecho a secas, perdiendo la característica asistencial y garantista.",
+      "glossary": [
+        [
+          "Estado Social de Derecho",
+          "Modelo de Estado fundamentado en el respeto a la dignidad humana, que tiene como fin garantizar no solo libertades, sino la igualdad de oportunidades y mínimos vitales (salud, educación, etc.)."
+        ],
+        [
+          "Estado de Derecho",
+          "Modelo de Estado donde todos los ciudadanos y autoridades están sometidos al imperio de la ley, pero sin un enfoque garantista de bienestar social."
+        ]
+      ],
+      "scheme": "Estado de Derecho (Sometimiento a la ley) + Funciones asistenciales y redistributivas = Estado Social de Derecho (Garantía de vida digna)."
+    },
+    "assessment": {
+      "original_stem": "El Artículo 1 de la Constitución Política de 1991 establece que 'Colombia es un Estado social de derecho, organizado en forma de República unitaria...'. ¿Qué implicación práctica tiene para los ciudadanos el hecho de que el Estado colombiano sea definido como 'social'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Que el gobierno debe abolir la propiedad privada y las empresas para instaurar un modelo económico comunista.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El Estado Social de Derecho convive con la economía de mercado y la propiedad privada, no es un modelo socialista extremo."
+        },
+        {
+          "label": "B",
+          "text": "Que las autoridades tienen la obligación de intervenir para garantizar condiciones mínimas de vida digna, equidad y bienestar a la población.",
+          "is_correct": true,
+          "feedback": "Correcta. Lo 'social' implica una actitud activa del Estado para corregir desigualdades y garantizar derechos como la salud, educación y vivienda."
+        },
+        {
+          "label": "C",
+          "text": "Que la fuerza pública (Policía y Ejército) tiene poderes ilimitados para mantener el orden social en las calles.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Precisamente, ser un Estado de 'derecho' limita el poder de las fuerzas armadas para proteger los derechos humanos."
+        },
+        {
+          "label": "D",
+          "text": "Que todas las personas deben cumplir las leyes que aprueba el Congreso de la República.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Esa es la definición de 'Estado de Derecho', pero no explica la adición del término 'Social', que se refiere a las garantías de bienestar."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2021-c1-p15",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Guerra Fría en América Latina",
+      "competency": "Pensamiento social",
+      "component": "Tiempo y culturas",
+      "affirmation": "Comprende dimensiones históricas de los problemas y conflictos sociales en Colombia y el mundo.",
+      "evidence": "Identifica el impacto de la Guerra Fría y la Doctrina de Seguridad Nacional en América Latina.",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 15,
+      "difficulty": "alta",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Por qué Estados Unidos apoyó dictaduras militares en Latinoamérica durante los años 70?",
+      "context_summary": "Durante las décadas de 1960 y 1970, varios países latinoamericanos (como Chile y Argentina) sufrieron golpes de Estado apoyados económica y logísticamente por los Estados Unidos, instaurando dictaduras militares que persiguieron a la oposición política.",
+      "takeaway": "En el contexto de la Guerra Fría, EE. UU. promovió la Doctrina de Seguridad Nacional para evitar que el comunismo se expandiera por América Latina tras la Revolución Cubana, apoyando dictaduras anticomunistas.",
+      "analysis": "Se evalúa la comprensión geopolítica histórica. La Guerra Fría dividió al mundo entre el bloque capitalista (liderado por EE. UU.) y el comunista (Unión Soviética). Tras el triunfo de la Revolución Cubana, EE. UU. temía que el comunismo se contagiara al resto del continente. Para evitarlo, financió y apoyó ejércitos y dictaduras de derecha (Doctrina de Seguridad Nacional) dispuestos a aniquilar cualquier movimiento de izquierda, considerando al opositor político interno como el 'enemigo del Estado'.",
+      "distractors": "Los distractores se apartan del criterio central del caso al confundir conceptos cercanos o atribuirle al texto información que no ofrece.",
+      "glossary": [
+        [
+          "Guerra Fría",
+          "Enfrentamiento político, ideológico y militar indirecto que se dio entre Estados Unidos (Capitalismo) y la Unión Soviética (Comunismo) durante la segunda mitad del siglo XX."
+        ],
+        [
+          "Doctrina de Seguridad Nacional",
+          "Ideología militar apoyada por EE. UU. que consideraba que la amenaza principal para América Latina no era un ataque externo, sino la subversión comunista interna."
+        ]
+      ],
+      "scheme": "Guerra Fría → Revolución Cubana alerta a EE. UU. → Estrategia de contención: Doctrina de Seguridad Nacional → Apoyo a dictaduras militares anticomunistas en América Latina."
+    },
+    "assessment": {
+      "original_stem": "Durante las décadas de 1960 y 1970, gran parte de los países de América del Sur, como Chile y Argentina, vivieron golpes de Estado que instauraron férreas dictaduras militares. Estas dictaduras persiguieron sistemáticamente a líderes sindicales, estudiantes y políticos de izquierda. Documentos desclasificados han demostrado que el gobierno de Estados Unidos financió y apoyó estas intervenciones militares. ¿Qué concepto histórico explica mejor el interés de Estados Unidos en apoyar estas dictaduras?",
+      "options": [
+        {
+          "label": "A",
+          "text": "El Imperialismo extractivista, pues buscaban confiscar todo el oro y la plata de los bancos centrales sudamericanos.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La extracción de recursos fue clave en el imperialismo clásico y la colonia, pero el apoyo específico a estas dictaduras obedeció a motivos puramente ideológicos y geopolíticos."
+        },
+        {
+          "label": "B",
+          "text": "La Doctrina de Seguridad Nacional enmarcada en la Guerra Fría, cuyo objetivo era detener la expansión del comunismo en la región.",
+          "is_correct": true,
+          "feedback": "Correcta. Estados Unidos veía cualquier movimiento de izquierda en su 'patio trasero' como una amenaza de la Unión Soviética, por lo que apoyó regímenes de mano dura para exterminar esa ideología."
+        },
+        {
+          "label": "C",
+          "text": "La Alianza para el Progreso, una política que buscaba instaurar repúblicas socialistas aliadas a Norteamérica.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La Alianza para el Progreso fue un plan de ayuda económica, no militar. Además, EE. UU. jamás buscaría instaurar el socialismo."
+        },
+        {
+          "label": "D",
+          "text": "La Guerra contra las Drogas, orientada a destruir los laboratorios de narcotráfico protegidos por guerrillas sudamericanas.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La justificación de la Guerra contra las Drogas tomó fuerza principal como política exterior de EE. UU. en los años 80 y 90, no fue el detonante de las dictaduras del Cono Sur en los 60/70."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2023-c2-p11",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Estructura del Estado: Rama Judicial",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Comprende la estructura, organización y funcionamiento del Estado colombiano.",
+      "evidence": "Identifica las funciones específicas de la Fiscalía General de la Nación.",
+      "source_year": 2023,
+      "grade": 11,
+      "cuadernillo": 2,
+      "question_number": 11,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué entidad del Estado se encarga de investigar los crímenes y acusar a los delincuentes ante los jueces?",
+      "context_summary": "Ocurre un robo millonario en un banco. La Policía captura a los sospechosos, pero es necesario investigar a fondo, recolectar pruebas y presentar a los presuntos culpables ante un juez para que sean juzgados.",
+      "takeaway": "La Fiscalía General de la Nación es la entidad de la Rama Judicial encargada de investigar los delitos, recolectar pruebas y acusar a los presuntos infractores ante los juzgados competentes.",
+      "analysis": "Evalúa el conocimiento de las funciones de la Rama Judicial. Los estudiantes suelen confundir las funciones de la Policía, el Fiscal y el Juez. La Policía captura; el Juez emite la condena y dicta sentencia; pero el 'puente' investigativo, quien arma el caso, busca las pruebas y hace la acusación formal en nombre del Estado, es la Fiscalía General de la Nación.",
+      "distractors": "La Defensoría del Pueblo (A) defiende los derechos humanos, pero no investiga delitos ni acusa criminales. La Procuraduría (B) investiga a los funcionarios públicos (faltas disciplinarias), no delitos comunes. La Corte Constitucional (D) revisa leyes y tutelas, no es un ente de investigación criminal inicial.",
+      "glossary": [
+        [
+          "Fiscalía General de la Nación",
+          "Entidad de la rama judicial encargada de investigar los delitos y acusar a los presuntos infractores ante los juzgados y tribunales competentes."
+        ],
+        [
+          "Rama Judicial",
+          "Poder del Estado encargado de administrar justicia, resolver los conflictos y decidir controversias jurídicas."
+        ]
+      ],
+      "scheme": "Delito cometido (Robo) → Necesidad de investigar y acusar → Entidad responsable → Fiscalía General de la Nación."
+    },
+    "assessment": {
+      "original_stem": "Tras ocurrir el secuestro de un reconocido empresario, las autoridades inician labores para dar con el paradero de la víctima y de sus captores. Una vez los sospechosos son capturados, ¿cuál es la entidad del Estado colombiano encargada por mandato constitucional de investigar los hechos, recolectar las pruebas y presentar la acusación formal contra estas personas ante un juez?",
+      "options": [
+        {
+          "label": "A",
+          "text": "La Defensoría del Pueblo.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La función de la Defensoría es velar por la promoción y protección de los derechos humanos, no ejercer la persecución penal y acusación criminal."
+        },
+        {
+          "label": "B",
+          "text": "La Procuraduría General de la Nación.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La Procuraduría ejerce control disciplinario sobre los funcionarios públicos (alcaldes, ministros, etc.), pero no investiga ni acusa por delitos penales comunes."
+        },
+        {
+          "label": "C",
+          "text": "La Fiscalía General de la Nación.",
+          "is_correct": true,
+          "feedback": "Correcta. La Constitución le asigna directamente a la Fiscalía la función de investigar los delitos (recolectar pruebas) y formular la acusación ante los jueces de conocimiento."
+        },
+        {
+          "label": "D",
+          "text": "La Corte Constitucional.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La Corte Constitucional vela por la integridad de la Constitución y revisa tutelas, no realiza investigaciones penales ni recolecta pruebas de crímenes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2021-c1-p21",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Minería en ecosistemas estratégicos (Páramos)",
+      "competency": "Pensamiento Reflexivo y Sistémico",
+      "component": "Entorno físico y problemáticas ambientales",
+      "affirmation": "Analiza problemáticas ambientales y territoriales a partir de diferentes puntos de vista.",
+      "evidence": "Identifica la tensión entre la protección de las fuentes hídricas y la explotación económica.",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 21,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Por qué el Estado prohíbe la minería en los páramos aunque genere mucho dinero?",
+      "context_summary": "Una empresa multinacional solicita permiso para extraer oro en un ecosistema de páramo, prometiendo grandes ingresos y empleos. El Estado niega la licencia argumentando la importancia ecológica del lugar.",
+      "takeaway": "Los páramos son ecosistemas estratégicos y fábricas naturales de agua, por lo que la ley colombiana prohíbe cualquier actividad extractiva en ellos, priorizando el derecho colectivo al agua sobre el interés económico.",
+      "analysis": "El estudiante debe evaluar el conflicto entre dos dimensiones: la económica (empleo/regalías) y la ambiental (agua/biodiversidad). En Colombia, los páramos son intocables por ley porque proveen más del 70% del agua dulce que consumen las ciudades y campesinos. La decisión del Estado se basa en la protección del recurso hídrico, asumiendo que el daño a la fábrica de agua sería irreversible y más costoso que las ganancias del oro.",
+      "distractors": "Las opciones incorrectas sugieren que el Estado rechazó el proyecto por razones políticas (para favorecer a otra empresa), por proteger sitios turísticos o porque no confía en la tecnología extranjera, ignorando la función vital del páramo como regulador hídrico.",
+      "glossary": [
+        [
+          "Páramo",
+          "Ecosistema de alta montaña fundamental para la captación, retención y regulación del ciclo del agua."
+        ],
+        [
+          "Licencia ambiental",
+          "Permiso otorgado por el Estado para la ejecución de un proyecto que pueda afectar los recursos naturales."
+        ]
+      ],
+      "scheme": "Proyecto minero en páramo → Promesa económica vs. Riesgo hídrico → Negativa del Estado → Prioridad: Protección de las fuentes de agua dulce."
+    },
+    "assessment": {
+      "original_stem": "Una empresa minera internacional solicita una licencia para extraer oro a gran escala en un ecosistema de páramo en Colombia, asegurando que el proyecto generará miles de empleos y altos ingresos en impuestos. A pesar de la crisis económica de la región, el Ministerio de Ambiente niega rotundamente la licencia. Teniendo en cuenta las características de este ecosistema, ¿cuál es la razón principal para prohibir la minería en esta zona?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Porque el Estado prefiere reservar los contratos de extracción de oro exclusivamente para empresas mineras colombianas.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La prohibición en páramos aplica para todas las empresas (nacionales o extranjeras) por igual, es un asunto ecológico, no de nacionalidad de la empresa."
+        },
+        {
+          "label": "B",
+          "text": "Porque la minería arruinaría el paisaje visual, disminuyendo las ganancias del turismo en la alta montaña.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque el turismo se afectaría, la razón principal y legal para prohibir la minería en páramos es la protección del agua, no la estética o el turismo."
+        },
+        {
+          "label": "C",
+          "text": "Porque los páramos son fábricas naturales de agua que abastecen a la población, y su alteración causaría un daño hídrico irreversible.",
+          "is_correct": true,
+          "feedback": "Correcta. Los páramos son ecosistemas estratégicos protegidos constitucionalmente por su función esencial en el ciclo del agua."
+        },
+        {
+          "label": "D",
+          "text": "Porque la tecnología minera actual no es capaz de extraer oro a las bajas temperaturas que se presentan en los páramos.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La tecnología sí existe y es capaz de operar allí; el obstáculo es normativo y ambiental, no tecnológico."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2023-c2-p21",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Justicia Transicional y Verdad",
+      "competency": "Interpretación y Análisis de Perspectivas",
+      "component": "Convivencia y paz",
+      "affirmation": "Analiza conflictos sociales y sus mecanismos de resolución.",
+      "evidence": "Comprende la función de las comisiones de la verdad en procesos de transición hacia la paz.",
+      "source_year": 2023,
+      "grade": 11,
+      "cuadernillo": 2,
+      "question_number": 21,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Para qué sirve crear una Comisión de la Verdad después de una guerra?",
+      "context_summary": "Tras firmar un acuerdo de paz, se crea una Comisión de la Verdad extrajudicial. Víctimas y victimarios relatan sus experiencias para construir un informe sobre lo ocurrido durante la guerra.",
+      "takeaway": "Las Comisiones de la Verdad no buscan meter a nadie a la cárcel, sino esclarecer las causas y patrones del conflicto para reparar moralmente a las víctimas y garantizar la no repetición.",
+      "analysis": "Se analiza el modelo de Justicia Transicional. Una Comisión de la Verdad es 'extrajudicial', es decir, no emite sentencias ni condena a prisión. Su objetivo es histórico y social: escuchar a todas las partes para entender por qué ocurrió la violencia, dignificar a las víctimas dándoles voz y construir un relato colectivo que ayude a sanar a la sociedad y evitar futuros conflictos.",
+      "distractors": "Las opciones incorrectas asumen funciones propias de la justicia penal ordinaria (B, encarcelar) o buscan borrar la memoria (A, olvidar el pasado), lo cual es exactamente lo contrario a la misión de la comisión.",
+      "glossary": [
+        [
+          "Comisión de la Verdad",
+          "Organismo oficial, temporal y extrajudicial que investiga patrones de abusos de derechos humanos ocurridos durante un conflicto."
+        ],
+        [
+          "Justicia Transicional",
+          "Conjunto de medidas judiciales y políticas utilizadas como reparación por las violaciones masivas de derechos humanos."
+        ]
+      ],
+      "scheme": "Acuerdo de paz → Creación de organismo extrajudicial → Recopilación de testimonios → Objetivo: Esclarecimiento histórico, dignificación de víctimas y no repetición."
+    },
+    "assessment": {
+      "original_stem": "Como parte de un acuerdo de paz, el Estado y un grupo armado desmovilizado acuerdan la creación de una Comisión de la Verdad de carácter extrajudicial. Durante tres años, esta comisión recorre el país escuchando a miles de víctimas y excombatientes. ¿Cuál es el propósito principal de este mecanismo de justicia transicional?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Garantizar el olvido institucional de los crímenes cometidos para que la sociedad pueda avanzar sin resentimientos.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La justicia transicional promueve la memoria, no el olvido y la amnesia institucional."
+        },
+        {
+          "label": "B",
+          "text": "Recolectar pruebas penales para asegurar que todos los actores armados reciban las máximas penas de cárcel posibles.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Las comisiones de la verdad son 'extrajudiciales', no juzgan ni envían a prisión; esa es tarea de tribunales especiales o de la justicia ordinaria."
+        },
+        {
+          "label": "C",
+          "text": "Esclarecer los patrones históricos de la violencia para dignificar a las víctimas y sentar bases para la no repetición.",
+          "is_correct": true,
+          "feedback": "Correcta. El fin último de la verdad es entender por qué pasó, reparar moralmente a quienes sufrieron y construir garantías para que la guerra no vuelva a ocurrir."
+        },
+        {
+          "label": "D",
+          "text": "Redactar una nueva Constitución Política que incluya a los excombatientes en los altos cargos del gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La redacción de una Constitución es tarea de una Asamblea Constituyente, no de una Comisión de la Verdad."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-10-2023-c1-p02",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Derecho de Petición",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Conoce los mecanismos de protección de los derechos constitucionales.",
+      "evidence": "Identifica el Derecho de Petición como el mecanismo idóneo para solicitar información a las autoridades.",
+      "source_year": 2023,
+      "grade": 10,
+      "cuadernillo": 1,
+      "question_number": 2,
+      "difficulty": "baja",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué herramienta legal debe usar un ciudadano si necesita que una alcaldía le entregue información pública?",
+      "context_summary": "Un estudiante universitario necesita conocer en qué invirtió la alcaldía el presupuesto del año anterior para realizar una tarea. El funcionario de recepción se niega a darle los documentos.",
+      "takeaway": "El Derecho de Petición es la herramienta fundamental que permite a cualquier persona solicitar y obtener información clara y rápida de las entidades públicas o privadas.",
+      "analysis": "Se evalúa el uso del artículo 23 de la Constitución. Pedir información o copias de documentos públicos es el uso más clásico del Derecho de Petición. Las entidades estatales están obligadas a responder en un plazo máximo (generalmente 15 días). No se necesita una demanda ni un juez para este paso inicial.",
+      "distractors": "La Acción de Tutela (A) protegería el derecho *si* no le responden el derecho de petición, pero primero debe presentarlo. El Habeas Corpus (B) es para detenciones ilegales. La Acción Penal (C) implica denunciar un crimen ante la Fiscalía, lo cual no aplica para pedir una simple información.",
+      "glossary": [
+        [
+          "Derecho de Petición",
+          "Derecho fundamental que tiene toda persona para presentar solicitudes respetuosas a las autoridades por motivos de interés general o particular y obtener pronta resolución."
+        ]
+      ],
+      "scheme": "Ciudadano necesita información pública → Entidad se la niega verbalmente → Mecanismo formal inicial exigido por ley → Derecho de Petición."
+    },
+    "assessment": {
+      "original_stem": "Para su proyecto de grado, un estudiante universitario acude a la alcaldía de su ciudad para solicitar las copias de los contratos de pavimentación del año anterior. En la recepción le dicen que esa información es confidencial y no se la pueden entregar verbalmente. Según la Constitución, ¿cuál es el mecanismo formal que debe presentar el estudiante para exigir una respuesta oficial y la entrega de esta información pública?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Una Acción de Tutela.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Aunque la tutela protege los derechos, para pedir información administrativa ordinaria primero se debe agotar el derecho de petición."
+        },
+        {
+          "label": "B",
+          "text": "Un recurso de Habeas Corpus.",
+          "is_correct": false,
+          "feedback": "Incorrecta. El habeas corpus solo se utiliza para proteger el derecho a la libertad personal frente a un arresto ilegal."
+        },
+        {
+          "label": "C",
+          "text": "Una denuncia por Acción Penal.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Negar información verbalmente en una recepción no constituye un delito penal inmediato; requiere un trámite administrativo previo."
+        },
+        {
+          "label": "D",
+          "text": "Un Derecho de Petición.",
+          "is_correct": true,
+          "feedback": "Correcta. El derecho de petición es el instrumento jurídico primario y adecuado para solicitar información y documentos a las autoridades."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-10-2021-c2-p04",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Creación de la ONU tras la Segunda Guerra Mundial",
+      "competency": "Pensamiento social",
+      "component": "Tiempo y culturas",
+      "affirmation": "Comprende dimensiones históricas de los problemas y conflictos sociales en el mundo.",
+      "evidence": "Identifica el contexto histórico de la creación de las Naciones Unidas.",
+      "source_year": 2021,
+      "grade": 10,
+      "cuadernillo": 2,
+      "question_number": 4,
+      "difficulty": "baja",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué evento histórico obligó al mundo a crear una organización para evitar otra guerra global?",
+      "context_summary": "En 1945, delegados de 50 naciones se reunieron en San Francisco para firmar la Carta de las Naciones Unidas (ONU), estableciendo un organismo diseñado para mantener la paz mundial y prevenir futuros conflictos a gran escala.",
+      "takeaway": "La Organización de las Naciones Unidas (ONU) fue creada inmediatamente después de la devastación de la Segunda Guerra Mundial con el objetivo supremo de evitar que la humanidad repitiera un conflicto de esa magnitud.",
+      "analysis": "Se evalúa cronología y causalidad histórica. El fracaso de la antigua Sociedad de Naciones y las atrocidades del Holocausto y las bombas atómicas en 1945 (fin de la Segunda Guerra Mundial) dejaron claro que la diplomacia global necesitaba un organismo más fuerte. Por eso se funda la ONU.",
+      "distractors": "Las opciones incorrectas plantean eventos de otras épocas. La Primera Guerra Mundial (A) dio origen a la Sociedad de Naciones. La Guerra Fría (C) fue el conflicto que *siguió* a la Segunda Guerra. La Caída del Muro de Berlín (D) ocurrió en 1989, mucho tiempo después de la creación de la ONU.",
+      "glossary": [
+        [
+          "ONU",
+          "Organización de las Naciones Unidas, mayor organización internacional existente, creada para mantener la paz y seguridad internacionales."
+        ],
+        [
+          "Segunda Guerra Mundial",
+          "Conflicto militar global (1939-1945) que dejó decenas de millones de muertos y motivó la creación del sistema internacional moderno."
+        ]
+      ],
+      "scheme": "Atrocidades de la Segunda Guerra Mundial (1945) → Necesidad de evitar la extinción humana → Firma de la Carta de San Francisco → Creación de la ONU."
+    },
+    "assessment": {
+      "original_stem": "El 24 de octubre de 1945 entró en vigor la Carta que fundó oficialmente a la Organización de las Naciones Unidas (ONU). Los países firmantes se comprometieron a preservar a las generaciones venideras del flagelo de la guerra y a reafirmar la fe en los derechos fundamentales. ¿Cuál fue el evento histórico inmediato que impulsó a la comunidad internacional a crear este organismo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Las trincheras y el uso de gas mostaza en la Primera Guerra Mundial.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Tras la Primera Guerra se creó la Sociedad de las Naciones, que fracasó en su intento de mantener la paz."
+        },
+        {
+          "label": "B",
+          "text": "La devastación mundial y las millones de muertes dejadas por la Segunda Guerra Mundial.",
+          "is_correct": true,
+          "feedback": "Correcta. El impacto destructivo del Eje y los Aliados hasta 1945 fue el detonante directo para rediseñar el orden mundial a través de la ONU."
+        },
+        {
+          "label": "C",
+          "text": "La amenaza de misiles nucleares en Cuba durante la Guerra Fría.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La Crisis de los Misiles en Cuba ocurrió en 1962, casi dos décadas después de que la ONU ya existiera."
+        },
+        {
+          "label": "D",
+          "text": "La disolución de la Unión Soviética tras la caída del Muro de Berlín.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Estos eventos corresponden al fin de la Guerra Fría (1989-1991), mucho tiempo después de la creación de la ONU."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2023-c1-p23",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Derechos de las Comunidades Negras (Ley 70 de 1993)",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Comprende la estructura y principios fundamentales de la Constitución de 1991.",
+      "evidence": "Reconoce los alcances de la legislación étnica y la titulación colectiva para comunidades afrodescendientes.",
+      "source_year": 2023,
+      "grade": 11,
+      "cuadernillo": 1,
+      "question_number": 23,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué ley protege las tierras y la cultura de las comunidades afrocolombianas del Pacífico?",
+      "context_summary": "Una comunidad afrodescendiente que ha habitado las riberas de un río en el Pacífico por siglos exige que el Estado les reconozca legalmente la propiedad de la tierra para evitar ser desplazados por madereras.",
+      "takeaway": "La Ley 70 de 1993 reglamentó la Constitución para otorgar propiedad colectiva (títulos inalienables) a las comunidades negras sobre las tierras baldías que han ocupado ancestralmente.",
+      "analysis": "Como mandato de la Constitución de 1991 (multiculturalismo), se expidió la Ley 70 de 1993. Esta ley reconoció que los afrocolombianos (comunidades negras) no son solo ciudadanos con derechos individuales, sino una minoría étnica con derechos sobre su territorio ancestral. La ley creó la figura de los 'Consejos Comunitarios' y la 'titulación colectiva', garantizando que sus tierras ribereñas no puedan ser vendidas ni embargadas, protegiendo así su subsistencia frente a intereses empresariales.",
+      "distractors": "Las opciones incorrectas plantean medidas irreales o ilegales. La A asume que el Estado les compra apartamentos (falso, se protege el territorio ancestral rural). La B propone deportación, un absurdo. La C menciona 'resguardos', pero esa es la figura legal exclusiva para indígenas; para los afrodescendientes se habla de tierras de comunidades negras o títulos colectivos.",
+      "glossary": [
+        [
+          "Ley 70 de 1993",
+          "Ley que reconoce a las comunidades negras que han venido ocupando tierras baldías en zonas rurales ribereñas, el derecho a la propiedad colectiva."
+        ],
+        [
+          "Propiedad colectiva",
+          "Terreno que pertenece a toda una comunidad étnica en conjunto y que, por ley, es inalienable, imprescriptible e inembargable."
+        ]
+      ],
+      "scheme": "Ocupación histórica afrocolombiana en el Pacífico → Amenaza de despojo maderero → Protección estatal (Ley 70) → Titulación de tierras colectivas."
+    },
+    "assessment": {
+      "original_stem": "Las comunidades afrodescendientes de la cuenca del Pacífico colombiano se han enfrentado durante años a la amenaza de ser desalojadas de sus territorios tradicionales por parte de grandes empresas madereras y mineras. Para proteger su cultura y permanencia en el territorio, los líderes afrocolombianos acuden a la legislación especial derivada de la Constitución de 1991. ¿Qué garantía específica les otorga el Estado colombiano a estas comunidades a través de la Ley 70 de 1993?",
+      "options": [
+        {
+          "label": "A",
+          "text": "El derecho a ser reubicados en viviendas de interés social en el centro de las principales ciudades del país.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La ley busca preservar su arraigo cultural en su propio territorio rural, no promover la urbanización forzada."
+        },
+        {
+          "label": "B",
+          "text": "La concesión del derecho exclusivo de la explotación petrolera en alta mar para enriquecer a los líderes de la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecta. La ley protege sus prácticas tradicionales de producción y la tierra baldía ribereña, no otorga derechos sobre monopolios petroleros."
+        },
+        {
+          "label": "C",
+          "text": "La entrega de tierras bajo la figura legal de resguardos indígenas para evitar el pago de impuestos.",
+          "is_correct": false,
+          "feedback": "Incorrecta. Los resguardos son la figura de propiedad colectiva para los pueblos indígenas; la Ley 70 creó una figura distinta para las comunidades negras."
+        },
+        {
+          "label": "D",
+          "text": "El reconocimiento legal de la propiedad colectiva sobre las tierras baldías rurales que han ocupado de manera ancestral.",
+          "is_correct": true,
+          "feedback": "Correcta. La esencia de la Ley 70 es otorgar títulos colectivos a las comunidades negras para blindar su territorio contra el despojo de terceros."
+        }
+      ]
+    }
+  },
+  {
+    "id": "soc-11-2021-c2-p05",
+    "metadata": {
+      "area": "Ciencias Sociales y Competencias Ciudadanas",
+      "theme": "Organismos internacionales (OEA vs ONU)",
+      "competency": "Pensamiento social",
+      "component": "Estado, Constitución y organización política",
+      "affirmation": "Comprende la estructura del ordenamiento internacional.",
+      "evidence": "Diferencia la competencia territorial de los organismos multilaterales (OEA).",
+      "source_year": 2021,
+      "grade": 11,
+      "cuadernillo": 2,
+      "question_number": 5,
+      "difficulty": "media",
+      "source": "Evaluar para Avanzar"
+    },
+    "pedagogy": {
+      "guiding_question": "¿Qué organismo internacional interviene en las disputas que ocurren únicamente dentro de América?",
+      "context_summary": "Surge un conflicto diplomático grave entre dos países fronterizos de América del Sur. Se convoca de urgencia a un organismo multilateral hemisférico con sede en Washington para mediar en la disputa.",
+      "takeaway": "Mientras que la ONU tiene competencia global, la OEA (Organización de los Estados Americanos) es el foro político y diplomático específico para resolver conflictos entre los países del continente americano.",
+      "analysis": "Se evalúa el conocimiento sobre geografía política internacional. Existen organismos mundiales (como la ONU) y organismos regionales. Cuando el conflicto es estrictamente hemisférico (entre países de América Latina o Norteamérica), el primer espacio de mediación y diplomacia es la Organización de los Estados Americanos (OEA), creada para fomentar la paz, la democracia y los derechos humanos específicamente en el continente americano.",
+      "distractors": "La Unión Europea (A) agrupa países de otro continente. La OTAN (C) es una alianza militar de defensa del Atlántico Norte, no un organismo de mediación sudamericano. La OMS (D) se encarga de problemas de salud pública mundial, no de conflictos territoriales o diplomáticos.",
+      "glossary": [
+        [
+          "OEA",
+          "Organización de los Estados Americanos. Organismo regional que agrupa a las naciones del hemisferio occidental (América) para promover el diálogo y la paz."
+        ],
+        [
+          "Multilateralismo",
+          "Cooperación entre tres o más países para alcanzar objetivos comunes o resolver problemas internacionales."
+        ]
+      ],
+      "scheme": "Conflicto diplomático en Suramérica → Necesidad de mediación regional → Organismo con competencia en el hemisferio → OEA."
+    },
+    "assessment": {
+      "original_stem": "Las tensiones fronterizas entre dos países suramericanos alcanzan un punto crítico tras la expulsión mutua de sus embajadores. Antes de recurrir a instancias globales o a un tribunal internacional, los ministros de relaciones exteriores de todo el continente son convocados a una asamblea extraordinaria en Washington para servir como mediadores y evitar un conflicto bélico regional. ¿Cuál es la organización multilateral encargada de convocar este espacio de diálogo americano?",
+      "options": [
+        {
+          "label": "A",
+          "text": "La Unión Europea (UE).",
+          "is_correct": false,
+          "feedback": "Incorrecta. La UE es un bloque económico y político exclusivo de países europeos, no tiene jurisdicción ni asambleas de países suramericanos."
+        },
+        {
+          "label": "B",
+          "text": "La Organización de los Estados Americanos (OEA).",
+          "is_correct": true,
+          "feedback": "Correcta. La OEA es el principal foro político de la región, diseñado para resolver pacíficamente las controversias entre las naciones del continente americano."
+        },
+        {
+          "label": "C",
+          "text": "La Organización del Tratado del Atlántico Norte (OTAN).",
+          "is_correct": false,
+          "feedback": "Incorrecta. La OTAN es una alianza militar defensiva liderada por potencias occidentales y europeas, no es un foro de mediación diplomática interamericana."
+        },
+        {
+          "label": "D",
+          "text": "La Organización Mundial de la Salud (OMS).",
+          "is_correct": false,
+          "feedback": "Incorrecta. La OMS es la agencia de la ONU especializada en salud pública global, no interviene en crisis políticas fronterizas."
+        }
+      ]
+    }
   }
 ];
+
