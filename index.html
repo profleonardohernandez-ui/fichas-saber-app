@@ -16,7 +16,14 @@
         <p>Preguntas tipo Saber para análisis en clase y repaso autónomo.</p>
       </div>
     </div>
-    <button class="compact-btn" id="openDrawer">Explorar fichas</button>
+
+    <div class="top-actions">
+      <div class="mode-switch" aria-label="Modo de uso">
+        <button class="mode-btn" id="modeClassroom" type="button">Modo aula</button>
+        <button class="mode-btn" id="modeStudy" type="button">Modo estudio</button>
+      </div>
+      <button class="compact-btn" id="openDrawer" type="button">Explorar fichas</button>
+    </div>
   </div>
 
   <section class="slide">
@@ -28,8 +35,10 @@
         </div>
         <h2 id="title"></h2>
         <p id="context"></p>
+        <p class="mode-hint" id="modeHint"></p>
         <button class="reveal-btn" id="revealBtn" type="button">Desplegar pregunta</button>
       </div>
+
       <div class="hero-status" id="heroStatus">
         <span class="status-badge status-current" id="statusCurrent"></span>
         <span class="status-badge status-good" id="statusGood"></span>
@@ -46,6 +55,10 @@
         </div>
 
         <div class="options" id="options"></div>
+
+        <div class="assistive-actions" id="assistiveActions">
+          <button class="mini-btn secondary" id="revealVerdictBtn" type="button">Revelar veredicto</button>
+        </div>
       </div>
 
       <div class="feedback" id="feedback">
@@ -53,19 +66,19 @@
         <p id="feedbackMain"></p>
         <p id="feedbackSide"></p>
         <div class="feedback-actions">
-          <button class="mini-btn warn" id="retryBtn">↺ Reintentar esta ficha</button>
+          <button class="mini-btn warn" id="retryBtn" type="button">↺ Reintentar esta ficha</button>
         </div>
       </div>
 
       <div class="rating" id="rating">
-        <button data-rate="hard">Me costó</button>
-        <button data-rate="ok">Ya casi</button>
-        <button data-rate="easy">La tengo clara</button>
+        <button data-rate="hard" type="button">Me costó</button>
+        <button data-rate="ok" type="button">Ya casi</button>
+        <button data-rate="easy" type="button">La tengo clara</button>
       </div>
 
       <div class="extra" id="extra">
         <h3>Lectura pedagógica</h3>
-                <p id="analysis"></p>
+        <p id="analysis"></p>
         <p id="distractors"></p>
         <div class="glossary" id="glossary"></div>
       </div>
@@ -77,28 +90,32 @@
     </div>
 
     <div class="nav">
-      <button class="mini-btn" id="prevBtn">← Anterior</button>
+      <button class="mini-btn" id="prevBtn" type="button">← Anterior</button>
       <div>
         <div class="counter" id="counter"></div>
         <div class="dots" id="dots"></div>
       </div>
-      <button class="mini-btn" id="smartBtn">Repaso inteligente</button>
-      <button class="mini-btn" id="nextBtn">Siguiente →</button>
+      <button class="mini-btn" id="smartBtn" type="button">Repaso inteligente</button>
+      <button class="mini-btn" id="nextBtn" type="button">Siguiente →</button>
     </div>
   </section>
 </div>
 
 <div class="drawer" id="drawer">
   <div class="panel">
-    <div style="display:flex;justify-content:space-between;gap:12px;align-items:center;">
+    <div class="panel-head">
       <h3>Explorar fichas</h3>
-      <button class="mini-btn" id="closeDrawer">Cerrar</button>
+      <button class="mini-btn" id="closeDrawer" type="button">Cerrar</button>
     </div>
-    <p style="color:var(--muted);line-height:1.6;margin-top:0;">Aquí puedes filtrar la secuencia y saltar directamente a cualquier ficha.</p>
+
+    <p class="panel-copy">
+      Aquí puedes filtrar la secuencia y saltar directamente a cualquier ficha.
+    </p>
+
     <div class="filter-grid">
       <div>
         <label for="search">Buscar</label>
-        <input id="search" placeholder="Ej.: Congreso, igualdad, voto..." />
+        <input id="search" placeholder="Ej.: Congreso, igualdad, voto...">
       </div>
       <div>
         <label for="themeFilter">Subtema</label>
@@ -113,9 +130,11 @@
         <select id="yearFilter"></select>
       </div>
     </div>
+
     <div class="mini-list" id="miniList"></div>
   </div>
 </div>
+
 <script src="database.js"></script>
 <script src="app.js"></script>
 </body>
