@@ -1,5 +1,85 @@
-const cards = window.DATABASE || [];
-const STORE = "fichas-saber-app-v2";
+const rawCards = window.DATABASE || [];
+const STORE = "fichas-saber-app-v3";
+
+/**
+ * Normaliza una ficha para que la app pueda leer:
+ * 1) el modelo antiguo
+ * 2) el modelo nuevo con metadata / pedagogy / assessment
+ */
+function normalizeCard(raw, index) {
+  const isNewModel = raw && raw.metadata && raw.pedagogy && raw.assessment;
+
+  if (isNewModel) {
+    const metadata = raw.metadata || {};
+    const pedagogy = raw.pedagogy || {};
+    const assessment = raw.assessment || {};
+
+    const normalizedOptions = (assessment.options || []).map((opt) => ({
+      label: opt.label || opt.id || "",
+      text: opt.text || "",
+      correct: Boolean(opt.correct ?? opt.is_correct),
+      why: opt.why || opt.feedback || ""
+    }));
+
+    return {
+      id: raw.id || `card-${index + 1}`,
+      theme: metadata.theme || metadata.subtheme || metadata.component || "Sin tema",
+      area: metadata.area || "",
+      competency: metadata.competency || metadata.competencia || "",
+      component: metadata.component || metadata.componente || "",
+      affirmation: metadata.affirmation || metadata.afirmacion || "",
+      evidence: metadata.evidence || metadata.evidencia || "",
+      difficulty: metadata.difficulty || metadata.difficulty_level || "",
+      year: String(metadata.source_year || metadata.year || ""),
+      grade: String(metadata.grade || ""),
+      cuad: String(metadata.cuadernillo || metadata.cuad || ""),
+      q: String(metadata.question_number || metadata.q || ""),
+      source: metadata.source || metadata.source_file || "",
+      title: pedagogy.guiding_question || pedagogy.title || "Ficha de estudio",
+      context: pedagogy.context_summary || pedagogy.caseSummary || "",
+      takeaway: pedagogy.takeaway || "",
+      analysis: pedagogy.analysis || "",
+      distractors: pedagogy.distractors || "",
+      glossary: pedagogy.glossary || [],
+      scheme: pedagogy.scheme || "",
+      stem: assessment.original_stem || assessment.stem || "",
+      options: normalizedOptions
+    };
+  }
+
+  // Compatibilidad con el modelo antiguo
+  return {
+    id: raw.id || `card-${index + 1}`,
+    theme: raw.theme || "Sin tema",
+    area: raw.area || "",
+    competency: raw.competency || raw.competencia || "",
+    component: raw.component || raw.componente || "",
+    affirmation: raw.affirmation || raw.afirmacion || "",
+    evidence: raw.evidence || raw.evidencia || "",
+    difficulty: raw.difficulty || "",
+    year: String(raw.year || ""),
+    grade: String(raw.grade || ""),
+    cuad: String(raw.cuad || ""),
+    q: String(raw.q || ""),
+    source: raw.source || "",
+    title: raw.title || raw.prompt || "Ficha de estudio",
+    context: raw.context || raw.caseSummary || "",
+    takeaway: raw.takeaway || "",
+    analysis: raw.analysis || "",
+    distractors: raw.distractors || "",
+    glossary: raw.glossary || [],
+    scheme: raw.scheme || "",
+    stem: raw.stem || "",
+    options: (raw.options || []).map((opt) => ({
+      label: opt.label || "",
+      text: opt.text || "",
+      correct: Boolean(opt.correct ?? opt.is_correct),
+      why: opt.why || opt.feedback || ""
+    }))
+  };
+}
+
+const cards = rawCards.map(normalizeCard);
 
 const state = {
   index: 0,
@@ -52,7 +132,7 @@ function stripQuestionNumber(text) {
 }
 
 function uniq(key) {
-  return [...new Set(cards.map((c) => c[key]))];
+  return [...new Set(cards.map((c) => c[key]).filter(Boolean))];
 }
 
 function renderSelect(id, values, label) {
@@ -78,6 +158,11 @@ function filteredCards() {
       c.title,
       c.context,
       c.theme,
+      c.area,
+      c.competency,
+      c.component,
+      c.affirmation,
+      c.evidence,
       c.takeaway,
       c.analysis,
       c.stem || ""
@@ -114,7 +199,8 @@ function correctOption(card) {
 function statusFor(card) {
   const ans = answerFor(card.id);
   if (!ans) return "pending";
-  return ans === correctOption(card).label ? "correct" : "wrong";
+  const correct = correctOption(card);
+  return correct && ans === correct.label ? "correct" : "wrong";
 }
 
 function clearCurrentViewState() {
@@ -206,8 +292,8 @@ function render() {
 
   revealBtn.style.display = "inline-flex";
 
-  chipTheme.textContent = slide.theme;
-  chipSource.textContent = `${slide.year} · ${slide.grade}° · C${slide.cuad} · P${slide.q}`;
+  chipTheme.textContent = slide.theme || "Sin tema";
+  chipSource.textContent = `${slide.year || "—"} · ${slide.grade || "—"}° · C${slide.cuad || "—"} · P${slide.q || "—"}`;
   title.textContent = slide.title;
   context.textContent = slide.context;
   questionPrompt.innerHTML = nl2br(
@@ -288,10 +374,14 @@ function render() {
 
     resultBadge.textContent = ok
       ? "Respuesta acertada"
-      : `Marcaste ${currentActive} · la correcta era ${correct.label}`;
+      : `Marcaste ${currentActive} · la correcta era ${correct ? correct.label : "?"}`;
     resultBadge.className = "result " + (ok ? "good" : "bad");
 
-    feedbackMain.textContent = correct.why || slide.analysis || "Revisa la justificación pedagógica.";
+    feedbackMain.textContent =
+      (correct && correct.why) ||
+      slide.analysis ||
+      "Revisa la justificación pedagógica.";
+
     feedbackSide.textContent = slide.takeaway ? `Idea clave: ${slide.takeaway}` : "";
 
     feedback.classList.add("visible");
@@ -493,7 +583,7 @@ document.getElementById("modeStudy").onclick = () => {
 
 renderSelect(
   "themeFilter",
-  [...new Set(cards.map((c) => c.theme))],
+  uniq("theme"),
   "Todos los subtemas"
 );
 renderSelect("gradeFilter", uniq("grade"), "Todos los grados");
