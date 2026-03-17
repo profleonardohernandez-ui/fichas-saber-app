@@ -1,5 +1,86 @@
-const rawCards = window.DATABASE || [];
-const STORE = "fichas-saber-app-v3";
+function resolveRawCards() {
+  try {
+    if (typeof DATABASE !== "undefined" && Array.isArray(DATABASE)) {
+      return DATABASE;
+    }
+  } catch (e) {}
+
+  if (Array.isArray(window.DATABASE)) return window.DATABASE;
+  if (Array.isArray(globalThis.DATABASE)) return globalThis.DATABASE;
+
+  console.warn("No se encontró una base de datos válida en DATABASE.");
+  return [];
+}
+
+const rawCards = resolveRawCards();
+const STORE = "fichas-saber-app-v4";
+
+function cleanInlineText(text) {
+  return String(text || "")
+    .replace(/\s+/g, " ")
+    .replace(/\s+([,.;:!?])/g, "$1")
+    .trim();
+}
+
+function cleanBlockText(text) {
+  return String(text || "")
+    .replace(/\r/g, "")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function normalizeCompare(text) {
+  return cleanInlineText(text)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[¿?¡!.,;:()"']/g, "")
+    .toLowerCase();
+}
+
+function extractLastQuestion(text) {
+  const source = String(text || "");
+  const matches = source.match(/¿[^?]+\?/g);
+  if (matches && matches.length) return cleanInlineText(matches[matches.length - 1]);
+  return "";
+}
+
+function stripTrailingQuestion(text) {
+  const source = cleanBlockText(text);
+  const lastQuestion = extractLastQuestion(source);
+  if (!lastQuestion) return source;
+  const idx = source.lastIndexOf(lastQuestion);
+  if (idx === -1) return source;
+  return cleanBlockText(source.slice(0, idx));
+}
+
+function looksRepeatedAgainstStem(title, stem) {
+  const a = normalizeCompare(title);
+  const b = normalizeCompare(extractLastQuestion(stem));
+  return Boolean(a && b && (a === b || a.includes(b) || b.includes(a)));
+}
+
+function pickDisplayTitle(card) {
+  const preferred = cleanInlineText(card.title || "");
+  const stemQuestion = cleanInlineText(extractLastQuestion(card.stem || ""));
+
+  if (preferred && !looksRepeatedAgainstStem(preferred, card.stem || "")) {
+    return preferred;
+  }
+
+  if (preferred) return preferred;
+  if (stemQuestion) return stemQuestion;
+  return "Ficha de estudio";
+}
+
+function pickDisplayContext(card) {
+  const preferred = cleanBlockText(card.context || "");
+  const stemBody = stripTrailingQuestion(card.stem || "");
+
+  if (preferred) return preferred;
+  if (stemBody) return stemBody;
+  return "";
+}
 
 /**
  * Normaliza una ficha para que la app pueda leer:
@@ -15,10 +96,10 @@ function normalizeCard(raw, index) {
     const assessment = raw.assessment || {};
 
     const normalizedOptions = (assessment.options || []).map((opt) => ({
-      label: opt.label || opt.id || "",
-      text: opt.text || "",
+      label: cleanInlineText(opt.label || opt.id || ""),
+      text: cleanBlockText(opt.text || ""),
       correct: Boolean(opt.correct ?? opt.is_correct),
-      why: opt.why || opt.feedback || ""
+      why: cleanBlockText(opt.why || opt.feedback || "")
     }));
 
     return {
@@ -35,14 +116,14 @@ function normalizeCard(raw, index) {
       cuad: String(metadata.cuadernillo || metadata.cuad || ""),
       q: String(metadata.question_number || metadata.q || ""),
       source: metadata.source || metadata.source_file || "",
-      title: pedagogy.guiding_question || pedagogy.title || "Ficha de estudio",
-      context: pedagogy.context_summary || pedagogy.caseSummary || "",
-      takeaway: pedagogy.takeaway || "",
-      analysis: pedagogy.analysis || "",
-      distractors: pedagogy.distractors || "",
-      glossary: pedagogy.glossary || [],
-      scheme: pedagogy.scheme || "",
-      stem: assessment.original_stem || assessment.stem || "",
+      title: cleanInlineText(pedagogy.guiding_question || pedagogy.title || "Ficha de estudio"),
+      context: cleanBlockText(pedagogy.context_summary || pedagogy.caseSummary || ""),
+      takeaway: cleanBlockText(pedagogy.takeaway || ""),
+      analysis: cleanBlockText(pedagogy.analysis || ""),
+      distractors: cleanBlockText(pedagogy.distractors || ""),
+      glossary: Array.isArray(pedagogy.glossary) ? pedagogy.glossary : [],
+      scheme: cleanBlockText(pedagogy.scheme || ""),
+      stem: cleanBlockText(assessment.original_stem || assessment.stem || ""),
       options: normalizedOptions
     };
   }
@@ -62,19 +143,19 @@ function normalizeCard(raw, index) {
     cuad: String(raw.cuad || ""),
     q: String(raw.q || ""),
     source: raw.source || "",
-    title: raw.title || raw.prompt || "Ficha de estudio",
-    context: raw.context || raw.caseSummary || "",
-    takeaway: raw.takeaway || "",
-    analysis: raw.analysis || "",
-    distractors: raw.distractors || "",
-    glossary: raw.glossary || [],
-    scheme: raw.scheme || "",
-    stem: raw.stem || "",
+    title: cleanInlineText(raw.title || raw.prompt || "Ficha de estudio"),
+    context: cleanBlockText(raw.context || raw.caseSummary || ""),
+    takeaway: cleanBlockText(raw.takeaway || ""),
+    analysis: cleanBlockText(raw.analysis || ""),
+    distractors: cleanBlockText(raw.distractors || ""),
+    glossary: Array.isArray(raw.glossary) ? raw.glossary : [],
+    scheme: cleanBlockText(raw.scheme || ""),
+    stem: cleanBlockText(raw.stem || ""),
     options: (raw.options || []).map((opt) => ({
-      label: opt.label || "",
-      text: opt.text || "",
+      label: cleanInlineText(opt.label || ""),
+      text: cleanBlockText(opt.text || ""),
       correct: Boolean(opt.correct ?? opt.is_correct),
-      why: opt.why || opt.feedback || ""
+      why: cleanBlockText(opt.why || opt.feedback || "")
     }))
   };
 }
@@ -292,10 +373,13 @@ function render() {
 
   revealBtn.style.display = "inline-flex";
 
+  const displayTitle = pickDisplayTitle(slide);
+  const displayContext = pickDisplayContext(slide);
+
   chipTheme.textContent = slide.theme || "Sin tema";
   chipSource.textContent = `${slide.year || "—"} · ${slide.grade || "—"}° · C${slide.cuad || "—"} · P${slide.q || "—"}`;
-  title.textContent = slide.title;
-  context.textContent = slide.context;
+  title.textContent = displayTitle;
+  context.textContent = displayContext;
   questionPrompt.innerHTML = nl2br(
     stripQuestionNumber(
       slide.stem || "Selecciona la opción que mejor resuelve la situación."
@@ -465,7 +549,9 @@ function render() {
     const status = statusFor(row);
 
     dot.className = `dot ${status}` + (idx === state.index ? " active" : "");
-    dot.title = `${idx + 1}. ${row.title} · ${
+    const rowDisplayTitle = pickDisplayTitle(row);
+
+    dot.title = `${idx + 1}. ${rowDisplayTitle} · ${
       status === "correct"
         ? "correcta"
         : status === "wrong"
@@ -492,7 +578,7 @@ function render() {
       "mini-card" + (idx === state.index ? " active" : "") + " " + status;
 
     card.innerHTML = `
-      <strong>${escHtml(row.title)}</strong>
+      <strong>${escHtml(pickDisplayTitle(row))}</strong>
       <div class="meta">
         ${escHtml(row.theme)} · ${escHtml(row.year)} · ${escHtml(row.grade)}° · C${escHtml(row.cuad)} · P${escHtml(row.q)}
       </div>
